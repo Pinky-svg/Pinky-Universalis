@@ -1,0 +1,6 @@
+owner = CIV
+controller = CIV
+add_core = GRP
+
+trade_goods = rubber
+life_rating = 0

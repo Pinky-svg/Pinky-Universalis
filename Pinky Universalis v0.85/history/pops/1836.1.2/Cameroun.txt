@@ -1,0 +1,375 @@
+#Cameroun Region (728000)
+#uncolonized in 1836/ruled by the Kings of Duala
+#Douala (328000/82000 POPS)
+1956 = {
+	aristocrats = {
+		culture = forest_bantu
+		religion = animist
+		size = 3350
+	}
+
+	officers = {
+		culture = forest_bantu
+		religion = animist
+		size = 300
+	}
+
+	clergymen = {
+		culture = forest_bantu
+		religion = animist
+		size = 1650
+	}
+
+	artisans = {
+		culture = forest_bantu
+		religion = animist
+		size = 6600
+	}
+
+	soldiers = {
+		culture = forest_bantu
+		religion = animist
+		size = 1650
+	}
+
+	zbankers = {
+		culture = forest_bantu
+		religion = animist
+		size = 122450
+	}
+
+	slaves = {
+		culture = forest_bantu
+		religion = animist
+		size = 28000
+	}
+}
+#Buea (224000/56000 POPS)
+1957 = {
+	aristocrats = {
+		culture = tiv
+		religion = animist
+		size = 2150
+	}
+
+	clergymen = {
+		culture = tiv
+		religion = animist
+		size = 1100
+	}
+
+	artisans = {
+		culture = tiv
+		religion = animist
+		size = 4500
+	}
+
+	soldiers = {
+		culture = tiv
+		religion = animist
+		size = 1100
+	}
+
+	zbankers = {
+		culture = tiv
+		religion = animist
+		size = 79150
+	}
+
+	slaves = {
+		culture = tiv
+		religion = animist
+		size = 24000
+	}
+}
+#Kribi (176000/44000 POPS)
+1958 = {
+	aristocrats = {
+		culture = forest_bantu
+		religion = animist
+		size = 1650
+	}
+
+	clergymen = {
+		culture = forest_bantu
+		religion = animist
+		size = 850
+	}
+
+	artisans = {
+		culture = forest_bantu
+		religion = animist
+		size = 3550
+	}
+
+	soldiers = {
+		culture = forest_bantu
+		religion = animist
+		size = 900
+	}
+
+	zbankers = {
+		culture = forest_bantu
+		religion = animist
+		size = 65050
+	}
+
+	slaves = {
+		culture = forest_bantu
+		religion = animist
+		size = 16000
+	}
+}
+#Sanaga-Kadei Region (940000)
+#uncolonized in 1836
+#Yaounde (344000/86000 POPS)
+1959 = {
+	aristocrats = {
+		culture = forest_bantu
+		religion = animist
+		size = 3350
+	}
+
+	clergymen = {
+		culture = forest_bantu
+		religion = animist
+		size = 1700
+	}
+
+	artisans = {
+		culture = forest_bantu
+		religion = animist
+		size = 6900
+	}
+
+	soldiers = {
+		culture = forest_bantu
+		religion = animist
+		size = 1750
+	}
+
+	zbankers = {
+		culture = forest_bantu
+		religion = animist
+		size = 112300
+	}
+
+	slaves = {
+		culture = forest_bantu
+		religion = animist
+		size = 46000
+	}
+}
+#Bafoussam (276000/69000 POPS)
+1960 = {
+	aristocrats = {
+		culture = tiv
+		religion = sunni
+		size = 2750
+	}
+
+	clergymen = {
+		culture = tiv
+		religion = sunni
+		size = 1400
+	}
+
+	artisans = {
+		culture = tiv
+		religion = sunni
+		size = 5550
+	}
+
+	soldiers = {
+		culture = tiv
+		religion = sunni
+		size = 1400
+	}
+
+	zbankers = {
+		culture = tiv
+		religion = sunni
+		size = 88900
+	}
+
+	slaves = {
+		culture = tiv
+		religion = animist
+		size = 38000
+	}
+}
+#Bertoua (320000/80000 POPS)
+1962 = {
+	aristocrats = {
+		culture = forest_bantu
+		religion = animist
+		size = 3100
+	}
+
+	clergymen = {
+		culture = forest_bantu
+		religion = animist
+		size = 1600
+	}
+
+	artisans = {
+		culture = forest_bantu
+		religion = animist
+		size = 6450
+	}
+
+	soldiers = {
+		culture = forest_bantu
+		religion = animist
+		size = 1600
+	}
+
+	zbankers = {
+		culture = forest_bantu
+		religion = animist
+		size = 89250
+	}
+
+	slaves = {
+		culture = forest_bantu
+		religion = animist
+		size = 46000
+	}
+}
+#Kwararafa Region (372000) #see Nigeria.txt for balance of region   
+#uncolonized in 1836
+#Bamenda (372000/93000 POPS) #now part of Cameroun
+1961 = {
+	aristocrats = {
+		culture = tiv
+		religion = animist
+		size = 3700
+	}
+
+	bureaucrats = {
+		culture = tiv
+		religion = animist
+		size = 1100
+	}
+
+	clergymen = {
+		culture = tiv
+		religion = animist
+		size = 1900
+	}
+
+	artisans = {
+		culture = tiv
+		religion = animist
+		size = 7450
+	}
+
+	soldiers = {
+		culture = tiv
+		religion = animist
+		size = 1900
+	}
+
+	zbankers = {
+		culture = tiv
+		religion = animist
+		size = 151150
+	}
+
+	slaves = {
+		culture = tiv
+		religion = animist
+		size = 20000
+	}
+}
+#Adamawa Region (268000) #see Nigeria.txt for balance of region   
+#under the rule of Sokoto 1836
+#Ngaoundere (160000/40000 POPS) #now part of Cameroun
+1963 = {
+	aristocrats = {
+		culture = ubangian
+		religion = animist
+		size = 1550
+	}
+
+	bureaucrats = {
+		culture = ubangian
+		religion = animist
+		size = 50
+	}
+
+	officers = {
+		culture = ubangian
+		religion = animist
+		size = 150
+	}
+
+	clergymen = {
+		culture = ubangian
+		religion = animist
+		size = 800
+	}
+
+	artisans = {
+		culture = ubangian
+		religion = animist
+		size = 3250
+	}
+
+	soldiers = {
+		culture = ubangian
+		religion = animist
+		size = 850
+	}
+
+	zbankers = {
+		culture = ubangian
+		religion = animist
+		size = 65350
+	}
+
+	slaves = {
+		culture = ubangian
+		religion = animist
+		size = 8000
+	}
+}
+#under rule of Kanem-Borno in 1836
+#Maroua (433600/108400 POPS) #now part of Cameroun
+1964 = {
+	aristocrats = {
+		culture = ubangian
+		religion = animist
+		size = 3800
+	}
+
+	clergymen = {
+		culture = ubangian
+		religion = animist
+		size = 3200
+	}
+
+	artisans = {
+		culture = ubangian
+		religion = animist
+		size = 7200
+	}
+
+	soldiers = {
+		culture = ubangian
+		religion = animist
+		size = 2400
+	}
+
+	zbankers = {
+		culture = ubangian
+		religion = animist
+		size = 178800
+	}
+
+	slaves = {
+		culture = ubangian
+		religion = animist
+		size = 24000
+	}
+}

@@ -1,0 +1,134 @@
+political_decisions = {
+
+	form_arabia = {
+
+		potential = {
+			ARA = { exists = no }
+			is_culture_group = arab
+		}
+		
+		allow = {
+			civilized = yes
+			1178 = {
+					OR = {
+						owned_by = THIS
+						empty = yes
+						owner = {
+							OR = {
+								vassal_of = THIS
+								in_sphere = THIS
+						}
+						}
+					}
+			}
+			1151 = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							OR = {
+							vassal_of = THIS
+							in_sphere = THIS
+						}
+						}
+				}
+			}
+			1157 = {
+					OR = {
+						owned_by = THIS
+						empty = yes
+						owner = {
+							OR = {
+							vassal_of = THIS
+							in_sphere = THIS
+						}
+						}
+				}
+			}
+			1166 = {
+					OR = {
+						owned_by = THIS
+						empty = yes
+						owner = {
+							OR = {
+							vassal_of = THIS
+							in_sphere = THIS
+						}
+						}
+					}
+			}
+			902 = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							OR = {
+							vassal_of = THIS
+							in_sphere = THIS
+						}
+						}
+				}
+			}
+			917 = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							OR = {
+							vassal_of = THIS
+							in_sphere = THIS
+						}
+						}
+				}
+			}
+			926 = {
+					OR = {
+						owned_by = THIS
+						empty = yes
+						owner = {
+							OR = {
+							vassal_of = THIS
+							in_sphere = THIS
+						}
+						}
+				}
+			}
+		}
+		effect = {
+			prestige = 20
+			all_core = {
+				limit = {
+					owned_by = THIS
+				}
+				remove_core = THIS 
+				add_core = ARA
+			}
+			change_tag = ARA
+			random_country = {
+				limit = {
+					is_culture_group = THIS
+					in_sphere = THIS
+					OR = {
+						is_vassal = no
+						vassal_of = THIS
+					}
+				}
+				country_event = 111011928
+			}
+			add_accepted_culture = union
+			any_country = {
+				limit = {
+					is_culture_group = THIS
+					NOT = { has_country_flag = sub_saharan_africa }
+				}
+				all_core = {
+					limit = {
+						NOT = { is_core = ZAN }
+					}
+					add_core = ARA
+				}
+			}
+			
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}

@@ -1,0 +1,12 @@
+owner = RPL
+controller = RPL
+add_core = RPL
+
+trade_goods = timber
+life_rating = 0
+terrain = steppe_mine
+1836.1.2 = {
+	owner = CIV
+	controller = CIV
+	remove_core = RPL
+}

@@ -1,0 +1,164 @@
+#Bechuanaland Region (76000) #see South Africa.txt for balance of region 
+#uncolonized in 1836/dominated by the Tswana in 1836
+#Gaborone (28000/7000 POPS) 
+2074 = {
+	aristocrats = {
+		culture = southern_bantu
+		religion = animist
+		size = 250
+	}
+
+	clergymen = {
+		culture = southern_bantu
+		religion = animist
+		size = 150
+	}
+
+	artisans = {
+		culture = southern_bantu
+		religion = animist
+		size = 700
+	}
+
+	soldiers = {
+		culture = southern_bantu
+		religion = animist
+		size = 150
+	}
+
+	zbankers = {
+		culture = southern_bantu
+		religion = animist
+		size = 12750
+	}
+}
+#Nokaneng (12000/3000 POPS) 
+2076 = {
+	aristocrats = {
+		culture = southern_bantu
+		religion = animist
+		size = 80
+	}
+
+	clergymen = {
+		culture = southern_bantu
+		religion = animist
+		size = 150
+	}
+
+	artisans = {
+		culture = southern_bantu
+		religion = animist
+		size = 300
+	}
+
+	soldiers = {
+		culture = southern_bantu
+		religion = animist
+		size = 70
+	}
+
+	zbankers = {
+		culture = southern_bantu
+		religion = animist
+		size = 5400
+	}
+
+}
+#Tshabong (12000/3000 POPS) 
+2077 = {
+	aristocrats = {
+		culture = southern_bantu
+		religion = animist
+		size = 80
+	}
+
+	clergymen = {
+		culture = southern_bantu
+		religion = animist
+		size = 150
+	}
+
+	artisans = {
+		culture = southern_bantu
+		religion = animist
+		size = 300
+	}
+
+	soldiers = {
+		culture = southern_bantu
+		religion = animist
+		size = 70
+	}
+
+	zbankers = {
+		culture = southern_bantu
+		religion = animist
+		size = 5400
+	}
+}
+#Mochidi (16000/4000 POPS) 
+2574 = {
+	aristocrats = {
+		culture = southern_bantu
+		religion = animist
+		size = 100
+	}
+
+	clergymen = {
+		culture = southern_bantu
+		religion = animist
+		size = 100
+	}
+
+	artisans = {
+		culture = southern_bantu
+		religion = animist
+		size = 400
+	}
+
+	soldiers = {
+		culture = southern_bantu
+		religion = animist
+		size = 100
+	}
+
+	zbankers = {
+		culture = southern_bantu
+		religion = animist
+		size = 7300
+	}
+}
+#under the rule of Matabele in 1836
+#Serowe (16000/4000 POPS) 
+2075 = {
+	aristocrats = {
+		culture = southern_bantu
+		religion = animist
+		size = 120
+	}
+
+	clergymen = {
+		culture = southern_bantu
+		religion = animist
+		size = 160
+	}
+
+	artisans = {
+		culture = southern_bantu
+		religion = animist
+		size = 400
+	}
+
+	soldiers = {
+		culture = southern_bantu
+		religion = animist
+		size = 120
+	}
+
+	zbankers = {
+		culture = southern_bantu
+		religion = animist
+		size = 7200
+	}
+}

@@ -1,0 +1,10 @@
+owner = CIV
+controller = CIV
+
+trade_goods = cotton
+life_rating = 0
+
+is_slave = yes
+1913.1.1 = {
+	colony = 0
+}

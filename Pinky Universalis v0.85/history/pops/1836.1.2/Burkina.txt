@@ -1,0 +1,298 @@
+#Volta Region (1212000)
+#under the rule of Mossi in 1836
+#Wagadugu (440000/110000 POPS)
+1901 = {
+    aristocrats = {
+        culture = mossi
+        religion = animist
+        size = 4388
+    }
+
+    bureaucrats = {
+        culture = mossi
+        religion = animist
+        size = 3400
+    }
+
+    officers = {
+        culture = mossi
+        religion = animist
+        size = 398
+    }
+
+    clergymen = {
+        culture = mossi
+        religion = animist
+        size = 2242
+    }
+
+    artisans = {
+        culture = mossi
+        religion = animist
+        size = 10972
+    }
+
+    soldiers = {
+        culture = mossi
+        religion = animist
+        size = 4388
+    }
+
+    zbankers = {
+        culture = mossi
+        religion = animist
+        size = 133312
+    }
+
+    slaves = {
+        culture = mossi
+        religion = animist
+        size = 63840
+    }
+}
+#Wahiguya (332000/83000 POPS)
+1902 = {
+    aristocrats = {
+        culture = mossi
+        religion = animist
+        size = 3188
+    }
+
+    clergymen = {
+        culture = mossi
+        religion = animist
+        size = 1690
+    }
+
+    artisans = {
+        culture = mossi
+        religion = animist
+        size = 20000
+    }
+
+    artisans = {
+        culture = mossi
+        religion = animist
+        size = 20000
+    }
+
+    artisans = {
+        culture = mossi
+        religion = animist
+        size = 20000
+    }
+
+    artisans = {
+        culture = mossi
+        religion = animist
+        size = 20000
+    }
+
+    artisans = {
+        culture = mossi
+        religion = animist
+        size = 20000
+    }
+
+    artisans = {
+        culture = mossi
+        religion = animist
+        size = 20000
+    }
+
+    artisans = {
+        culture = mossi
+        religion = animist
+        size = 20000
+    }
+
+    soldiers = {
+        culture = mossi
+        religion = animist
+        size = 6106
+    }
+
+    zbankers = {
+        culture = mossi
+        religion = animist
+        size = 10000
+    }
+
+    slaves = {
+        culture = mossi
+        religion = animist
+        size = 5984
+    }
+}
+#Dori (268000/67000 POPS)
+1903 = {
+    aristocrats = {
+        culture = mossi
+        religion = animist
+        size = 2590
+    }
+
+    clergymen = {
+        culture = mossi
+        religion = animist
+        size = 1392
+    }
+
+    artisans = {
+        culture = mossi
+        religion = animist
+        size = 5084
+    }
+
+    soldiers = {
+        culture = mossi
+        religion = animist
+        size = 4388
+    }
+
+    zbankers = {
+        culture = mossi
+        religion = animist
+        size = 92266
+    }
+
+    slaves = {
+        culture = mossi
+        religion = animist
+        size = 29924
+    }
+}
+#Fada Ngoura (172000/43000 POPS)
+1904 = {
+    aristocrats = {
+        culture = mossi
+        religion = animist
+        size = 1592
+    }
+
+    clergymen = {
+        culture = mossi
+        religion = animist
+        size = 896
+    }
+
+    artisans = {
+        culture = mossi
+        religion = animist
+        size = 3688
+    }
+
+    soldiers = {
+        culture = mossi
+        religion = animist
+        size = 896
+    }
+
+    zbankers = {
+        culture = mossi
+        religion = animist
+        size = 64736
+    }
+
+    slaves = {
+        culture = mossi
+        religion = animist
+        size = 13964
+    }
+}
+#Worodugu Region (320000)
+#uncolonized in 1836/ruled by the Bobo Dioulasso Emirate 1836
+#Bobo Dioulasso (140000/35000 POPS)
+1905 = {
+    aristocrats = {
+        culture = mossi
+        religion = animist
+        size = 1242
+    }
+
+    bureaucrats = {
+        culture = mossi
+        religion = animist
+        size = 46
+    }
+
+    officers = {
+        culture = mossi
+        religion = animist
+        size = 98
+    }
+
+    clergymen = {
+        culture = mossi
+        religion = animist
+        size = 790
+    }
+
+    artisans = {
+        culture = mossi
+        religion = animist
+        size = 3138
+    }
+
+    soldiers = {
+        culture = mossi
+        religion = animist
+        size = 696
+    }
+
+    zbankers = {
+        culture = mossi
+        religion = animist
+        size = 55006
+    }
+
+    slaves = {
+        culture = mossi
+        religion = animist
+        size = 9974
+    }
+}
+#Orodaro (360000/90000 POPS)
+1906 = {
+    aristocrats = {
+        culture = mossi
+        religion = animist
+        size = 3386
+    }
+
+    bureaucrats = {
+        culture = mossi
+        religion = animist
+        size = 900
+    }
+
+    clergymen = {
+        culture = mossi
+        religion = animist
+        size = 1892
+    }
+
+    artisans = {
+        culture = mossi
+        religion = animist
+        size = 8276
+    }
+
+    soldiers = {
+        culture = mossi
+        religion = animist
+        size = 5882
+    }
+
+    zbankers = {
+        culture = mossi
+        religion = animist
+        size = 136154
+    }
+
+    slaves = {
+        culture = mossi
+        religion = animist
+        size = 23940
+    }
+}

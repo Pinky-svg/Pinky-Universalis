@@ -1,0 +1,28 @@
+owner = CIV
+controller = CIV
+
+
+trade_goods = coal
+life_rating = 0
+terrain = mountain_mine
+1913.1.1 = {
+	
+	
+	
+	remove_core = MEX
+	state_building = {
+		level = 1
+		building = canned_food_factory
+		upgrade = yes
+	}
+	state_building = {
+		level = 1
+		building = small_arms_factory
+		upgrade = yes
+	}
+	state_building = {
+		level = 1
+		building = artillery_factory
+		upgrade = yes
+	}
+}

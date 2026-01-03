@@ -1,0 +1,1898 @@
+#file includes modern South Africa, Lesotho and Swaziland
+#Western Cape Region (395100)
+#Ruled by Britain 1836
+#Boer POPs represent post-Great Trek migration
+#Cape Town (173000/43250 POPS)
+2087 = {
+    aristocrats = {
+        culture = southern_bantu
+        religion = animist
+        size = 600
+    }
+
+    clergymen = {
+        culture = southern_bantu
+        religion = animist
+        size = 200
+    }
+
+    artisans = {
+        culture = southern_bantu
+        religion = animist
+        size = 3000
+    }
+
+    soldiers = {
+        culture = southern_bantu
+        religion = animist
+        size = 2200
+    }
+
+    zbankers = {
+        culture = southern_bantu
+        religion = animist
+        size = 47750
+    }
+
+    aristocrats = {
+        culture = british
+        religion = protestant
+        size = 40
+    }
+
+    clergymen = {
+        culture = british
+        religion = protestant
+        size = 200
+    }
+
+    artisans = {
+        culture = british
+        religion = protestant
+        size = 800
+    }
+
+    bureaucrats = {
+        culture = british
+        religion = protestant
+        size = 800
+    }
+
+    soldiers = {
+        culture = british
+        religion = protestant
+        size = 2200
+    }
+
+    zbankers = {
+        culture = british
+        religion = protestant
+        size = 2300
+    }
+
+    aristocrats = {
+        culture = boer
+        religion = protestant
+        size = 2200
+    }
+
+    clergymen = {
+        culture = boer
+        religion = protestant
+        size = 490
+    }
+
+    bureaucrats = {
+        culture = boer
+        religion = protestant
+        size = 500
+    }
+
+    artisans = {
+        culture = boer
+        religion = protestant
+        size = 2200
+    }
+
+    officers = {
+        culture = boer
+        religion = protestant
+        size = 200
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 2200
+    }
+
+    zbankers = {
+        culture = boer
+        religion = protestant
+        size = 34490
+    }
+}
+#Worcester (117700/29425 POPS)
+2089 = {
+    clergymen = {
+        culture = southern_bantu
+        religion = animist
+        size = 250
+    }
+
+    soldiers = {
+        culture = southern_bantu
+        religion = animist
+        size = 200
+    }
+
+    artisans = {
+        culture = southern_bantu
+        religion = animist
+        size = 1000
+    }
+
+    zbankers = {
+        culture = southern_bantu
+        religion = animist
+        size = 48000
+    }
+
+    aristocrats = {
+        culture = boer
+        religion = protestant
+        size = 20
+    }
+
+    clergymen = {
+        culture = boer
+        religion = protestant
+        size = 270
+    }
+
+    artisans = {
+        culture = boer
+        religion = protestant
+        size = 2000
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 200
+    }
+
+    zbankers = {
+        culture = boer
+        religion = protestant
+        size = 7450
+    }
+
+    zbankers = {
+        culture = british
+        religion = protestant
+        size = 520
+    }
+}
+#Swettenham (69700/17425 POPS)
+2090 = {
+    clergymen = {
+        culture = southern_bantu
+        religion = animist
+        size = 300
+    }
+
+    artisans = {
+        culture = southern_bantu
+        religion = animist
+        size = 600
+    }
+
+    soldiers = {
+        culture = southern_bantu
+        religion = animist
+        size = 200
+    }
+
+    zbankers = {
+        culture = southern_bantu
+        religion = animist
+        size = 42400
+    }
+
+    aristocrats = {
+        culture = boer
+        religion = protestant
+        size = 20
+    }
+
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 200
+    }
+
+    clergymen = {
+        culture = boer
+        religion = protestant
+        size = 190
+    }
+
+    artisans = {
+        culture = boer
+        religion = protestant
+        size = 1200
+    }
+
+    zbankers = {
+        culture = boer
+        religion = protestant
+        size = 8650
+    }
+}
+#Mossel Bay (34700/8675 POPS)
+2091 = {
+    clergymen = {
+        culture = boer
+        religion = protestant
+        size = 200
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 200
+    }
+
+    artisans = {
+        culture = boer
+        religion = protestant
+        size = 600
+    }
+
+    zbankers = {
+        culture = boer
+        religion = protestant
+        size = 5550
+    }
+
+    zbankers = {
+        culture = british
+        religion = protestant
+        size = 1000
+    }
+
+    clergymen = {
+        culture = southern_bantu
+        religion = animist
+        size = 120
+    }
+
+    artisans = {
+        culture = southern_bantu
+        religion = animist
+        size = 300
+    }
+
+    soldiers = {
+        culture = southern_bantu
+        religion = animist
+        size = 200
+    }
+
+    zbankers = {
+        culture = southern_bantu
+        religion = animist
+        size = 9280
+    }
+}
+#Namaqualand Region (12000) #see Namibia.txt for balance of region
+#uncolonized 1836
+#Springbok (12000/3000 POPS)
+2088 = {
+    aristocrats = {
+        culture = southern_bantu
+        religion = animist
+        size = 50
+    }
+
+    clergymen = {
+        culture = southern_bantu
+        religion = animist
+        size = 100
+    }
+
+    artisans = {
+        culture = southern_bantu
+        religion = animist
+        size = 300
+    }
+
+    soldiers = {
+        culture = southern_bantu
+        religion = animist
+        size = 50
+    }
+
+    zbankers = {
+        culture = southern_bantu
+        religion = animist
+        size = 5500
+    }
+
+}
+#Karoo Region (244500)
+#Ruled by Britain 1836
+#Boer POPs represent post-Great Trek migration
+#Beaufort (34600/8650 POPS)
+2092 = {
+    aristocrats = {
+        culture = boer
+        religion = protestant
+        size = 20
+    }
+
+    bureaucrats = {
+        culture = boer
+        religion = protestant
+        size = 80
+    }
+
+    clergymen = {
+        culture = boer
+        religion = protestant
+        size = 110
+    }
+
+    artisans = {
+        culture = boer
+        religion = protestant
+        size = 300
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 500
+    }
+
+    zbankers = {
+        culture = boer
+        religion = protestant
+        size = 4900
+    }
+
+    clergymen = {
+        culture = southern_bantu
+        religion = animist
+        size = 100
+    }
+
+    artisans = {
+        culture = southern_bantu
+        religion = animist
+        size = 200
+    }
+
+    soldiers = {
+        culture = southern_bantu
+        religion = animist
+        size = 100
+    }
+
+    zbankers = {
+        culture = southern_bantu
+        religion = animist
+        size = 9600
+    }
+}
+#Calvinia (23300/5825 POPS)
+2093 = {
+    clergymen = {
+        culture = boer
+        religion = protestant
+        size = 50
+    }
+
+    artisans = {
+        culture = boer
+        religion = protestant
+        size = 200
+    }
+
+    zbankers = {
+        culture = boer
+        religion = protestant
+        size = 1650
+    }
+
+    aristocrats = {
+        culture = southern_bantu
+        religion = animist
+        size = 50
+    }
+
+    clergymen = {
+        culture = southern_bantu
+        religion = animist
+        size = 100
+    }
+
+    artisans = {
+        culture = southern_bantu
+        religion = animist
+        size = 200
+    }
+
+    soldiers = {
+        culture = southern_bantu
+        religion = animist
+        size = 100
+    }
+
+    zbankers = {
+        culture = southern_bantu
+        religion = animist
+        size = 9550
+    }
+}
+#De Aar (30600/7650 POPS)
+2558 = {
+    aristocrats = {
+        culture = southern_bantu
+        religion = animist
+        size = 100
+    }
+
+    clergymen = {
+        culture = southern_bantu
+        religion = animist
+        size = 100
+    }
+
+    artisans = {
+        culture = southern_bantu
+        religion = animist
+        size = 300
+    }
+
+    soldiers = {
+        culture = southern_bantu
+        religion = animist
+        size = 100
+    }
+
+    zbankers = {
+        culture = southern_bantu
+        religion = animist
+        size = 11400
+    }
+
+    aristocrats = {
+        culture = boer
+        religion = protestant
+        size = 10
+    }
+
+    bureaucrats = {
+        culture = boer
+        religion = protestant
+        size = 60
+    }
+
+    clergymen = {
+        culture = boer
+        religion = protestant
+        size = 100
+    }
+
+    artisans = {
+        culture = boer
+        religion = protestant
+        size = 500
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 500
+    }
+
+    zbankers = {
+        culture = boer
+        religion = protestant
+        size = 4700
+    }
+}
+#Uncolonized in 1836
+#Kimberley (156000/39000 POPS)
+2094 = {
+    aristocrats = {
+        culture = southern_bantu
+        religion = animist
+        size = 800
+    }
+
+    clergymen = {
+        culture = southern_bantu
+        religion = animist
+        size = 800
+    }
+
+    artisans = {
+        culture = southern_bantu
+        religion = animist
+        size = 3200
+    }
+
+    soldiers = {
+        culture = southern_bantu
+        religion = animist
+        size = 800
+    }
+
+    zbankers = {
+        culture = southern_bantu
+        religion = animist
+        size = 72400
+    }
+
+    zbankers = {
+        culture = boer
+        religion = protestant
+        size = 100
+    }
+}
+#Bechuanaland Region (20000) #see Botswana.txt for balance of region
+#Dikathong (20000/5000 POPS)
+2095 = {
+    aristocrats = {
+        culture = southern_bantu
+        religion = animist
+        size = 100
+    }
+
+    clergymen = {
+        culture = southern_bantu
+        religion = animist
+        size = 100
+    }
+
+    artisans = {
+        culture = southern_bantu
+        religion = animist
+        size = 400
+    }
+
+    soldiers = {
+        culture = southern_bantu
+        religion = animist
+        size = 100
+    }
+
+    zbankers = {
+        culture = southern_bantu
+        religion = animist
+        size = 9300
+    }
+
+}
+#Eastern Cape Region (232000)
+#Ruled by Britain 1836
+#Port Elizabeth (44000/11000 POPS)
+2096 = {
+
+    aristocrats = {
+        culture = british
+        religion = protestant
+        size = 200
+    }
+
+    artisans = {
+        culture = british
+        religion = protestant
+        size = 500
+    }
+
+    clergymen = {
+        culture = british
+        religion = protestant
+        size = 200
+    }
+
+    soldiers = {
+        culture = british
+        religion = protestant
+        size = 200
+    }
+
+    zbankers = {
+        culture = british
+        religion = protestant
+        size = 2900
+    }
+
+    aristocrats = {
+        culture = boer
+        religion = protestant
+        size = 250
+    }
+
+    bureaucrats = {
+        culture = boer
+        religion = protestant
+        size = 100
+    }
+
+    clergymen = {
+        culture = boer
+        religion = protestant
+        size = 200
+    }
+
+    artisans = {
+        culture = boer
+        religion = protestant
+        size = 800
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 800
+    }
+
+    zbankers = {
+        culture = boer
+        religion = protestant
+        size = 6000
+    }
+
+    aristocrats = {
+        culture = southern_bantu
+        religion = animist
+        size = 680
+    }
+
+    clergymen = {
+        culture = southern_bantu
+        religion = animist
+        size = 600
+    }
+
+    artisans = {
+        culture = southern_bantu
+        religion = animist
+        size = 600
+    }
+
+    soldiers = {
+        culture = southern_bantu
+        religion = animist
+        size = 800
+    }
+
+    zbankers = {
+        culture = southern_bantu
+        religion = animist
+        size = 15120
+    }
+}
+#Graaf Reinet (36000/9000 POPS)
+2097 = {
+
+    artisans = {
+        culture = british
+        religion = protestant
+        size = 320
+    }
+
+    clergymen = {
+        culture = british
+        religion = protestant
+        size = 200
+    }
+
+    soldiers = {
+        culture = british
+        religion = protestant
+        size = 200
+    }
+
+    zbankers = {
+        culture = british
+        religion = protestant
+        size = 13650
+    }
+
+    aristocrats = {
+        culture = boer
+        religion = protestant
+        size = 40
+    }
+
+    bureaucrats = {
+        culture = boer
+        religion = protestant
+        size = 150
+    }
+
+    clergymen = {
+        culture = boer
+        religion = protestant
+        size = 200
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 200
+    }
+
+    artisans = {
+        culture = boer
+        religion = protestant
+        size = 1000
+    }
+
+    officers = {
+        culture = boer
+        religion = protestant
+        size = 60
+    }
+
+    zbankers = {
+        culture = boer
+        religion = protestant
+        size = 4500
+    }
+
+    aristocrats = {
+        culture = southern_bantu
+        religion = animist
+        size = 400
+    }
+
+    clergymen = {
+        culture = southern_bantu
+        religion = animist
+        size = 600
+    }
+
+    artisans = {
+        culture = southern_bantu
+        religion = animist
+        size = 600
+    }
+
+    soldiers = {
+        culture = southern_bantu
+        religion = animist
+        size = 600
+    }
+
+    zbankers = {
+        culture = southern_bantu
+        religion = animist
+        size = 16400
+    }
+}
+#uncolonized/ruled by the Xhosa 1836
+#Bisho (80000/20000 POPS)
+2098 = {
+    aristocrats = {
+        culture = southern_bantu
+        religion = animist
+        size = 400
+    }
+
+    clergymen = {
+        culture = southern_bantu
+        religion = animist
+        size = 200
+    }
+
+    artisans = {
+        culture = southern_bantu
+        religion = animist
+        size = 2200
+    }
+
+    soldiers = {
+        culture = southern_bantu
+        religion = animist
+        size = 2400
+    }
+
+    zbankers = {
+        culture = southern_bantu
+        religion = animist
+        size = 35000
+    }
+
+    aristocrats = {
+        culture = boer
+        religion = protestant
+        size = 200
+    }
+
+    clergymen = {
+        culture = boer
+        religion = protestant
+        size = 200
+    }
+
+    artisans = {
+        culture = boer
+        religion = protestant
+        size = 200
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 200
+    }
+
+    zbankers = {
+        culture = boer
+        religion = protestant
+        size = 200
+    }
+}
+#Mathele (80000/20000 POPS)
+2099 = {
+    aristocrats = {
+        culture = southern_bantu
+        religion = animist
+        size = 400
+    }
+
+    clergymen = {
+        culture = southern_bantu
+        religion = animist
+        size = 200
+    }
+
+    artisans = {
+        culture = southern_bantu
+        religion = animist
+        size = 2200
+    }
+
+    soldiers = {
+        culture = southern_bantu
+        religion = animist
+        size = 2400
+    }
+
+    zbankers = {
+        culture = southern_bantu
+        religion = animist
+        size = 35000
+    }
+
+    aristocrats = {
+        culture = boer
+        religion = protestant
+        size = 200
+    }
+
+    clergymen = {
+        culture = boer
+        religion = protestant
+        size = 200
+    }
+
+    artisans = {
+        culture = boer
+        religion = protestant
+        size = 200
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 200
+    }
+
+    zbankers = {
+        culture = boer
+        religion = protestant
+        size = 200
+    }
+}
+#Umtata (144000/36000 POPS)
+2100 = {
+    aristocrats = {
+        culture = southern_bantu
+        religion = animist
+        size = 800
+    }
+
+    bureaucrats = {
+        culture = southern_bantu
+        religion = animist
+        size = 800
+    }
+
+    clergymen = {
+        culture = southern_bantu
+        religion = animist
+        size = 800
+    }
+
+    artisans = {
+        culture = southern_bantu
+        religion = animist
+        size = 3600
+    }
+
+    soldiers = {
+        culture = southern_bantu
+        religion = animist
+        size = 2800
+    }
+
+    zbankers = {
+        culture = southern_bantu
+        religion = animist
+        size = 64000
+    }
+
+    slaves = {
+        culture = southern_bantu
+        religion = animist
+        size = 2700
+    }
+
+}
+#Transorangia Region (509000)
+#uncolonized in 1836/dominated by the southern_bantu in 1836
+#Boer POPs represent post-Great Trek migration
+#Bloemfontein (194000/48500 POPS)
+2101 = {
+    aristocrats = {
+        culture = boer
+        religion = protestant
+        size = 200
+    }
+
+    bureaucrats = {
+        culture = boer
+        religion = protestant
+        size = 400
+    }
+
+    officers = {
+        culture = boer
+        religion = protestant
+        size = 200
+    }
+
+    clergymen = {
+        culture = boer
+        religion = protestant
+        size = 200
+    }
+
+    artisans = {
+        culture = boer
+        religion = protestant
+        size = 200
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 2400
+    }
+
+    zbankers = {
+        culture = boer
+        religion = protestant
+        size = 4800
+    }
+
+    aristocrats = {
+        culture = southern_bantu
+        religion = animist
+        size = 1850
+    }
+
+    bureaucrats = {
+        culture = southern_bantu
+        religion = animist
+        size = 400
+    }
+
+    clergymen = {
+        culture = southern_bantu
+        religion = animist
+        size = 200
+    }
+
+    artisans = {
+        culture = southern_bantu
+        religion = animist
+        size = 4350
+    }
+
+    soldiers = {
+        culture = southern_bantu
+        religion = animist
+        size = 2950
+    }
+
+    zbankers = {
+        culture = southern_bantu
+        religion = animist
+        size = 65800
+    }
+
+    slaves = {
+        culture = southern_bantu
+        religion = animist
+        size = 4900
+    }
+}
+#Winburg (102000/25500 POPS)
+2102 = {
+    artisans = {
+        culture = boer
+        religion = protestant
+        size = 200
+    }
+
+    clergymen = {
+        culture = boer
+        religion = protestant
+        size = 200
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 2000
+    }
+
+    zbankers = {
+        culture = boer
+        religion = protestant
+        size = 1600
+    }
+
+    aristocrats = {
+        culture = southern_bantu
+        religion = animist
+        size = 900
+    }
+
+    clergymen = {
+        culture = southern_bantu
+        religion = animist
+        size = 400
+    }
+
+    artisans = {
+        culture = southern_bantu
+        religion = animist
+        size = 20000
+    }
+
+    artisans = {
+        culture = southern_bantu
+        religion = animist
+        size = 8300
+    }
+
+    soldiers = {
+        culture = southern_bantu
+        religion = animist
+        size = 2200
+    }
+
+    zbankers = {
+        culture = southern_bantu
+        religion = animist
+        size = 18400
+    }
+
+    slaves = {
+        culture = southern_bantu
+        religion = animist
+        size = 3500
+    }
+}
+#Philippolis (85000/21250 POPS)
+2103 = {
+
+    clergymen = {
+        culture = boer
+        religion = protestant
+        size = 200
+    }
+
+    artisans = {
+        culture = boer
+        religion = protestant
+        size = 200
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 200
+    }
+
+    zbankers = {
+        culture = boer
+        religion = protestant
+        size = 1380
+    }
+
+    aristocrats = {
+        culture = southern_bantu
+        religion = animist
+        size = 800
+    }
+
+    clergymen = {
+        culture = southern_bantu
+        religion = animist
+        size = 200
+    }
+
+    artisans = {
+        culture = southern_bantu
+        religion = animist
+        size = 20000
+    }
+
+    soldiers = {
+        culture = southern_bantu
+        religion = animist
+        size = 1070
+    }
+
+    zbankers = {
+        culture = southern_bantu
+        religion = animist
+        size = 18620
+    }
+
+    slaves = {
+        culture = southern_bantu
+        religion = animist
+        size = 2700
+    }
+
+}
+#Thaba Bosiu (256000/64000 POPS) #now Lesotho
+2104 = {
+    aristocrats = {
+        culture = southern_bantu
+        religion = animist
+        size = 2500
+    }
+
+    bureaucrats = {
+        culture = southern_bantu
+        religion = animist
+        size = 800
+    }
+
+    officers = {
+        culture = southern_bantu
+        religion = animist
+        size = 500
+    }
+
+    clergymen = {
+        culture = southern_bantu
+        religion = animist
+        size = 300
+    }
+
+    artisans = {
+        culture = southern_bantu
+        religion = animist
+        size = 6000
+    }
+
+    soldiers = {
+        culture = southern_bantu
+        religion = animist
+        size = 2200
+    }
+
+    zbankers = {
+        culture = southern_bantu
+        religion = animist
+        size = 116400
+    }
+
+    slaves = {
+        culture = southern_bantu
+        religion = animist
+        size = 2840
+    }
+}
+#Transvaal Region (349000)
+#uncolonized in 1836/dominated by the southern_bantu in 1836
+#Boer POPs represent post-Great Trek migration
+#Pretoria (137600/34400 POPS)
+2105 = {
+    aristocrats = {
+        culture = boer
+        religion = protestant
+        size = 200
+    }
+
+    bureaucrats = {
+        culture = boer
+        religion = protestant
+        size = 200
+    }
+
+    officers = {
+        culture = boer
+        religion = protestant
+        size = 200
+    }
+
+    clergymen = {
+        culture = boer
+        religion = protestant
+        size = 300
+    }
+
+    artisans = {
+        culture = boer
+        religion = protestant
+        size = 1000
+    }
+
+    zbankers = {
+        culture = boer
+        religion = protestant
+        size = 4000
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 2400
+    }
+
+    aristocrats = {
+        culture = southern_bantu
+        religion = animist
+        size = 1300
+    }
+
+    clergymen = {
+        culture = southern_bantu
+        religion = animist
+        size = 200
+    }
+
+    artisans = {
+        culture = southern_bantu
+        religion = animist
+        size = 20000
+    }
+
+    artisans = {
+        culture = southern_bantu
+        religion = animist
+        size = 9300
+    }
+
+    soldiers = {
+        culture = southern_bantu
+        religion = animist
+        size = 700
+    }
+
+    slaves = {
+        culture = southern_bantu
+        religion = animist
+        size = 3000
+    }
+
+    zbankers = {
+        culture = southern_bantu
+        religion = animist
+        size = 16000
+    }
+}
+#Johannesburg (102400/25600 POPS)
+2106 = {
+    artisans = {
+        culture = boer
+        religion = protestant
+        size = 200
+    }
+
+    clergymen = {
+        culture = boer
+        religion = protestant
+        size = 200
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 2000
+    }
+
+    zbankers = {
+        culture = boer
+        religion = protestant
+        size = 1600
+    }
+
+    aristocrats = {
+        culture = southern_bantu
+        religion = animist
+        size = 850
+    }
+
+    clergymen = {
+        culture = southern_bantu
+        religion = animist
+        size = 200
+    }
+
+    artisans = {
+        culture = southern_bantu
+        religion = animist
+        size = 2500
+    }
+
+    soldiers = {
+        culture = southern_bantu
+        religion = animist
+        size = 500
+    }
+
+    zbankers = {
+        culture = southern_bantu
+        religion = animist
+        size = 37550
+    }
+
+    slaves = {
+        culture = southern_bantu
+        religion = animist
+        size = 3000
+    }
+}
+#uncolonized in 1836/dominated by the Ndebele
+#Klerksdorp (109000/27250 POPS)
+2107 = {
+    clergymen = {
+        culture = boer
+        religion = protestant
+        size = 200
+    }
+
+    artisans = {
+        culture = boer
+        religion = protestant
+        size = 200
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 2000
+    }
+
+    zbankers = {
+        culture = boer
+        religion = protestant
+        size = 1300
+    }
+
+    aristocrats = {
+        culture = southern_bantu
+        religion = animist
+        size = 1000
+    }
+
+    clergymen = {
+        culture = southern_bantu
+        religion = animist
+        size = 400
+    }
+
+    artisans = {
+        culture = southern_bantu
+        religion = animist
+        size = 4400
+    }
+
+    soldiers = {
+        culture = southern_bantu
+        religion = animist
+        size = 2200
+    }
+
+    zbankers = {
+        culture = southern_bantu
+        religion = animist
+        size = 45750
+    }
+
+    slaves = {
+        culture = southern_bantu
+        religion = animist
+        size = 1134
+    }
+}
+#Limpopo Region (129000)
+#uncolonized in 1836/dominated by the Ndebele
+#Boer POPs represent post-Great Trek migration
+#Mosega (48200/12050 POPS)
+2108 = {
+    artisans = {
+        culture = boer
+        religion = protestant
+        size = 200
+    }
+
+    clergymen = {
+        culture = boer
+        religion = protestant
+        size = 200
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 200
+    }
+
+    zbankers = {
+        culture = boer
+        religion = protestant
+        size = 600
+    }
+
+    aristocrats = {
+        culture = southern_bantu
+        religion = animist
+        size = 400
+    }
+
+    bureaucrats = {
+        culture = southern_bantu
+        religion = animist
+        size = 3290
+    }
+
+    clergymen = {
+        culture = southern_bantu
+        religion = animist
+        size = 400
+    }
+
+    artisans = {
+        culture = southern_bantu
+        religion = animist
+        size = 1100
+    }
+
+    soldiers = {
+        culture = southern_bantu
+        religion = animist
+        size = 16200
+    }
+
+    zbankers = {
+        culture = southern_bantu
+        religion = animist
+        size = 174710
+    }
+
+    slaves = {
+        culture = southern_bantu
+        religion = animist
+        size = 13944
+    }
+}
+#uncolonized in 1836/dominated by the Zulu
+#Lydenburg (52600/13150 POPS)
+2109 = {
+    artisans = {
+        culture = boer
+        religion = protestant
+        size = 200
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 200
+    }
+
+    clergymen = {
+        culture = boer
+        religion = protestant
+        size = 200
+    }
+
+    zbankers = {
+        culture = boer
+        religion = protestant
+        size = 6000
+    }
+
+    aristocrats = {
+        culture = southern_bantu
+        religion = animist
+        size = 450
+    }
+
+    clergymen = {
+        culture = southern_bantu
+        religion = animist
+        size = 200
+    }
+
+    artisans = {
+        culture = southern_bantu
+        religion = animist
+        size = 1300
+    }
+
+    soldiers = {
+        culture = southern_bantu
+        religion = animist
+        size = 300
+    }
+
+    zbankers = {
+        culture = southern_bantu
+        religion = animist
+        size = 163700
+    }
+
+    slaves = {
+        culture = southern_bantu
+        religion = animist
+        size = 4694
+    }
+}
+#uncolonized in 1836/dominated by the Gaza Nguni
+#Thohoyandu (28200/7050 POPS)
+2110 = {
+    artisans = {
+        culture = boer
+        religion = protestant
+        size = 200
+    }
+
+    clergymen = {
+        culture = boer
+        religion = protestant
+        size = 200
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 200
+    }
+
+    zbankers = {
+        culture = boer
+        religion = protestant
+        size = 400
+    }
+
+    aristocrats = {
+        culture = southern_bantu
+        religion = animist
+        size = 400
+    }
+
+    clergymen = {
+        culture = southern_bantu
+        religion = animist
+        size = 400
+    }
+
+    artisans = {
+        culture = southern_bantu
+        religion = animist
+        size = 650
+    }
+
+    soldiers = {
+        culture = southern_bantu
+        religion = animist
+        size = 400
+    }
+
+    zbankers = {
+        culture = southern_bantu
+        religion = animist
+        size = 12900
+    }
+
+    slaves = {
+        culture = southern_bantu
+        religion = animist
+        size = 2700
+    }
+}
+#Natal Region (682000)
+#ruled/dominated by the Zulu in 1836
+#Boer POPs represent post-Great Trek migration
+#Durban (126000/31500 POPS)
+2111 = {
+
+    clergymen = {
+        culture = boer
+        religion = protestant
+        size = 200
+    }
+
+    artisans = {
+        culture = boer
+        religion = protestant
+        size = 200
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 600
+    }
+
+    zbankers = {
+        culture = boer
+        religion = protestant
+        size = 840
+    }
+
+    aristocrats = {
+        culture = southern_bantu
+        religion = animist
+        size = 1150
+    }
+
+    clergymen = {
+        culture = southern_bantu
+        religion = animist
+        size = 400
+    }
+
+    artisans = {
+        culture = southern_bantu
+        religion = animist
+        size = 2900
+    }
+
+    soldiers = {
+        culture = southern_bantu
+        religion = animist
+        size = 700
+    }
+
+    zbankers = {
+        culture = southern_bantu
+        religion = animist
+        size = 36850
+    }
+
+    slaves = {
+        culture = southern_bantu
+        religion = animist
+        size = 3450
+    }
+}
+#Ladysmith (156000/39000 POPS)
+2112 = {
+    clergymen = {
+        culture = boer
+        religion = protestant
+        size = 200
+    }
+
+    artisans = {
+        culture = boer
+        religion = protestant
+        size = 200
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 200
+    }
+
+    zbankers = {
+        culture = boer
+        religion = protestant
+        size = 500
+    }
+
+    aristocrats = {
+        culture = southern_bantu
+        religion = animist
+        size = 1500
+    }
+
+    clergymen = {
+        culture = southern_bantu
+        religion = animist
+        size = 200
+    }
+
+    artisans = {
+        culture = southern_bantu
+        religion = animist
+        size = 3900
+    }
+
+    soldiers = {
+        culture = southern_bantu
+        religion = animist
+        size = 6000
+    }
+
+    zbankers = {
+        culture = southern_bantu
+        religion = animist
+        size = 46200
+    }
+
+    slaves = {
+        culture = southern_bantu
+        religion = animist
+        size = 1424
+    }
+}
+#Ulundi (320000/80000 POPS)
+2113 = {
+
+    aristocrats = {
+        culture = boer
+        religion = protestant
+        size = 200
+    }
+
+    officers = {
+        culture = boer
+        religion = protestant
+        size = 200
+    }
+
+    bureaucrats = {
+        culture = boer
+        religion = protestant
+        size = 200
+    }
+
+    clergymen = {
+        culture = boer
+        religion = protestant
+        size = 200
+    }
+
+    artisans = {
+        culture = boer
+        religion = protestant
+        size = 200
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 200
+    }
+
+    zbankers = {
+        culture = boer
+        religion = protestant
+        size = 200
+    }
+
+    aristocrats = {
+        culture = southern_bantu
+        religion = animist
+        size = 3100
+    }
+
+    bureaucrats = {
+        culture = southern_bantu
+        religion = animist
+        size = 1000
+    }
+
+    officers = {
+        culture = southern_bantu
+        religion = animist
+        size = 300
+    }
+
+    clergymen = {
+        culture = southern_bantu
+        religion = animist
+        size = 1650
+    }
+
+    artisans = {
+        culture = southern_bantu
+        religion = animist
+        size = 8000
+    }
+
+    soldiers = {
+        culture = southern_bantu
+        religion = animist
+        size = 24000
+    }
+
+    zbankers = {
+        culture = southern_bantu
+        religion = animist
+        size = 162900
+    }
+
+    slaves = {
+        culture = nguni
+        religion = animist
+        size = 2752
+    }
+}
+#Ruled by Suazi 1836
+#Mbabane (160000/40000 POPS)  #now Swaziland
+2114 = {
+    aristocrats = {
+        culture = southern_bantu
+        religion = animist
+        size = 1500
+    }
+
+    bureaucrats = {
+        culture = southern_bantu
+        religion = animist
+        size = 200
+    }
+
+    clergymen = {
+        culture = southern_bantu
+        religion = animist
+        size = 800
+    }
+
+    artisans = {
+        culture = southern_bantu
+        religion = animist
+        size = 4000
+    }
+
+    soldiers = {
+        culture = southern_bantu
+        religion = animist
+        size = 2300
+    }
+
+    zbankers = {
+        culture = southern_bantu
+        religion = animist
+        size = 71400
+    }
+
+    slaves = {
+        culture = southern_bantu
+        religion = animist
+        size = 4900
+    }
+}

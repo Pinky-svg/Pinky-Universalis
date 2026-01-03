@@ -1,0 +1,4 @@
+owner = CIV
+controller = CIV
+trade_goods = iron
+life_rating = 0terrain = farmlands_mine

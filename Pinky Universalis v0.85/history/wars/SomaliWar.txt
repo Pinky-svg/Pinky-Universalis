@@ -1,0 +1,28 @@
+name = "SomaliWar"
+
+1835.10.2 = {
+    add_attacker = GEL
+    add_defender = MAJ
+
+    # actor
+    # receiver
+    # casus_belli - cb type
+    # country - 3rd party
+    # state_province_id - target state capital
+    war_goal = {
+        casus_belli = conquest
+        actor = GEL
+        receiver = MAJ
+    }
+	war_goal = {
+        casus_belli = conquest
+        actor = MAJ
+        receiver = GEL
+    }
+
+}
+
+1840.4.21 = {
+    rem_attacker = GEL
+    rem_defender = MAJ
+}

@@ -1,0 +1,520 @@
+# Audax Validator "!" Ignore_NEXT
+
+
+#Leave Central Asia
+country_event = {
+	id = 92003
+	title = "Leave Central Asia"
+	
+	trigger = {
+		ai = yes
+		civilized = no
+		part_of_sphere = yes
+		sphere_owner = { ai = yes }
+		OR = {
+			any_owned_province = {
+				OR = {
+					region = RUS_1182
+					region = RUS_1185
+					region = RUS_2611
+					region = KHI_1191
+					region = RUS_1196
+					region = BUK_1207
+					region = KOK_1190
+				}
+			}
+			tag = HAZ
+			tag = HRT
+		}
+	}
+	
+	option = {
+		sphere_owner = {
+			diplomatic_influence = {
+				who = THIS
+				value = -200
+			}
+			relation = {
+				who = THIS
+				value = -200
+			}
+		}
+	}
+}
+
+#Leave China
+country_event = {
+	id = 92004
+	title = "Leave China"
+
+	trigger = {
+		has_country_flag = chinese
+		part_of_sphere = yes
+		sphere_owner = {
+			ai = yes
+		}
+		ai = yes
+	}
+	
+	option = {
+		sphere_owner = {
+			diplomatic_influence = {
+				who = THIS
+				value = -200
+			}
+		}
+	}
+}
+
+#Chinese Isolationism
+country_event = {
+	id = 92005
+	title = "Chinese Isolationism"
+
+	trigger = {
+		ai = yes
+		is_culture_group = east_asian
+		any_greater_power = {
+			ai = yes
+			capital_scope = { NOT = { continent = asia } }
+			alliance_with = THIS
+		}
+	}
+
+
+	option = {
+		any_country = {
+			limit = {
+				ai = yes
+				capital_scope = { NOT = { continent = asia } }
+				NOT = { is_culture_group = east_asian }
+			}
+			leave_alliance = THIS
+		}
+	}
+}
+
+#Leave Balkans
+country_event = {
+	id = 92006
+	title = "Leave Balkans"
+
+	trigger = {
+		OR = {
+			AND = {
+				tag = SER
+				exists = SER
+			}
+			AND = {
+				tag = GRE
+				exists = GRE
+			}
+		}
+		ai = yes
+		part_of_sphere = yes
+		sphere_owner = {
+			ai = yes
+			tag = TUR
+		}
+	}
+	
+	option = {
+		sphere_owner = {
+			diplomatic_influence = {
+				who = THIS
+				value = -400
+			}
+		}
+	}
+}
+
+#Leave Italy
+country_event = {
+	id = 92007
+	title = "Leave Italy"
+
+	trigger = {
+		OR = {
+			primary_culture = north_italian
+			primary_culture = south_italian
+		}
+		OR = {
+			exists = ITA
+			has_global_flag = north_italian_federation
+		}
+		ai = yes
+		part_of_sphere = yes
+		sphere_owner = {
+			ai = yes
+			NOT = { tag = ITA }
+		}
+	}
+	
+	option = {
+		sphere_owner = {
+			diplomatic_influence = {
+				who = THIS
+				value = -400
+			}
+			leave_alliance = THIS
+		}
+	}
+}
+
+#Fix Bordergore
+country_event = {
+	id = 92007
+	title = "Fix Bordergore"
+
+	trigger = {
+		ai = yes
+		OR = {
+			AND = {
+				owns = 908
+				NOT = { owns = 911 }
+				911 = {
+					owner = {
+						ai = yes
+						NOT = { owns = 1156 }
+					}
+				}
+			}
+			AND = {
+				owns = 469
+				NOT = { owns = 465 }
+				465 = {
+					owner = {
+						ai = yes
+						NOT = { owns = 720 }
+					}
+				}
+			}
+			AND = {
+				owns = 1133
+				NOT = { owns = 1131 }
+				1131 = {
+					owner = {
+						ai = yes
+						NOT = { vassal_of = THIS }
+					}
+				}
+			}
+			AND = {
+				owns = 2583
+				NOT = { owns = 2582 }
+				2582 = {
+					owner = {
+						ai = yes
+						NOT = {
+							owns = 782
+							owns = 788
+						}
+					}
+				}
+			}
+			AND = {
+				owns = 1850
+				NOT = { owns = 1849 }
+				1849 = {
+					owner = {
+						ai = yes
+						year = 1875
+					}
+				}
+			}
+		}
+	}
+
+	option = {
+		#Palestine
+		random_owned = {
+			limit = {
+				owner = {
+					owns = 908
+					NOT = { owns = 911 }
+					911 = {
+						owner = {
+							ai = yes
+							NOT = { owns = 1156 }
+						}
+					}
+				}
+			}
+			owner = {
+				911 = { secede_province = THIS }
+			}
+		}
+		#Savoie
+		random_owned = {
+			limit = {
+				owner = {
+					owns = 469
+					NOT = { owns = 465 }
+					465 = {
+						owner = {
+							ai = yes
+							NOT = { owns = 720 }
+						}
+					}
+				}
+			}
+			owner = {
+				465 = { secede_province = THIS }
+				466 = { secede_province = THIS }
+				472 = { secede_province = THIS }
+			}
+		}
+		#Khuzestan
+		random_owned = {
+			limit = {
+				owner = {
+					owns = 1133
+					NOT = { owns = 1131 }
+					1131 = {
+						owner = {
+							ai = yes
+							NOT = { vassal_of = THIS }
+						}
+					}
+				}
+			}
+			owner = {
+				1131 = { secede_province = THIS }
+				1132 = { secede_province = THIS }
+			}
+		}
+		#Montenegro
+		random_owned = {
+			limit = {
+				owner = {
+					owns = 2583
+					NOT = { owns = 2582 }
+					2582 = {
+						owner = {
+							ai = yes
+							NOT = {
+								owns = 782
+								owns = 788
+							}
+						}
+					}
+				}
+			}
+			owner = {
+				2582 = { secede_province = THIS }
+			}
+		}
+		#Massawa
+		random_owned = {
+			limit = {
+				owner = {
+					owns = 1850
+					NOT = { owns = 1849 }
+					1849 = {
+						owner = {
+							ai = yes
+							year = 1875
+						}
+					}
+				}
+			}
+			owner = {
+				1849 = { secede_province = THIS }
+			}
+		}
+	}
+}
+
+#Leave Africa
+country_event = {
+	id = 92010
+	title = "Leave Africa"
+
+	trigger = {
+		capital_scope = {
+			continent = africa
+		}
+		NOT = {
+			tag = MAD
+			tag = ALD
+			tag = MOR
+			tag = EGY
+		}
+		civilized = no
+		exists = yes
+		ai = yes
+		part_of_sphere = yes
+		sphere_owner = {
+			ai = yes
+		}
+	}
+	
+	option = {
+		sphere_owner = {
+			diplomatic_influence = {
+				who = THIS
+				value = -400
+			}
+		}
+	}
+}
+
+#African Isolationism
+country_event = {
+	id = 92011
+	title = "African Isolationism"
+
+	trigger = {
+		ai = yes
+		has_country_flag = sub_saharan_africa
+		NOT = { tag = MAD }
+		any_greater_power = {
+			ai = yes
+			alliance_with = THIS
+		}
+	}
+
+
+	option = {
+		any_country = {
+			limit = {
+				ai = yes
+				NOT = { has_country_flag = sub_saharan_africa }
+			}
+			leave_alliance = THIS
+		}
+	}
+}
+
+
+
+#Jan Mayen Isolationism
+country_event = {
+	id = 92030
+	title = "Jan Mayen Isolationism"
+
+
+	trigger = {
+		tag = JAN
+		NOT = { has_country_modifier = jan_mayen_isolationism }
+	}
+
+
+	option = {
+		add_country_modifier = { name = jan_mayen_isolationism duration = 362 }
+		any_country = {
+			relation = {
+				who = JAN
+				value = -400
+			}
+		}
+	}
+}
+
+#Leave Jan Mayen
+country_event = {
+	id = 92031
+	title = "Leave World Bank"
+	desc = "Players are not allowed to interact with the World Bank"
+
+	trigger = {
+		OR = {
+			JAN = { in_sphere = THIS }
+			alliance_with = JAN
+			military_access = JAN
+		}
+	}
+
+	option = {
+		name = "I won't do it again."
+		diplomatic_influence = {
+			who = JAN
+			value = -400
+		}
+		end_military_access = JAN
+		leave_alliance = JAN
+		relation = {
+			who = JAN
+			value = -400
+		}
+	}
+}
+
+#South American Isolationism
+country_event = {
+	id = 92032
+	title = "South American Isolationism 1"
+
+	trigger = {
+		ai = yes
+		capital_scope = { continent = south_america }
+		any_greater_power = {
+			ai = yes
+			alliance_with = THIS
+		}
+	}
+
+
+	option = {
+		any_country = {
+			limit = {
+				ai = yes
+				capital_scope = { NOT = { continent = south_america } }
+			}
+			leave_alliance = THIS
+		}
+	}
+}
+
+#North American Isolationism
+country_event = {
+	id = 92033
+	title = "North American Isolationism 1"
+
+	trigger = {
+		ai = yes
+		capital_scope = { continent = north_america }
+		NOT = { is_vassal = yes }
+		any_greater_power = {
+			ai = yes
+			capital_scope = { NOT = { continent = north_america } }
+			capital_scope = { NOT = { continent = south_america } }
+			alliance_with = THIS
+		}
+	}
+
+
+	option = {
+		any_country = {
+			limit = {
+				ai = yes
+				capital_scope = { NOT = { continent = north_america } }
+				capital_scope = { NOT = { continent = south_america } }
+				NOT = { is_vassal = yes }
+			}
+			leave_alliance = THIS
+		}
+	}
+}
+
+
+#########################################################################
+# 						FIX BUGGED VASSAL								#
+#########################################################################
+country_event = {
+	id = 92099
+	title = "Fix Bugged Vassal"
+
+	trigger = {
+		exists = yes
+		is_vassal = yes
+		overlord = {
+			exists = no
+		}
+	}
+
+	option = {
+		release_vassal = THIS
+	}
+}
+

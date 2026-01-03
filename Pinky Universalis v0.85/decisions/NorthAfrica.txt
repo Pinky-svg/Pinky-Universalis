@@ -1,0 +1,113 @@
+political_decisions = {
+	conquer_andalusia = {
+		potential = {
+			NOT = {
+				has_global_flag = andalusia_mor
+			}
+			tag = MOR
+		}
+
+		allow = {
+			owns = 1689
+		}
+		
+		effect = {
+			set_global_flag = andalusia_mor
+			511 = {
+				add_core = MOR
+			}
+			509 = {
+				add_core = MOR
+			}
+			510 = {
+				add_core = MOR
+			}
+			512 = {
+				add_core = MOR
+			}
+			514 = {
+				add_core = MOR
+			}
+			513 = {
+				add_core = MOR
+			}
+			516 = {
+				add_core = MOR
+			}
+			515 = {
+				add_core = MOR
+			}
+		}
+	}
+	
+	conquer_iberia = {
+		potential = {
+			NOT = {
+				has_global_flag = iberia_mor
+			}
+			#has_global_flag = andalusia
+			tag = MOR
+		}
+
+		allow = {
+			nationalism_n_imperialism = 1
+			owns = 511
+			owns = 509
+			owns = 510
+			owns = 512
+			owns = 514
+			owns = 513
+			owns = 516
+			owns = 515
+		}
+		
+		effect = {
+			set_global_flag = iberia_mor
+			add_accepted_culture = spanish
+			add_accepted_culture = portuguese
+			511 = {
+				remove_core = SPA
+			}
+			509 = {
+				remove_core = SPA
+			}
+			510 = {
+				remove_core = SPA
+			}
+			512 = {
+				remove_core = SPA
+			}
+			514 = {
+				remove_core = SPA
+			}
+			513 = {
+				remove_core = SPA
+			}
+			516 = {
+				remove_core = SPA
+			}
+			515 = {
+				remove_core = SPA
+			}
+		}
+	}
+	accept_west_africa_ald = {
+		potential = {
+			NOT = {
+				has_global_flag = west_africa_ald
+			}
+			tag = ALD
+		}
+
+		allow = {
+			revolution_n_counterrevolution = 1
+		}
+		
+		effect = {
+			set_global_flag = west_africa_ald
+			add_accepted_culture = fulbe
+			add_accepted_culture = western_nigritic
+			
+		}
+	}
+}

@@ -1,0 +1,168 @@
+#Dahomey Region (512000)
+#under the rule of Dahomey in 1836
+#Cotonou (544000/136000 POPS)
+1919 = {
+    aristocrats = {
+        culture = yoruba
+        religion = animist
+        size = 6758
+    }
+
+    clergymen = {
+        culture = yoruba
+        religion = animist
+        size = 3978
+    }
+
+    artisans = {
+        culture = yoruba
+        religion = animist
+        size = 9814
+    }
+
+    soldiers = {
+        culture = yoruba
+        religion = animist
+        size = 6760
+    }
+
+    zbankers = {
+        culture = yoruba
+        religion = animist
+        size = 260860
+    }
+
+    slaves = {
+        culture = yoruba
+        religion = animist
+        size = 80000
+    }
+}
+#Abomey (480000/120000 POPS)
+1920 = {
+    aristocrats = {
+        culture = yoruba
+        religion = animist
+        size = 6102
+    }
+
+    bureaucrats = {
+        culture = yoruba
+        religion = animist
+        size = 3400
+    }
+
+    officers = {
+        culture = yoruba
+        religion = animist
+        size = 528
+    }
+
+    clergymen = {
+        culture = yoruba
+        religion = animist
+        size = 3576
+    }
+
+    artisans = {
+        culture = yoruba
+        religion = animist
+        size = 13128
+    }
+
+    soldiers = {
+        culture = yoruba
+        religion = animist
+        size = 21620
+    }
+
+    zbankers = {
+        culture = yoruba
+        religion = animist
+        size = 238382
+    }
+
+    slaves = {
+        culture = yoruba
+        religion = animist
+        size = 31840
+    }
+}
+#Borgu Region (76000) #see Nigeria.txt for balance of region
+#ruled by Sokoto in 1836
+#Nikki (48000/12000 POPS)
+1921 = {
+    aristocrats = {
+        culture = tiv
+        religion = animist
+        size = 590
+    }
+
+    bureaucrats = {
+        culture = tiv
+        religion = animist
+        size = 400
+    }
+
+    clergymen = {
+        culture = tiv
+        religion = animist
+        size = 456
+    }
+
+    artisans = {
+        culture = tiv
+        religion = animist
+        size = 1384
+    }
+
+    soldiers = {
+        culture = tiv
+        religion = animist
+        size = 528
+    }
+
+    zbankers = {
+        culture = tiv
+        religion = animist
+        size = 26396
+    }
+
+    slaves = {
+        culture = tiv
+        religion = animist
+        size = 2918
+    }
+}
+#Jugu (28000/7000 POPS)
+1922 = {
+    aristocrats = {
+        culture = mossi
+        religion = animist
+        size = 528
+    }
+
+    clergymen = {
+        culture = mossi
+        religion = animist
+        size = 528
+    }
+
+    artisans = {
+        culture = mossi
+        religion = animist
+        size = 924
+    }
+
+    soldiers = {
+        culture = mossi
+        religion = animist
+        size = 528
+    }
+
+    zbankers = {
+        culture = mossi
+        religion = animist
+        size = 16908
+    }
+}

@@ -1,0 +1,1346 @@
+#Abyssinia Region (2172000)
+#under the rule of Ethiopia in 1836
+#Gonder (632000/158000 POPS)
+1852 = {
+    aristocrats = {
+        culture = amhara
+        religion = coptic
+        size = 4200
+    }
+
+    bureaucrats = {
+        culture = amhara
+        religion = coptic
+        size = 3250
+    }
+
+    officers = {
+        culture = amhara
+        religion = coptic
+        size = 1040
+    }
+
+    clergymen = {
+        culture = amhara
+        religion = coptic
+        size = 2510
+    }
+
+    artisans = {
+        culture = amhara
+        religion = coptic
+        size = 12600
+    }
+
+    soldiers = {
+        culture = amhara
+        religion = coptic
+        size = 12240
+    }
+
+    zbankers = {
+        culture = amhara
+        religion = coptic
+        size = 244600
+    }
+
+    slaves = {
+        culture = amhara
+        religion = coptic
+        size = 22400
+    }
+
+    aristocrats = {
+        culture = sephardic
+        religion = jewish
+        size = 200
+    }
+
+    officers = {
+        culture = sephardic
+        religion = jewish
+        size = 210
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 210
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 700
+    }
+
+    soldiers = {
+        culture = sephardic
+        religion = jewish
+        size = 2200
+    }
+
+    zbankers = {
+        culture = sephardic
+        religion = jewish
+        size = 15260
+    }
+
+    aristocrats = {
+        culture = cushitic
+        religion = sunni
+        size = 1550
+    }
+
+    officers = {
+        culture = cushitic
+        religion = sunni
+        size = 200
+    }
+
+    clergymen = {
+        culture = cushitic
+        religion = sunni
+        size = 200
+    }
+
+    artisans = {
+        culture = cushitic
+        religion = sunni
+        size = 1300
+    }
+
+    soldiers = {
+        culture = cushitic
+        religion = sunni
+        size = 2200
+    }
+
+    zbankers = {
+        culture = cushitic
+        religion = sunni
+        size = 4600
+    }
+
+    slaves = {
+        culture = cushitic
+        religion = sunni
+        size = 7600
+    }
+}
+#Debre Tabor (656000/164000 POPS)
+1853 = {
+    aristocrats = {
+        culture = amhara
+        religion = coptic
+        size = 2352
+    }
+
+    bureaucrats = {
+        culture = amhara
+        religion = coptic
+        size = 1800
+    }
+
+    clergymen = {
+        culture = amhara
+        religion = coptic
+        size = 1176
+    }
+
+    artisans = {
+        culture = amhara
+        religion = coptic
+        size = 4872
+    }
+
+    soldiers = {
+        culture = amhara
+        religion = coptic
+        size = 8400
+    }
+
+    zbankers = {
+        culture = amhara
+        religion = coptic
+        size = 186880
+    }
+
+    slaves = {
+        culture = amhara
+        religion = coptic
+        size = 16800
+    }
+
+    aristocrats = {
+        culture = cushitic
+        religion = coptic
+        size = 1344
+    }
+
+    clergymen = {
+        culture = cushitic
+        religion = sunni
+        size = 738
+    }
+
+    artisans = {
+        culture = cushitic
+        religion = sunni
+        size = 8080
+    }
+
+    zbankers = {
+        culture = cushitic
+        religion = sunni
+        size = 13020
+    }
+
+    slaves = {
+        culture = cushitic
+        religion = sunni
+        size = 28056
+    }
+}
+#Matamma (652000/163000 POPS)
+1854 = {
+    aristocrats = {
+        culture = amhara
+        religion = coptic
+        size = 1900
+    }
+
+    clergymen = {
+        culture = amhara
+        religion = coptic
+        size = 1000
+    }
+
+    artisans = {
+        culture = amhara
+        religion = coptic
+        size = 2000
+    }
+
+    soldiers = {
+        culture = amhara
+        religion = coptic
+        size = 2700
+    }
+
+    zbankers = {
+        culture = amhara
+        religion = coptic
+        size = 150000
+    }
+
+    slaves = {
+        culture = amhara
+        religion = coptic
+        size = 7500
+    }
+
+    aristocrats = {
+        culture = sephardic
+        religion = jewish
+        size = 290
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 220
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 1600
+    }
+
+    soldiers = {
+        culture = sephardic
+        religion = jewish
+        size = 290
+    }
+
+    zbankers = {
+        culture = sephardic
+        religion = jewish
+        size = 10800
+    }
+}
+#Debre Markos (1100000/275000 POPS)
+1855 = {
+    aristocrats = {
+        culture = amhara
+        religion = coptic
+        size = 2436
+    }
+
+    bureaucrats = {
+        culture = amhara
+        religion = coptic
+        size = 5000
+    }
+
+    clergymen = {
+        culture = amhara
+        religion = coptic
+        size = 1276
+    }
+
+    artisans = {
+        culture = amhara
+        religion = coptic
+        size = 5124
+    }
+
+    soldiers = {
+        culture = amhara
+        religion = coptic
+        size = 2922
+    }
+
+    zbankers = {
+        culture = amhara
+        religion = coptic
+        size = 302160
+    }
+
+    slaves = {
+        culture = amhara
+        religion = coptic
+        size = 11760
+    }
+
+    aristocrats = {
+        culture = cushitic
+        religion = sunni
+        size = 3192
+    }
+
+    clergymen = {
+        culture = cushitic
+        religion = sunni
+        size = 840
+    }
+
+    artisans = {
+        culture = cushitic
+        religion = sunni
+        size = 13440
+    }
+
+    soldiers = {
+        culture = cushitic
+        religion = sunni
+        size = 7224
+    }
+
+    zbankers = {
+        culture = cushitic
+        religion = sunni
+        size = 84000
+    }
+
+    slaves = {
+        culture = cushitic
+        religion = sunni
+        size = 16464
+    }
+}
+#Tigray Region (316000)
+#under the rule of Ethiopia in 1836
+#Aksum (196000/49000 POPS)
+1856 = {
+    aristocrats = {
+        culture = amhara
+        religion = coptic
+        size = 1512
+    }
+
+    bureaucrats = {
+        culture = amhara
+        religion = coptic
+        size = 1800
+    }
+
+    officers = {
+        culture = amhara
+        religion = coptic
+        size = 284
+    }
+
+    clergymen = {
+        culture = amhara
+        religion = coptic
+        size = 880
+    }
+
+    artisans = {
+        culture = amhara
+        religion = coptic
+        size = 3410
+    }
+
+    soldiers = {
+        culture = amhara
+        religion = coptic
+        size = 4200
+    }
+
+    zbankers = {
+        culture = amhara
+        religion = coptic
+        size = 108460
+    }
+
+    slaves = {
+        culture = amhara
+        religion = coptic
+        size = 11760
+    }
+
+    slaves = {
+        culture = sudanese
+        religion = sunni
+        size = 2352
+    }
+}
+#Antalo (180000/45000 POPS)
+1857 = {
+    aristocrats = {
+        culture = amhara
+        religion = coptic
+        size = 1410
+    }
+
+    clergymen = {
+        culture = amhara
+        religion = coptic
+        size = 772
+    }
+
+    artisans = {
+        culture = amhara
+        religion = coptic
+        size = 3234
+    }
+
+    soldiers = {
+        culture = amhara
+        religion = coptic
+        size = 4200
+    }
+
+    zbankers = {
+        culture = amhara
+        religion = coptic
+        size = 79464
+    }
+
+    slaves = {
+        culture = cushitic
+        religion = coptic
+        size = 36960
+    }
+}
+#Awsa (68000/17000 POPS)
+1858 = {
+    aristocrats = {
+        culture = cushitic
+        religion = sunni
+        size = 528
+    }
+
+    bureaucrats = {
+        culture = cushitic
+        religion = sunni
+        size = 180
+    }
+
+    clergymen = {
+        culture = cushitic
+        religion = sunni
+        size = 294
+    }
+
+    artisans = {
+        culture = cushitic
+        religion = sunni
+        size = 1176
+    }
+
+    soldiers = {
+        culture = cushitic
+        religion = sunni
+        size = 294
+    }
+
+    zbankers = {
+        culture = cushitic
+        religion = sunni
+        size = 21226
+    }
+
+    slaves = {
+        culture = cushitic
+        religion = sunni
+        size = 5040
+    }
+}
+#Shoa Region (2068000)
+#under the rule of Ethiopia in 1836
+#Ankober (1236000/309000 POPS)
+1859 = {
+    aristocrats = {
+        culture = amhara
+        religion = coptic
+        size = 19698
+    }
+
+    bureaucrats = {
+        culture = amhara
+        religion = coptic
+        size = 5000
+    }
+
+    officers = {
+        culture = amhara
+        religion = coptic
+        size = 1108
+    }
+
+    clergymen = {
+        culture = amhara
+        religion = coptic
+        size = 3912
+    }
+
+    artisans = {
+        culture = amhara
+        religion = coptic
+        size = 40992
+    }
+
+    soldiers = {
+        culture = amhara
+        religion = coptic
+        size = 26040
+    }
+
+    zbankers = {
+        culture = amhara
+        religion = coptic
+        size = 168032
+    }
+
+    slaves = {
+        culture = amhara
+        religion = coptic
+        size = 36288
+    }
+
+    aristocrats = {
+        culture = cushitic
+        religion = sunni
+        size = 5418
+    }
+
+    bureaucrats = {
+        culture = cushitic
+        religion = sunni
+        size = 600
+    }
+
+    officers = {
+        culture = cushitic
+        religion = sunni
+        size = 1008
+    }
+
+    clergymen = {
+        culture = cushitic
+        religion = sunni
+        size = 1500
+    }
+
+    artisans = {
+        culture = cushitic
+        religion = sunni
+        size = 11592
+    }
+
+    soldiers = {
+        culture = cushitic
+        religion = sunni
+        size = 3468
+    }
+
+    zbankers = {
+        culture = cushitic
+        religion = sunni
+        size = 237052
+    }
+
+    slaves = {
+        culture = cushitic
+        religion = sunni
+        size = 43712
+    }
+
+}
+#Awasa (448000/115000 POPS)
+1860 = {
+    aristocrats = {
+        culture = cushitic
+        religion = sunni
+        size = 3780
+    }
+
+    clergymen = {
+        culture = cushitic
+        religion = sunni
+        size = 1932
+    }
+
+    artisans = {
+        culture = cushitic
+        religion = sunni
+        size = 7770
+    }
+
+    soldiers = {
+        culture = cushitic
+        religion = sunni
+        size = 3598
+    }
+
+    zbankers = {
+        culture = cushitic
+        religion = sunni
+        size = 162162
+    }
+
+    slaves = {
+        culture = cushitic
+        religion = sunni
+        size = 16800
+    }
+}
+#Aselia (384000/96000 POPS)
+#From here on they were amhara and coptic
+1861 = {
+    aristocrats = {
+        culture = cushitic
+        religion = sunni
+        size = 3108
+    }
+
+    clergymen = {
+        culture = cushitic
+        religion = sunni
+        size = 756
+    }
+
+    artisans = {
+        culture = cushitic
+        religion = sunni
+        size = 6552
+    }
+
+    soldiers = {
+        culture = cushitic
+        religion = sunni
+        size = 6902
+    }
+
+    zbankers = {
+        culture = cushitic
+        religion = sunni
+        size = 129402
+    }
+
+    slaves = {
+        culture = cushitic
+        religion = sunni
+        size = 20160
+    }
+}
+#Sidamo-Welega Region (1628000)
+#under the "rule" of Ethiopia in 1836
+#Bonga (516000/129000 POPS)
+1862 = {
+	aristocrats = {
+		culture = cushitic
+		religion = sunni
+		size = 860
+	}
+	bureaucrats = {
+		culture = cushitic
+		religion = sunni
+		size = 800
+	}
+	clergymen = {
+		culture = cushitic
+		religion = sunni
+		size = 570
+	}
+	artisans = {
+		culture = cushitic
+		religion = sunni
+		size = 8000
+	}
+	soldiers = {
+		culture = cushitic
+		religion = sunni
+		size = 4200
+	}
+	zbankers = {
+		culture = cushitic
+		religion = sunni
+		size = 168100
+	}
+}
+#Asosa (756000/189000 POPS)
+1863 = {
+    aristocrats = {
+        culture = amhara
+        religion = coptic
+        size = 336
+    }
+
+    clergymen = {
+        culture = amhara
+        religion = coptic
+        size = 520
+    }
+
+    artisans = {
+        culture = amhara
+        religion = coptic
+        size = 4000
+    }
+
+    soldiers = {
+        culture = amhara
+        religion = coptic
+        size = 1848
+    }
+
+    zbankers = {
+        culture = amhara
+        religion = coptic
+        size = 39764
+    }
+
+    slaves = {
+        culture = amhara
+        religion = coptic
+        size = 3360
+    }
+
+    aristocrats = {
+        culture = cushitic
+        religion = sunni
+        size = 2772
+    }
+
+    clergymen = {
+        culture = cushitic
+        religion = sunni
+        size = 2132
+    }
+
+    artisans = {
+        culture = cushitic
+        religion = sunni
+        size = 20000
+    }
+
+    artisans = {
+        culture = cushitic
+        religion = sunni
+        size = 10000
+    }
+
+    soldiers = {
+        culture = cushitic
+        religion = sunni
+        size = 402
+    }
+
+    zbankers = {
+        culture = cushitic
+        religion = sunni
+        size = 220660
+    }
+
+    slaves = {
+        culture = cushitic
+        religion = sunni
+        size = 3480
+    }
+}
+#Negele (720000/180000 POPS)
+1864 = {
+    aristocrats = {
+        culture = cushitic
+        religion = sunni
+        size = 2310
+    }
+
+    bureaucrats = {
+        culture = cushitic
+        religion = sunni
+        size = 800
+    }
+
+    clergymen = {
+        culture = cushitic
+        religion = sunni
+        size = 1218
+    }
+
+    artisans = {
+        culture = cushitic
+        religion = sunni
+        size = 4914
+    }
+
+    soldiers = {
+        culture = cushitic
+        religion = sunni
+        size = 6818
+    }
+
+    zbankers = {
+        culture = cushitic
+        religion = sunni
+        size = 75220
+    }
+
+    slaves = {
+        culture = cushitic
+        religion = sunni
+        size = 57120
+    }
+}
+#Ogaden Region (786000)
+#under the "rule" of Ethiopia in 1836
+#Harer (384000/96000 POPS)
+1865 = {
+    aristocrats = {
+        culture = amhara
+        religion = coptic
+        size = 1528
+    }
+
+    bureaucrats = {
+        culture = amhara
+        religion = coptic
+        size = 3000
+    }
+
+    officers = {
+        culture = amhara
+        religion = coptic
+        size = 42
+    }
+
+    clergymen = {
+        culture = amhara
+        religion = coptic
+        size = 478
+    }
+
+    artisans = {
+        culture = amhara
+        religion = coptic
+        size = 3192
+    }
+
+    soldiers = {
+        culture = amhara
+        religion = coptic
+        size = 4648
+    }
+
+    zbankers = {
+        culture = amhara
+        religion = coptic
+        size = 63080
+    }
+
+    aristocrats = {
+        culture = cushitic
+        religion = sunni
+        size = 504
+    }
+
+    clergymen = {
+        culture = cushitic
+        religion = sunni
+        size = 276
+    }
+
+    artisans = {
+        culture = cushitic
+        religion = sunni
+        size = 1176
+    }
+
+    soldiers = {
+        culture = cushitic
+        religion = sunni
+        size = 1964
+    }
+
+    zbankers = {
+        culture = cushitic
+        religion = sunni
+        size = 19596
+    }
+
+    slaves = {
+        culture = cushitic
+        religion = sunni
+        size = 3696
+    }
+
+    aristocrats = {
+        culture = somali
+        religion = sunni
+        size = 1596
+    }
+
+    clergymen = {
+        culture = somali
+        religion = sunni
+        size = 798
+    }
+
+    artisans = {
+        culture = somali
+        religion = sunni
+        size = 4032
+    }
+
+    soldiers = {
+        culture = somali
+        religion = sunni
+        size = 294
+    }
+
+    zbankers = {
+        culture = somali
+        religion = sunni
+        size = 55104
+    }
+}
+#uncolonized in 1836
+#Goba (296000/74000 POPS)
+1866 = {
+    aristocrats = {
+        culture = cushitic
+        religion = sunni
+        size = 1750
+    }
+
+    clergymen = {
+        culture = cushitic
+        religion = sunni
+        size = 910
+    }
+
+    artisans = {
+        culture = cushitic
+        religion = sunni
+        size = 4480
+    }
+
+    soldiers = {
+        culture = cushitic
+        religion = sunni
+        size = 2940
+    }
+
+    zbankers = {
+        culture = cushitic
+        religion = sunni
+        size = 107800
+    }
+
+    slaves = {
+        culture = cushitic
+        religion = sunni
+        size = 14000
+    }
+}
+#Werder (328000/82000 POPS)
+1867 = {
+    clergymen = {
+        culture = cushitic
+        religion = sunni
+        size = 420
+    }
+
+    artisans = {
+        culture = cushitic
+        religion = sunni
+        size = 2100
+    }
+
+    soldiers = {
+        culture = cushitic
+        religion = sunni
+        size = 420
+    }
+
+    zbankers = {
+        culture = cushitic
+        religion = sunni
+        size = 38290
+    }
+
+    aristocrats = {
+        culture = somali
+        religion = sunni
+        size = 4410
+    }
+
+    clergymen = {
+        culture = somali
+        religion = sunni
+        size = 280
+    }
+
+    soldiers = {
+        culture = somali
+        religion = sunni
+        size = 3220
+    }
+
+    artisans = {
+        culture = somali
+        religion = sunni
+        size = 9590
+    }
+
+    zbankers = {
+        culture = somali
+        religion = sunni
+        size = 141750
+    }
+
+    slaves = {
+        culture = cushitic
+        religion = sunni
+        size = 5600
+    }
+}
+#Chilga (428000/107000)
+2225 = {
+	aristocrats = {
+		culture = amhara
+		religion = coptic
+		size = 1440
+	}
+
+	clergymen = {
+		culture = amhara
+		religion = coptic
+		size = 800
+	}
+
+	artisans = {
+		culture = amhara
+		religion = coptic
+		size = 1940
+	}
+
+	soldiers = {
+		culture = amhara
+		religion = coptic
+		size = 2240
+	}
+
+	zbankers = {
+		culture = amhara
+		religion = coptic
+		size = 184600
+	}
+
+    aristocrats = {
+        culture = sudanese
+        religion = sunni
+        size = 680
+    }
+
+    clergymen = {
+        culture = sudanese
+        religion = sunni
+        size = 120
+    }
+
+    artisans = {
+        culture = sudanese
+        religion = sunni
+        size = 2240
+    }
+
+    soldiers = {
+        culture = sudanese
+        religion = sunni
+        size = 920
+    }
+
+    zbankers = {
+        culture = sudanese
+        religion = sunni
+        size = 19000
+    }
+
+    slaves = {
+        culture = sudanese
+        religion = sunni
+        size = 7500
+    }
+}
+#Asosa (756000/189000 POPS)
+2640 = {
+    aristocrats = {
+        culture = amhara
+        religion = coptic
+        size = 400
+    }
+
+    clergymen = {
+        culture = amhara
+        religion = coptic
+        size = 620
+    }
+
+    artisans = {
+        culture = amhara
+        religion = coptic
+        size = 2400
+    }
+
+    soldiers = {
+        culture = amhara
+        religion = coptic
+        size = 2200
+    }
+    zbankers = {
+        culture = amhara
+        religion = coptic
+        size = 41700
+    }
+
+    slaves = {
+        culture = amhara
+        religion = coptic
+        size = 12000
+    }
+
+    aristocrats = {
+        culture = cushitic
+        religion = sunni
+        size = 3300
+    }
+
+    clergymen = {
+        culture = cushitic
+        religion = sunni
+        size = 2540
+    }
+
+    artisans = {
+        culture = cushitic
+        religion = sunni
+        size = 6700
+    }
+
+    soldiers = {
+        culture = cushitic
+        religion = sunni
+        size = 480
+    }
+
+    zbankers = {
+        culture = cushitic
+        religion = sunni
+        size = 197000
+    }
+
+    slaves = {
+        culture = cushitic
+        religion = sunni
+        size = 98850
+    }
+}
+#Bonga (516000/129000 POPS)
+3 = {
+    aristocrats = {
+        culture = cushitic
+        religion = sunni
+        size = 7550
+    }
+
+    officers = {
+        culture = cushitic
+        religion = sunni
+        size = 150
+    }
+
+    clergymen = {
+        culture = cushitic
+        religion = sunni
+        size = 1230
+    }
+
+    artisans = {
+        culture = cushitic
+        religion = sunni
+        size = 8500
+    }
+
+    soldiers = {
+        culture = cushitic
+        religion = sunni
+        size = 5550
+    }
+
+    zbankers = {
+        culture = cushitic
+        religion = sunni
+        size = 219000
+    }
+
+    slaves = {
+        culture = cushitic
+        religion = sunni
+        size = 13000
+    }
+
+    aristocrats = {
+        culture = sudanese
+        religion = sunni
+        size = 1750
+    }
+
+    clergymen = {
+        culture = sudanese
+        religion = sunni
+        size = 150
+    }
+
+    soldiers = {
+        culture = sudanese
+        religion = sunni
+        size = 750
+    }
+
+    artisans = {
+        culture = sudanese
+        religion = sunni
+        size = 3000
+    }
+
+    zbankers = {
+        culture = sudanese
+        religion = sunni
+        size = 62000
+    }
+
+    aristocrats = {
+        culture = amhara
+        religion = coptic
+        size = 570
+    }
+
+    officers = {
+        culture = amhara
+        religion = coptic
+        size = 150
+    }
+
+    clergymen = {
+        culture = amhara
+        religion = coptic
+        size = 300
+    }
+
+    artisans = {
+        culture = amhara
+        religion = coptic
+        size = 750
+    }
+
+    soldiers = {
+        culture = amhara
+        religion = coptic
+        size = 3750
+    }
+
+    zbankers = {
+        culture = amhara
+        religion = coptic
+        size = 15700
+    }
+}
+#Debre Tabor (270000/67500 POPS)
+25 = {
+	aristocrats = {
+		culture = amhara
+		religion = coptic
+		size = 1400
+	}
+	clergymen = {
+		culture = amhara
+		religion = coptic
+		size = 1100
+	}
+	artisans = {
+		culture = amhara
+		religion = coptic
+		size = 20000
+	}
+	artisans = {
+		culture = amhara
+		religion = coptic
+		size = 20000
+	}
+	artisans = {
+		culture = amhara
+		religion = coptic
+		size = 20000
+	}
+	artisans = {
+		culture = amhara
+		religion = coptic
+		size = 20000
+	}
+	artisans = {
+		culture = amhara
+		religion = coptic
+		size = 20000
+	}
+	artisans = {
+		culture = amhara
+		religion = coptic
+		size = 7700
+	}
+	soldiers = {
+		culture = amhara
+		religion = coptic
+		size = 4800
+	}
+	zbankers = {
+		culture = amhara
+		religion = coptic
+		size = 20000
+    }
+}

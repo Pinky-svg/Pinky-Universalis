@@ -1,0 +1,1509 @@
+#Yorubaland Region (1824000)
+#ruled by Oyo in 1836
+#Lagos (336000/84000 POPS)
+1923 = {
+    aristocrats = {
+        culture = yoruba
+        religion = animist
+        size = 3188
+    }
+
+    clergymen = {
+        culture = yoruba
+        religion = animist
+        size = 1794
+    }
+
+    artisans = {
+        culture = yoruba
+        religion = animist
+        size = 6782
+    }
+
+    soldiers = {
+        culture = yoruba
+        religion = animist
+        size = 2456
+    }
+
+    zbankers = {
+        culture = yoruba
+        religion = animist
+        size = 81794
+    }
+
+    slaves = {
+        culture = yoruba
+        religion = animist
+        size = 71820
+    }
+}
+#Abeokuta (784000/196000 POPS)
+1924 = {
+    aristocrats = {
+        culture = yoruba
+        religion = animist
+        size = 7678
+    }
+
+    clergymen = {
+        culture = yoruba
+        religion = animist
+        size = 3888
+    }
+
+    artisans = {
+        culture = yoruba
+        religion = animist
+        size = 15960
+    }
+
+    soldiers = {
+        culture = yoruba
+        religion = animist
+        size = 4188
+    }
+
+    zbankers = {
+        culture = yoruba
+        religion = animist
+        size = 283488
+    }
+
+    slaves = {
+        culture = yoruba
+        religion = animist
+        size = 75810
+    }
+}
+#Ibadan (1160000/290000 POPS)
+1925 = {
+    aristocrats = {
+        culture = yoruba
+        religion = animist
+        size = 11570
+    }
+
+    bureaucrats = {
+        culture = yoruba
+        religion = animist
+        size = 598
+    }
+
+    officers = {
+        culture = yoruba
+        religion = animist
+        size = 1794
+    }
+
+    clergymen = {
+        culture = yoruba
+        religion = animist
+        size = 5784
+    }
+
+    artisans = {
+        culture = yoruba
+        religion = animist
+        size = 19950
+    }
+
+    artisans = {
+        culture = yoruba
+        religion = animist
+        size = 3390
+    }
+
+    soldiers = {
+        culture = yoruba
+        religion = animist
+        size = 11984
+    }
+
+    zbankers = {
+        culture = yoruba
+        religion = animist
+        size = 443472
+    }
+
+    slaves = {
+        culture = yoruba
+        religion = animist
+        size = 80000
+    }
+}
+#Ife (872000/218000 POPS)
+1926 = {
+    aristocrats = {
+        culture = yoruba
+        religion = animist
+        size = 8476
+    }
+
+    bureaucrats = {
+        culture = yoruba
+        religion = animist
+        size = 7200
+    }
+
+    clergymen = {
+        culture = yoruba
+        religion = animist
+        size = 4286
+    }
+
+    artisans = {
+        culture = yoruba
+        religion = animist
+        size = 19950
+    }
+
+    artisans = {
+        culture = yoruba
+        religion = animist
+        size = 1596
+    }
+
+    soldiers = {
+        culture = yoruba
+        religion = animist
+        size = 4388
+    }
+
+    zbankers = {
+        culture = yoruba
+        religion = animist
+        size = 309206
+    }
+
+    slaves = {
+        culture = yoruba
+        religion = animist
+        size = 79800
+    }
+}
+#Ilorin (248000/62000 POPS) african_Minor includes Nupe
+1927 = {
+    aristocrats = {
+        culture = yoruba
+        religion = sunni
+        size = 2390
+    }
+
+    clergymen = {
+        culture = yoruba
+        religion = sunni
+        size = 1390
+    }
+
+    artisans = {
+        culture = yoruba
+        religion = animist
+        size = 5984
+    }
+
+    soldiers = {
+        culture = yoruba
+        religion = animist
+        size = 4636
+    }
+
+    zbankers = {
+        culture = yoruba
+        religion = animist
+        size = 95906
+    }
+
+    slaves = {
+        culture = yoruba
+        religion = animist
+        size = 15960
+    }
+}
+#Edo Region (1676000)
+#ruled by Benin in 1836
+#Benin (1144000/286000 POPS)
+1928 = {
+    aristocrats = {
+        culture = tiv
+        religion = animist
+        size = 11270
+    }
+
+    bureaucrats = {
+        culture = tiv
+        religion = animist
+        size = 5200
+    }
+
+    officers = {
+        culture = tiv
+        religion = animist
+        size = 1396
+    }
+
+    clergymen = {
+        culture = tiv
+        religion = animist
+        size = 5684
+    }
+
+    artisans = {
+        culture = tiv
+        religion = animist
+        size = 21146
+    }
+
+    soldiers = {
+        culture = tiv
+        religion = animist
+        size = 14364
+    }
+
+    zbankers = {
+        culture = tiv
+        religion = animist
+        size = 431506
+    }
+
+    slaves = {
+        culture = tiv
+        religion = animist
+        size = 80000
+    }
+}
+#Lokoja (332000/83000 POPS)
+1930 = {
+    aristocrats = {
+        culture = tiv
+        religion = animist
+        size = 6428
+    }
+
+    clergymen = {
+        culture = tiv
+        religion = animist
+        size = 3236
+    }
+
+    artisans = {
+        culture = tiv
+        religion = animist
+        size = 13060
+    }
+
+    soldiers = {
+        culture = tiv
+        religion = animist
+        size = 3338
+    }
+
+    zbankers = {
+        culture = tiv
+        religion = animist
+        size = 219094
+    }
+
+    slaves = {
+        culture = tiv
+        religion = animist
+        size = 80000
+    }
+}
+#Warri (1232000/308000 POPS) east_kwa includes Ijaw
+1931 = {
+    aristocrats = {
+        culture = tiv
+        religion = animist
+        size = 12266
+    }
+
+    bureaucrats = {
+        culture = tiv
+        religion = animist
+        size = 3600
+    }
+
+    clergymen = {
+        culture = tiv
+        religion = animist
+        size = 6184
+    }
+
+    artisans = {
+        culture = tiv
+        religion = animist
+        size = 24636
+    }
+
+    soldiers = {
+        culture = tiv
+        religion = animist
+        size = 5984
+    }
+
+    soldiers = {
+        culture = tiv
+        religion = animist
+        size = 198
+    }
+
+    zbankers = {
+        culture = tiv
+        religion = animist
+        size = 482782
+    }
+
+    slaves = {
+        culture = tiv
+        religion = animist
+        size = 80000
+    }
+}
+#ruled by Benin in 1836
+#Akure (312000/78000 POPS) african_Minor includes Nupe
+1929 = {
+    aristocrats = {
+        culture = tiv
+        religion = animist
+        size = 2890
+    }
+
+    clergymen = {
+        culture = tiv
+        religion = animist
+        size = 1494
+    }
+
+    artisans = {
+        culture = tiv
+        religion = animist
+        size = 1596
+    }
+
+    soldiers = {
+        culture = tiv
+        religion = animist
+        size = 7182
+    }
+
+    zbankers = {
+        culture = tiv
+        religion = animist
+        size = 118500
+    }
+
+    slaves = {
+        culture = tiv
+        religion = animist
+        size = 23940
+    }
+}
+#Oil Rivers Region (1580000)
+#uncolonized in 1836/ruled by Calabar and the tiv States
+#Bonny (224000/56000 POPS) afrcan_minor includes Ijaw
+1932 = {
+    aristocrats = {
+        culture = tiv
+        religion = animist
+        size = 2194
+    }
+
+    clergymen = {
+        culture = tiv
+        religion = animist
+        size = 1094
+    }
+
+    artisans = {
+        culture = tiv
+        religion = animist
+        size = 2292
+    }
+
+    soldiers = {
+        culture = tiv
+        religion = animist
+        size = 4388
+    }
+
+    zbankers = {
+        culture = tiv
+        religion = animist
+        size = 99750
+    }
+
+    slaves = {
+        culture = tiv
+        religion = animist
+        size = 27930
+    }
+}
+#Awka (1264000/316000 POPS)
+1933 = {
+    aristocrats = {
+        culture = tiv
+        religion = animist
+        size = 12568
+    }
+
+    clergymen = {
+        culture = tiv
+        religion = animist
+        size = 6282
+    }
+
+    artisans = {
+        culture = tiv
+        religion = animist
+        size = 20000
+    }
+
+    artisans = {
+        culture = tiv
+        religion = animist
+        size = 16954
+    }
+
+    soldiers = {
+        culture = tiv
+        religion = animist
+        size = 15960
+    }
+
+    zbankers = {
+        culture = tiv
+        religion = animist
+        size = 450670
+    }
+
+    slaves = {
+        culture = tiv
+        religion = animist
+        size = 107980
+    }
+}
+#Calabar (840000/210000 POPS)
+1934 = {
+    aristocrats = {
+        culture = tiv
+        religion = animist
+        size = 8276
+    }
+
+    bureaucrats = {
+        culture = tiv
+        religion = animist
+        size = 1800
+    }
+
+    clergymen = {
+        culture = tiv
+        religion = animist
+        size = 4188
+    }
+
+    artisans = {
+        culture = tiv
+        religion = animist
+        size = 20000
+    }
+
+    artisans = {
+        culture = tiv
+        religion = animist
+        size = 20000
+    }
+
+    soldiers = {
+        culture = tiv
+        religion = animist
+        size = 4188
+    }
+
+    zbankers = {
+        culture = tiv
+        religion = animist
+        size = 292710
+    }
+
+    slaves = {
+        culture = tiv
+        religion = animist
+        size = 67980
+    }
+}
+#Aruchukwu (832000/208000 POPS)
+1935 = {
+    aristocrats = {
+        culture = tiv
+        religion = animist
+        size = 8276
+    }
+
+    bureaucrats = {
+        culture = tiv
+        religion = animist
+        size = 5850
+    }
+
+    clergymen = {
+        culture = tiv
+        religion = animist
+        size = 4188
+    }
+
+    artisans = {
+        culture = tiv
+        religion = animist
+        size = 16656
+    }
+
+    soldiers = {
+        culture = tiv
+        religion = animist
+        size = 4788
+    }
+
+    zbankers = {
+        culture = tiv
+        religion = animist
+        size = 308264
+    }
+
+    slaves = {
+        culture = tiv
+        religion = animist
+        size = 67830
+    }
+}
+#Kwararafa Region (548000)
+#uncolonized in 1836
+#Makurdi (372000/93000 POPS)
+1936 = {
+    aristocrats = {
+        culture = tiv
+        religion = animist
+        size = 3688
+    }
+
+    clergymen = {
+        culture = tiv
+        religion = animist
+        size = 1842
+    }
+
+    artisans = {
+        culture = tiv
+        religion = animist
+        size = 20000
+    }
+
+    artisans = {
+        culture = tiv
+        religion = animist
+        size = 20000
+    }
+
+    artisans = {
+        culture = tiv
+        religion = animist
+        size = 20000
+    }
+
+    artisans = {
+        culture = tiv
+        religion = animist
+        size = 20000
+    }
+
+    artisans = {
+        culture = tiv
+        religion = animist
+        size = 20000
+    }
+
+    artisans = {
+        culture = tiv
+        religion = animist
+        size = 12212
+    }
+
+    soldiers = {
+        culture = tiv
+        religion = animist
+        size = 1892
+    }
+
+    zbankers = {
+        culture = tiv
+        religion = animist
+        size = 20000
+    }
+
+    slaves = {
+        culture = tiv
+        religion = animist
+        size = 45884
+    }
+}
+#Tukari (176000/44000 POPS)
+1937 = {
+    aristocrats = {
+        culture = tiv
+        religion = animist
+        size = 1742
+    }
+
+    clergymen = {
+        culture = tiv
+        religion = animist
+        size = 896
+    }
+
+    artisans = {
+        culture = tiv
+        religion = animist
+        size = 3536
+    }
+
+    soldiers = {
+        culture = tiv
+        religion = animist
+        size = 896
+    }
+
+    zbankers = {
+        culture = tiv
+        religion = animist
+        size = 112216
+    }
+
+    slaves = {
+        culture = tiv
+        religion = animist
+        size = 15960
+    }
+}
+#Borgu Region (56000) #see Benin.txt for balance of region
+#ruled by Sokoto in 1836
+#Bussa (56000/14000 POPS) #now part of Nigeria
+1938 = {
+    aristocrats = {
+        culture = tiv
+        religion = animist
+        size = 46
+    }
+
+    clergymen = {
+        culture = tiv
+        religion = animist
+        size = 98
+    }
+
+    artisans = {
+        culture = tiv
+        religion = animist
+        size = 198
+    }
+
+    soldiers = {
+        culture = tiv
+        religion = animist
+        size = 46
+    }
+
+    zbankers = {
+        culture = tiv
+        religion = animist
+        size = 3590
+    }
+
+    slaves = {
+        culture = tiv
+        religion = animist
+        size = 3990
+    }
+
+    aristocrats = {
+        culture = tiv
+        religion = sunni
+        size = 446
+    }
+
+    clergymen = {
+        culture = tiv
+        religion = sunni
+        size = 246
+    }
+
+    artisans = {
+        culture = tiv
+        religion = sunni
+        size = 996
+    }
+
+    soldiers = {
+        culture = tiv
+        religion = sunni
+        size = 246
+    }
+
+    zbankers = {
+        culture = tiv
+        religion = sunni
+        size = 18002
+    }
+}
+#Nupe-Jos Region (600000)
+#under rule of Sokoto in 1836
+#Zaria (216000/54000 POPS) #african_Minor includes Gwari
+1939 = {
+    aristocrats = {
+        culture = hausa
+        religion = sunni
+        size = 1986
+    }
+
+    bureaucrats = {
+        culture = hausa
+        religion = sunni
+        size = 94
+    }
+
+    officers = {
+        culture = hausa
+        religion = sunni
+        size = 196
+    }
+
+    clergymen = {
+        culture = hausa
+        religion = sunni
+        size = 1494
+    }
+
+    artisans = {
+        culture = hausa
+        religion = sunni
+        size = 5232
+    }
+
+    soldiers = {
+        culture = hausa
+        religion = sunni
+        size = 5132
+    }
+
+    zbankers = {
+        culture = hausa
+        religion = sunni
+        size = 130066
+    }
+
+    slaves = {
+        culture = hausa
+        religion = sunni
+        size = 11970
+    }
+}
+#Bida (68000/17000 POPS) #african_Minor includes Gwari
+1940 = {
+    aristocrats = {
+        culture = tiv
+        religion = animist
+        size = 646
+    }
+
+    clergymen = {
+        culture = tiv
+        religion = animist
+        size = 344
+    }
+
+    artisans = {
+        culture = tiv
+        religion = animist
+        size = 1396
+    }
+
+    soldiers = {
+        culture = tiv
+        religion = animist
+        size = 344
+    }
+
+    zbankers = {
+        culture = tiv
+        religion = animist
+        size = 21194
+    }
+
+    slaves = {
+        culture = tiv
+        religion = animist
+        size = 9974
+    }
+}
+#Abuja (64000/16000 POPS) #african_Minor includes Gwari and Chamba
+1941 = {
+    aristocrats = {
+        culture = tiv
+        religion = animist
+        size = 598
+    }
+
+    clergymen = {
+        culture = tiv
+        religion = animist
+        size = 296
+    }
+
+    artisans = {
+        culture = tiv
+        religion = animist
+        size = 1294
+    }
+
+    soldiers = {
+        culture = tiv
+        religion = animist
+        size = 344
+    }
+
+    zbankers = {
+        culture = tiv
+        religion = animist
+        size = 21394
+    }
+
+    slaves = {
+        culture = tiv
+        religion = animist
+        size = 7980
+    }
+}
+#Bauchi (152000/38000 POPS) #african_Minor includes Chamba
+1942 = {
+    aristocrats = {
+        culture = hausa
+        religion = sunni
+        size = 1388
+    }
+
+    clergymen = {
+        culture = hausa
+        religion = sunni
+        size = 890
+    }
+
+    artisans = {
+        culture = hausa
+        religion = sunni
+        size = 3434
+    }
+
+    soldiers = {
+        culture = hausa
+        religion = sunni
+        size = 4782
+    }
+
+    zbankers = {
+        culture = hausa
+        religion = sunni
+        size = 59596
+    }
+
+    slaves = {
+        culture = hausa
+        religion = sunni
+        size = 7980
+    }
+}
+#Jos (52000/13000 POPS) #african_Minor includes Chamba
+1943 = {
+    aristocrats = {
+        culture = tiv
+        religion = animist
+        size = 446
+    }
+
+    clergymen = {
+        culture = tiv
+        religion = animist
+        size = 292
+    }
+
+    artisans = {
+        culture = tiv
+        religion = animist
+        size = 940
+    }
+
+    soldiers = {
+        culture = tiv
+        religion = animist
+        size = 292
+    }
+
+    zbankers = {
+        culture = tiv
+        religion = animist
+        size = 20000
+    }
+
+    slaves = {
+        culture = tiv
+        religion = animist
+        size = 3990
+    }
+}
+#Gombe (48000/12000 POPS)
+1944 = {
+    aristocrats = {
+        culture = tiv
+        religion = animist
+        size = 392
+    }
+
+    clergymen = {
+        culture = tiv
+        religion = animist
+        size = 296
+    }
+
+    artisans = {
+        culture = tiv
+        religion = animist
+        size = 996
+    }
+
+    soldiers = {
+        culture = tiv
+        religion = animist
+        size = 246
+    }
+
+    zbankers = {
+        culture = tiv
+        religion = animist
+        size = 109772
+    }
+
+    slaves = {
+        culture = tiv
+        religion = animist
+        size = 19950
+    }
+}
+#Hausaland Region (3056000)
+#under rule of Sokoto in 1836
+#Kano (852000/213000 POPS)
+1945 = {
+    aristocrats = {
+        culture = hausa
+        religion = sunni
+        size = 8524
+    }
+
+    bureaucrats = {
+        culture = hausa
+        religion = sunni
+        size = 11300
+    }
+
+    clergymen = {
+        culture = hausa
+        religion = sunni
+        size = 4284
+    }
+
+    artisans = {
+        culture = hausa
+        religion = sunni
+        size = 20246
+    }
+
+    soldiers = {
+        culture = hausa
+        religion = sunni
+        size = 6928
+    }
+
+    zbankers = {
+        culture = hausa
+        religion = sunni
+        size = 719422
+    }
+
+    slaves = {
+        culture = hausa
+        religion = sunni
+        size = 80000
+    }
+}
+#Kebbi (252000/63000 POPS)
+1946 = {
+    aristocrats = {
+        culture = hausa
+        religion = sunni
+        size = 2388
+    }
+
+    clergymen = {
+        culture = hausa
+        religion = sunni
+        size = 1294
+    }
+
+    artisans = {
+        culture = hausa
+        religion = sunni
+        size = 5882
+    }
+
+    soldiers = {
+        culture = hausa
+        religion = sunni
+        size = 5282
+    }
+
+    zbankers = {
+        culture = hausa
+        religion = sunni
+        size = 111216
+    }
+
+    slaves = {
+        culture = hausa
+        religion = sunni
+        size = 2194
+    }
+}
+#Katsina (656000/164000 POPS)
+1947 = {
+    aristocrats = {
+        culture = hausa
+        religion = sunni
+        size = 6328
+    }
+
+    clergymen = {
+        culture = hausa
+        religion = sunni
+        size = 3230
+    }
+
+    artisans = {
+        culture = hausa
+        religion = sunni
+        size = 15560
+    }
+
+    soldiers = {
+        culture = hausa
+        religion = sunni
+        size = 5732
+    }
+
+    zbankers = {
+        culture = hausa
+        religion = sunni
+        size = 617498
+    }
+
+    slaves = {
+        culture = hausa
+        religion = sunni
+        size = 80000
+    }
+}
+#Sokoto (888000/220000 POPS)
+1948 = {
+    aristocrats = {
+        culture = hausa
+        religion = sunni
+        size = 8620
+    }
+
+    bureaucrats = {
+        culture = hausa
+        religion = sunni
+        size = 4000
+    }
+
+    officers = {
+        culture = hausa
+        religion = sunni
+        size = 1392
+    }
+
+    clergymen = {
+        culture = hausa
+        religion = sunni
+        size = 4380
+    }
+
+    artisans = {
+        culture = hausa
+        religion = sunni
+        size = 20646
+    }
+
+    soldiers = {
+        culture = hausa
+        religion = sunni
+        size = 6774
+    }
+
+    zbankers = {
+        culture = hausa
+        religion = sunni
+        size = 372756
+    }
+
+    slaves = {
+        culture = hausa
+        religion = sunni
+        size = 25934
+    }
+}
+#Hadejia (416000/104000 POPS)
+1949 = {
+    aristocrats = {
+        culture = hausa
+        religion = sunni
+        size = 4034
+    }
+
+    clergymen = {
+        culture = hausa
+        religion = sunni
+        size = 2090
+    }
+
+    artisans = {
+        culture = hausa
+        religion = sunni
+        size = 20000
+    }
+
+    artisans = {
+        culture = hausa
+        religion = sunni
+        size = 20000
+    }
+
+    artisans = {
+        culture = hausa
+        religion = sunni
+        size = 20000
+    }
+
+    artisans = {
+        culture = hausa
+        religion = sunni
+        size = 20000
+    }
+
+    artisans = {
+        culture = hausa
+        religion = sunni
+        size = 20000
+    }
+
+    artisans = {
+        culture = hausa
+        religion = sunni
+        size = 20000
+    }
+
+    artisans = {
+        culture = hausa
+        religion = sunni
+        size = 20000
+    }
+
+    artisans = {
+        culture = hausa
+        religion = sunni
+        size = 20000
+    }
+
+    artisans = {
+        culture = hausa
+        religion = sunni
+        size = 20000
+    }
+
+    artisans = {
+        culture = hausa
+        religion = sunni
+        size = 20000
+    }
+
+    artisans = {
+        culture = hausa
+        religion = sunni
+        size = 20000
+    }
+
+    artisans = {
+        culture = hausa
+        religion = sunni
+        size = 20000
+    }
+
+    artisans = {
+        culture = hausa
+        religion = sunni
+        size = 20000
+    }
+
+    artisans = {
+        culture = hausa
+        religion = sunni
+        size = 20000
+    }
+
+    artisans = {
+        culture = hausa
+        religion = sunni
+        size = 20000
+    }
+
+    artisans = {
+        culture = hausa
+        religion = sunni
+        size = 20000
+    }
+
+    artisans = {
+        culture = hausa
+        religion = sunni
+        size = 20000
+    }
+
+    artisans = {
+        culture = hausa
+        religion = sunni
+        size = 20000
+    }
+
+    artisans = {
+        culture = hausa
+        religion = sunni
+        size = 20000
+    }
+
+    artisans = {
+        culture = hausa
+        religion = sunni
+        size = 20000
+    }
+
+    artisans = {
+        culture = hausa
+        religion = sunni
+        size = 20000
+    }
+
+    artisans = {
+        culture = hausa
+        religion = sunni
+        size = 14454
+    }
+
+    soldiers = {
+        culture = hausa
+        religion = sunni
+        size = 2140
+    }
+
+    zbankers = {
+        culture = hausa
+        religion = sunni
+        size = 20000
+    }
+
+    slaves = {
+        culture = hausa
+        religion = sunni
+        size = 43990
+    }
+}
+#Adamawa Region (140000) #see Cameroun.txt for balance of region
+#under rule of Sokoto in 1836
+#Yola (140000/35000 POPS)
+1950 = {
+    aristocrats = {
+        culture = tiv
+        religion = animist
+        size = 1190
+    }
+
+    bureaucrats = {
+        culture = tiv
+        religion = animist
+        size = 1100
+    }
+
+    clergymen = {
+        culture = tiv
+        religion = animist
+        size = 736
+    }
+
+    artisans = {
+        culture = tiv
+        religion = animist
+        size = 2938
+    }
+
+    soldiers = {
+        culture = tiv
+        religion = animist
+        size = 4880
+    }
+
+    zbankers = {
+        culture = tiv
+        religion = animist
+        size = 52462
+    }
+
+    slaves = {
+        culture = tiv
+        religion = animist
+        size = 10174
+    }
+}
+#Borno Region (2544000)
+#under rule of Kanem-Borno in 1836
+#Kuka (960000/240000 POPS)
+1951 = {
+    aristocrats = {
+        culture = hausa
+        religion = sunni
+        size = 9176
+    }
+
+    bureaucrats = {
+        culture = hausa
+        religion = sunni
+        size = 9000
+    }
+
+    officers = {
+        culture = hausa
+        religion = sunni
+        size = 1396
+    }
+
+    clergymen = {
+        culture = hausa
+        religion = sunni
+        size = 4986
+    }
+
+    artisans = {
+        culture = hausa
+        religion = sunni
+        size = 19152
+    }
+
+    soldiers = {
+        culture = hausa
+        religion = sunni
+        size = 4788
+    }
+
+    zbankers = {
+        culture = hausa
+        religion = sunni
+        size = 351500
+    }
+
+    slaves = {
+        culture = hausa
+        religion = sunni
+        size = 80000
+    }
+}
+#Nguru (768000/192000 POPS)
+1952 = {
+    aristocrats = {
+        culture = hausa
+        religion = sunni
+        size = 6982
+    }
+
+    clergymen = {
+        culture = hausa
+        religion = sunni
+        size = 3990
+    }
+
+    artisans = {
+        culture = hausa
+        religion = sunni
+        size = 15162
+    }
+
+    soldiers = {
+        culture = hausa
+        religion = sunni
+        size = 5984
+    }
+
+    zbankers = {
+        culture = hausa
+        religion = sunni
+        size = 279498
+    }
+
+    slaves = {
+        culture = hausa
+        religion = sunni
+        size = 71820
+    }
+}
+#Dikoa (816000/204000 POPS)
+1953 = {
+    aristocrats = {
+        culture = hausa
+        religion = sunni
+        size = 7980
+    }
+
+    clergymen = {
+        culture = hausa
+        religion = sunni
+        size = 4388
+    }
+
+    artisans = {
+        culture = hausa
+        religion = sunni
+        size = 16558
+    }
+
+    soldiers = {
+        culture = hausa
+        religion = sunni
+        size = 4188
+    }
+
+    zbankers = {
+        culture = hausa
+        religion = sunni
+        size = 302042
+    }
+
+    slaves = {
+        culture = hausa
+        religion = sunni
+        size = 71820
+    }
+}

@@ -1,0 +1,10 @@
+owner = CIVcontroller = CIV
+
+trade_goods = grain
+life_rating = 0
+1913.1.1 = {
+	
+	
+	
+	remove_core = MEX	state_building = {		level = 1		building = canned_food_factory		upgrade = yes	}	state_building = {		level = 1		building = steel_factory		upgrade = yes	}
+}

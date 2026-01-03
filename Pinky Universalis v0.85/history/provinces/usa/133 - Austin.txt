@@ -1,0 +1,11 @@
+owner = CIV
+controller = CIV
+trade_goods = cattle
+life_rating = 0
+1913.1.1 = {
+	controller = CIV
+	owner = CIV
+	
+	remove_core = MEX
+	naval_base = 6
+}

@@ -1,0 +1,393 @@
+#Total in 1918 - 1 074 062 or 268.515 pops See http://pdf.usaid.gov/pdf_docs/PCAAA637.pdf pp 106
+#Baguirmi Region (164000)
+#under the rule of Kanem-Bornu in 1836
+#Massenya (320000/80000 POPS)
+1818 = {
+	aristocrats = {
+		culture = ubangian
+		religion = animist
+		size = 1200
+	}
+
+	bureaucrats = {
+		culture = ubangian
+		religion = animist
+		size = 1400
+	}
+
+	officers = {
+		culture = ubangian
+		religion = animist
+		size = 400
+	}
+
+	clergymen = {
+		culture = ubangian
+		religion = animist
+		size = 600
+	}
+
+	artisans = {
+		culture = ubangian
+		religion = animist
+		size = 3000
+	}
+
+	soldiers = {
+		culture = ubangian
+		religion = animist
+		size = 3000
+	}
+
+	zbankers = {
+		culture = ubangian
+		religion = animist
+		size = 64920
+	}
+
+	slaves = {
+		culture = ubangian
+		religion = animist
+		size = 1400
+	}
+}
+#Moundou (48000/12000 POPS)
+1819 = {
+	aristocrats = {
+		culture = ubangian
+		religion = animist
+		size = 1800
+	}
+
+	bureaucrats = {
+		culture = ubangian
+		religion = animist
+		size = 600
+	}
+
+	clergymen = {
+		culture = ubangian
+		religion = animist
+		size = 800
+	}
+
+	artisans = {
+		culture = ubangian
+		religion = animist
+		size = 5800
+	}
+
+	soldiers = {
+		culture = ubangian
+		religion = animist
+		size = 5000
+	}
+
+	zbankers = {
+		culture = ubangian
+		religion = animist
+		size = 83130
+	}
+	
+	slaves = {
+		culture = ubangian
+		religion = animist
+		size = 32000
+	}
+}
+#Bongor (36000/9000 POPS)
+1820 = {
+	aristocrats = {
+		culture = ubangian
+		religion = animist
+		size = 1100
+	}
+	
+	bureaucrats = {
+		culture = ubangian
+		religion = animist
+		size = 200
+	}
+
+	clergymen = {
+		culture = ubangian
+		religion = animist
+		size = 400
+	}
+
+	artisans = {
+		culture = ubangian
+		religion = animist
+		size = 2000
+	}
+
+	soldiers = {
+		culture = ubangian
+		religion = animist
+		size = 4000
+	}
+
+	zbankers = {
+		culture = ubangian
+		religion = animist
+		size = 74400
+	}
+}
+#Wadai Region (488000)
+#under the rule of Wadai in 1836
+#Abeche (136000/34000 POPS)
+1821 = {
+	aristocrats = {
+		culture = bedouin
+		religion = sunni
+		size = 1600
+	}
+	
+	bureaucrats = {
+		culture = bedouin
+		religion = sunni
+		size = 240
+	}
+
+	officers = {
+		culture = bedouin
+		religion = sunni
+		size = 300
+	}
+
+	clergymen = {
+		culture = bedouin
+		religion = sunni
+		size = 700
+	}
+
+	artisans = {
+		culture = bedouin
+		religion = sunni
+		size = 2400
+	}
+
+	soldiers = {
+		culture = bedouin
+		religion = sunni
+		size = 4400
+	}
+
+	zbankers = {
+		culture = bedouin
+		religion = sunni
+		size = 56566
+	}
+
+	slaves = {
+		culture = bedouin
+		religion = sunni
+		size = 600
+	}
+}
+#Am Timan (168000/42000 POPS)
+1822 = {
+	aristocrats = {
+		culture = ubangian
+		religion = sunni
+		size = 300
+	}
+
+	clergymen = {
+		culture = ubangian
+		religion = sunni
+		size = 200
+	}
+	
+	bureaucrats = {
+		culture = ubangian
+		religion = sunni
+		size = 200
+	}
+
+	artisans = {
+		culture = ubangian
+		religion = sunni
+		size = 700
+	}
+
+	soldiers = {
+		culture = ubangian
+		religion = sunni
+		size = 200
+	}
+
+	zbankers = {
+		culture = ubangian
+		religion = sunni
+		size = 10600
+	}
+
+	slaves = {
+		culture = ubangian
+		religion = animist
+		size = 7800
+	}
+}
+#Mongo (184000/46000 POPS)
+1823 = {
+
+	aristocrats = {
+		culture = ubangian
+		religion = animist
+		size = 1200
+	}
+
+	clergymen = {
+		culture = ubangian
+		religion = animist
+		size = 450
+	}
+
+	bureaucrats = {
+		culture = ubangian
+		religion = animist
+		size = 200
+	}
+	
+	artisans = {
+		culture = ubangian
+		religion = animist
+		size = 4600
+	}
+
+	soldiers = {
+		culture = ubangian
+		religion = animist
+		size = 3000
+	}
+
+	zbankers = {
+		culture = ubangian
+		religion = animist
+		size = 41480
+	}
+
+	slaves = {
+		culture = ubangian
+		religion = animist
+		size = 4000
+	}
+}
+#Kanem Region (288000)
+#under the rule of Kanem-Bornu in 1836
+#Mao (149453/37362 POPS)
+1824 = {
+	aristocrats = {
+		culture = bedouin
+		religion = sunni
+		size = 800
+	}
+
+	bureaucrats = {
+		culture = bedouin
+		religion = sunni
+		size = 200
+	}
+
+	officers = {
+		culture = bedouin
+		religion = sunni
+		size = 200
+	}
+
+	clergymen = {
+		culture = bedouin
+		religion = sunni
+		size = 500
+	}
+
+	artisans = {
+		culture = bedouin
+		religion = sunni
+		size = 1000
+	}
+
+	soldiers = {
+		culture = bedouin
+		religion = sunni
+		size = 1000
+	}
+
+	zbankers = {
+		culture = bedouin
+		religion = sunni
+		size = 48552
+	}
+
+	slaves = {
+		culture = bedouin
+		religion = sunni
+		size = 2600
+	}
+}
+#Zouar (72000/18000 POPS)
+1825 = {
+	aristocrats = {
+		culture = bedouin
+		religion = sunni
+		size = 100
+	}
+
+	clergymen = {
+		culture = bedouin
+		religion = sunni
+		size = 50
+	}
+
+	artisans = {
+		culture = bedouin
+		religion = sunni
+		size = 100
+	}
+
+	soldiers = {
+		culture = bedouin
+		religion = sunni
+		size = 200
+	}
+
+	zbankers = {
+		culture = bedouin
+		religion = sunni
+		size = 2760
+	}
+}
+#under the rule of Wadai in 1836
+#Faya (56000/14000 POPS)
+1826 = {
+	aristocrats = {
+		culture = bedouin
+		religion = sunni
+		size = 100
+	}
+
+	clergymen = {
+		culture = bedouin
+		religion = sunni
+		size = 50
+	}
+
+	artisans = {
+		culture = bedouin
+		religion = sunni
+		size = 100
+	}
+
+	soldiers = {
+		culture = bedouin
+		religion = sunni
+		size = 200
+	}
+
+	zbankers = {
+		culture = bedouin
+		religion = sunni
+		size = 2760
+	}
+}

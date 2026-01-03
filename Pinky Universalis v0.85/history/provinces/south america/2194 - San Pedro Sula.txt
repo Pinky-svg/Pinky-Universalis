@@ -1,0 +1,9 @@
+owner = CIV
+controller = CIV
+trade_goods = tropical_wood
+life_rating = 0
+1913.1.1 = {
+	owner = HON
+	controller = HON
+	remove_core = UCA
+}

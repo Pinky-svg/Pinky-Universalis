@@ -1,0 +1,40 @@
+#Comoro Islands Region (64000)  
+#uncolonized in 1836/dominated by sultan of Anjouan
+#Comoro Islands (56000/14000 POPS) 
+2123 = {
+	aristocrats = {
+		culture = lacustrine_bantu
+		religion = animist
+		size = 530
+	}
+
+	clergymen = {
+		culture = lacustrine_bantu
+		religion = animist
+		size = 250
+	}
+
+	artisans = {
+		culture = lacustrine_bantu
+		religion = animist
+		size = 1350
+	}
+
+	soldiers = {
+		culture = lacustrine_bantu
+		religion = animist
+		size = 2320
+	}
+
+	zbankers = {
+		culture = lacustrine_bantu
+		religion = animist
+		size = 24288
+	}
+
+	slaves = {
+		culture = lacustrine_bantu
+		religion = animist
+		size = 1062
+	}
+}

@@ -1,0 +1,48 @@
+political_decisions = {
+	Unite_Southern_Bantu = {
+		potential = {
+			NOT = {
+				has_global_flag = unite_southern_bantu
+			}
+				tag = ZUL
+				
+		}
+
+		allow = {
+			owns = 2049
+			owns = 2114
+			owns = 2104
+			owns = 2100
+		}
+		
+		effect = {
+			set_global_flag = unite_southern_bantu
+			2096 = {
+				add_core = BEN
+			}
+			2091 = {
+				add_core = BEN
+			}
+		}
+	}
+	Unite_the_Bantu = {
+		potential = {
+			NOT = {
+				has_global_flag = unite_the_bantu
+			}
+				tag = ZUL
+				
+		}
+
+		allow = {
+			revolution_n_counterrevolution = 1
+		}
+		
+		effect = {
+			set_global_flag = unite_the_bantu
+			add_accepted_culture = lacustrine_bantu
+			add_accepted_culture = south_forest_bantu
+		}
+	}
+	
+}

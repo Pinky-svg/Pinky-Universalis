@@ -1,0 +1,15 @@
+owner = CIV
+controller = CIV
+trade_goods = fruit
+life_rating = 0
+1913.1.1 = {
+	owner = COS
+	controller = COS
+	remove_core = UCA
+	state_building = {
+		level = 2
+		building = winery
+		upgrade = yes
+	}
+	
+}

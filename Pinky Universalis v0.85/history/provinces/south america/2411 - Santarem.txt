@@ -1,0 +1,15 @@
+owner = GRP
+controller = GRP
+add_core = GRP
+
+trade_goods = tropical_wood
+life_rating = 0
+1836.1.2 = {
+	owner = CIV
+	controller = CIV
+}
+1913.1.1 = {
+	owner = CIV
+	controller = CIV
+	remove_core = GRP
+}

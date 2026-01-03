@@ -1,0 +1,361 @@
+#Ivory Coast Region (710000) 
+#uncolonized in 1836
+#Grand Lahou (108000/27000 POPS)   
+1892 = {
+	aristocrats = {
+		culture = yoruba
+		religion = animist
+		size = 1000
+	}
+
+	clergymen = {
+		culture = yoruba
+		religion = animist
+		size = 550
+	}
+
+	artisans = {
+		culture = yoruba
+		religion = animist
+		size = 2150
+	}
+
+	soldiers = {
+		culture = yoruba
+		religion = animist
+		size = 550
+	}
+
+	zbankers = {
+		culture = yoruba
+		religion = animist
+		size = 39750
+	}
+
+	slaves = {
+		culture = yoruba
+		religion = animist
+		size = 10000
+	}
+}
+#Sassandra (282000/47000 POPS)
+1893 = {
+	aristocrats = {
+		culture = western_nigritic
+		religion = animist
+		size = 1900
+	}
+
+	clergymen = {
+		culture = western_nigritic
+		religion = animist
+		size = 1000
+	}
+
+	artisans = {
+		culture = western_nigritic
+		religion = animist
+		size = 4000
+	}
+
+	soldiers = {
+		culture = western_nigritic
+		religion = animist
+		size = 1000
+	}
+
+	zbankers = {
+		culture = western_nigritic
+		religion = animist
+		size = 60100
+	}
+
+	slaves = {
+		culture = western_nigritic
+		religion = animist
+		size = 26000
+	}
+}
+#Grand Bassam (88000/22000 POPS)
+1894 = {
+	aristocrats = {
+		culture = yoruba
+		religion = animist
+		size = 850
+	}
+
+	clergymen = {
+		culture = yoruba
+		religion = animist
+		size = 450
+	}
+
+	artisans = {
+		culture = yoruba
+		religion = animist
+		size = 2200
+	}
+
+	soldiers = {
+		culture = yoruba
+		religion = animist
+		size = 450
+	}
+
+	zbankers = {
+		culture = yoruba
+		religion = animist
+		size = 32050
+	}
+
+	slaves = {
+		culture = yoruba
+		religion = animist
+		size = 8000
+	}
+}
+#Bouake (60000/15000 POPS)
+1895 = {
+	aristocrats = {
+		culture = yoruba
+		religion = animist
+		size = 550
+	}
+
+	clergymen = {
+		culture = yoruba
+		religion = animist
+		size = 400
+	}
+
+	artisans = {
+		culture = yoruba
+		religion = animist
+		size = 1500
+	}
+
+	soldiers = {
+		culture = yoruba
+		religion = animist
+		size = 300
+	}
+
+	zbankers = {
+		culture = yoruba
+		religion = animist
+		size = 23250
+	}
+
+	slaves = {
+		culture = yoruba
+		religion = animist
+		size = 4000
+	}
+}
+#Man (80000/20000 POPS)
+1896 = {
+	aristocrats = {
+		culture = western_nigritic
+		religion = animist
+		size = 1150
+	}
+
+	clergymen = {
+		culture = western_nigritic
+		religion = animist
+		size = 600
+	}
+
+	artisans = {
+		culture = western_nigritic
+		religion = animist
+		size = 3000
+	}
+
+	soldiers = {
+		culture = western_nigritic
+		religion = animist
+		size = 600
+	}
+
+	zbankers = {
+		culture = western_nigritic
+		religion = animist
+		size = 44650
+	}
+
+	slaves = {
+		culture = western_nigritic
+		religion = animist
+		size = 10000
+	}
+}
+#Akoupe (92000/23000 POPS)
+1897 = {
+	aristocrats = {
+		culture = yoruba
+		religion = animist
+		size = 850
+	}
+
+	clergymen = {
+		culture = yoruba
+		religion = animist
+		size = 450
+	}
+
+	artisans = {
+		culture = yoruba
+		religion = animist
+		size = 1900
+	}
+
+	soldiers = {
+		culture = yoruba
+		religion = animist
+		size = 500
+	}
+
+	zbankers = {
+		culture = yoruba
+		religion = animist
+		size = 36300
+	}
+
+	slaves = {
+		culture = yoruba
+		religion = animist
+		size = 6000
+	}
+}
+#Worodugu Region (160000) #see Mali.txt and Burkina.txt for balance of Region
+#uncolonized in 1836/under the rule of the Emirs of Kong
+#Kong (264000/66000 POPS)
+1898 = {
+	aristocrats = {
+		culture = mossi
+		religion = animist
+		size = 2250
+	}
+
+	bureaucrats = {
+		culture = mossi
+		religion = animist
+		size = 3800
+	}
+
+	officers = {
+		culture = mossi
+		religion = animist
+		size = 150
+	}
+
+	clergymen = {
+		culture = mossi
+		religion = animist
+		size = 1350
+	}
+
+	artisans = {
+		culture = mossi
+		religion = animist
+		size = 6600
+	}
+
+	soldiers = {
+		culture = mossi
+		religion = animist
+		size = 2810
+	}
+
+	zbankers = {
+		culture = mossi
+		religion = animist
+		size = 130750
+	}
+
+	slaves = {
+		culture = mossi
+		religion = animist
+		size = 8000
+	}
+}
+#Bundoukou (216000/54000 POPS)
+1899 = {
+	aristocrats = {
+		culture = mossi
+		religion = animist
+		size = 1950
+	}
+
+	clergymen = {
+		culture = mossi
+		religion = animist
+		size = 1050
+	}
+
+	artisans = {
+		culture = mossi
+		religion = animist
+		size = 5400
+	}
+
+	soldiers = {
+		culture = mossi
+		religion = animist
+		size = 3350
+	}
+
+	zbankers = {
+		culture = mossi
+		religion = animist
+		size = 90250
+	}
+
+	slaves = {
+		culture = mossi
+		religion = animist
+		size = 6000
+	}
+}
+#Bure Region (340000) #see Mali.txt and Guinea.txt for balance of Region
+#uncolonized in 1836
+#Odienne (288000/72000 POPS) #now part of Ivory Coast  
+1900 = {
+	aristocrats = {
+		culture = western_nigritic
+		religion = animist
+		size = 2550
+	}
+
+	clergymen = {
+		culture = western_nigritic
+		religion = animist
+		size = 1250
+	}
+
+	artisans = {
+		culture = western_nigritic
+		religion = animist
+		size = 6300
+	}
+
+	soldiers = {
+		culture = western_nigritic
+		religion = animist
+		size = 2850
+	}
+
+	zbankers = {
+		culture = western_nigritic
+		religion = animist
+		size = 112650
+	}
+
+	slaves = {
+		culture = western_nigritic
+		religion = animist
+		size = 18000
+	}
+
+}

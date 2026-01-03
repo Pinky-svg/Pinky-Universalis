@@ -1,0 +1,205 @@
+#Middle Congo Region (148000)
+#under the rule of Loango in 1836
+#Nkuna (400000/100000 POPS)
+1977 = {
+    aristocrats = {
+        culture = south_forest_bantu
+        religion = animist
+        size = 3488
+    }
+
+    clergymen = {
+        culture = south_forest_bantu
+        religion = animist
+        size = 2194
+    }
+
+    artisans = {
+        culture = south_forest_bantu
+        religion = animist
+        size = 7980
+    }
+
+    soldiers = {
+        culture = south_forest_bantu
+        religion = animist
+        size = 1994
+    }
+
+    zbankers = {
+        culture = south_forest_bantu
+        religion = animist
+        size = 144136
+    }
+
+    slaves = {
+        culture = south_forest_bantu
+        religion = animist
+        size = 39900
+    }
+}
+#Madingou (160000/40000 POPS)
+1978 = {
+    aristocrats = {
+        culture = south_forest_bantu
+        religion = animist
+        size = 1494
+    }
+
+    clergymen = {
+        culture = south_forest_bantu
+        religion = animist
+        size = 996
+    }
+
+    artisans = {
+        culture = south_forest_bantu
+        religion = animist
+        size = 20000
+    }
+
+    artisans = {
+        culture = south_forest_bantu
+        religion = animist
+        size = 20000
+    }
+
+    artisans = {
+        culture = south_forest_bantu
+        religion = animist
+        size = 10322
+    }
+
+    soldiers = {
+        culture = south_forest_bantu
+        religion = animist
+        size = 996
+    }
+
+    zbankers = {
+        culture = south_forest_bantu
+        religion = animist
+        size = 20000
+    }
+
+    slaves = {
+        culture = south_forest_bantu
+        religion = animist
+        size = 5984
+    }
+}
+#Loango (320000/80000 POPS)
+2624 = {
+    aristocrats = {
+        culture = south_forest_bantu
+        religion = animist
+        size = 2992
+    }
+
+    bureaucrats = {
+        culture = south_forest_bantu
+        religion = animist
+        size = 2400
+    }
+
+    clergymen = {
+        culture = south_forest_bantu
+        religion = animist
+        size = 1494
+    }
+
+    artisans = {
+        culture = south_forest_bantu
+        religion = animist
+        size = 6482
+    }
+
+    soldiers = {
+        culture = south_forest_bantu
+        religion = animist
+        size = 1994
+    }
+
+    zbankers = {
+        culture = south_forest_bantu
+        religion = animist
+        size = 105132
+    }
+
+    slaves = {
+        culture = south_forest_bantu
+        religion = animist
+        size = 39900
+    }
+}
+#uncolonized in 1836
+#Djambala (28000/7000 POPS)
+1980 = {
+    aristocrats = {
+        culture = forest_bantu
+        religion = animist
+        size = 550
+    }
+
+    clergymen = {
+        culture = forest_bantu
+        religion = animist
+        size = 350
+    }
+
+    artisans = {
+        culture = forest_bantu
+        religion = animist
+        size = 1500
+    }
+
+    soldiers = {
+        culture = forest_bantu
+        religion = animist
+        size = 350
+    }
+
+    zbankers = {
+        culture = forest_bantu
+        religion = animist
+        size = 27350
+    }
+
+    slaves = {
+        culture = forest_bantu
+        religion = animist
+        size = 1000
+    }
+}
+#Impfondo (32000/8000 POPS)
+1981 = {
+    aristocrats = {
+        culture = forest_bantu
+        religion = animist
+        size = 300
+    }
+
+    clergymen = {
+        culture = forest_bantu
+        religion = animist
+        size = 150
+    }
+
+    artisans = {
+        culture = forest_bantu
+        religion = animist
+        size = 800
+    }
+
+    soldiers = {
+        culture = forest_bantu
+        religion = animist
+        size = 150
+    }
+
+    zbankers = {
+        culture = forest_bantu
+        religion = animist
+        size = 14600
+    }
+}

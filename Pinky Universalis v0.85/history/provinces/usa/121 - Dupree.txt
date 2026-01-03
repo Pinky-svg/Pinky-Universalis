@@ -1,0 +1,10 @@
+owner = CIV
+controller = CIV
+
+trade_goods = coal
+life_rating = 0
+
+terrain = steppe_mine
+1913.1.1 = {
+	colony = 0
+}

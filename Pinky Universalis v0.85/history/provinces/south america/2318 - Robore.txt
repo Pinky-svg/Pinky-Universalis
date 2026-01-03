@@ -1,0 +1,15 @@
+owner = BOL
+controller = BOL
+
+trade_goods = grain
+life_rating = 0
+1836.1.2 = {
+	owner = CIV
+	controller = CIV
+	
+}
+1913.1.1 = {
+	owner = BOL
+	controller = BOL
+	remove_core = PBC
+}

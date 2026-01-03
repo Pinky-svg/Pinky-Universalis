@@ -1,0 +1,290 @@
+#Damaraland Region (192000)  
+#uncolonized in 1836/dominated by the Herero in 1836
+#Windhoek (72000/18000 POPS)
+2078 = {
+	aristocrats = {
+		culture = south_forest_bantu
+		religion = animist
+		size = 650
+	}
+
+	clergymen = {
+		culture = south_forest_bantu
+		religion = animist
+		size = 350
+	}
+
+	artisans = {
+		culture = south_forest_bantu
+		religion = animist
+		size = 1800
+	}
+
+	soldiers = {
+		culture = south_forest_bantu
+		religion = animist
+		size = 400
+	}
+
+	zbankers = {
+		culture = south_forest_bantu
+		religion = animist
+		size = 32800
+	}
+}
+#Swakopmund (52000/13000 POPS)
+2079 = {
+	aristocrats = {
+		culture = south_forest_bantu
+		religion = animist
+		size = 400
+	}
+
+	clergymen = {
+		culture = south_forest_bantu
+		religion = animist
+		size = 300
+	}
+
+	artisans = {
+		culture = south_forest_bantu
+		religion = animist
+		size = 500
+	}
+
+	soldiers = {
+		culture = south_forest_bantu
+		religion = animist
+		size = 300
+	}
+
+	zbankers = {
+		culture = south_forest_bantu
+		religion = animist
+		size = 23700
+	}
+
+}
+#Tsumeb (24000/6000 POPS)
+2080 = {
+	aristocrats = {
+		culture = south_forest_bantu
+		religion = animist
+		size = 200
+	}
+
+	clergymen = {
+		culture = south_forest_bantu
+		religion = animist
+		size = 100
+	}
+
+	artisans = {
+		culture = south_forest_bantu
+		religion = animist
+		size = 600
+	}
+
+	soldiers = {
+		culture = south_forest_bantu
+		religion = animist
+		size = 150
+	}
+
+	zbankers = {
+		culture = south_forest_bantu
+		religion = animist
+		size = 10950
+	}
+}
+#Otjinene (44000/11000 POPS)
+2082 = {
+	aristocrats = {
+		culture = south_forest_bantu
+		religion = animist
+		size = 350
+	}
+
+	clergymen = {
+		culture = south_forest_bantu
+		religion = animist
+		size = 200
+	}
+
+	artisans = {
+		culture = south_forest_bantu
+		religion = animist
+		size = 1100
+	}
+
+	soldiers = {
+		culture = south_forest_bantu
+		religion = animist
+		size = 250
+	}
+
+	zbankers = {
+		culture = south_forest_bantu
+		religion = animist
+		size = 20100
+	}
+
+}
+#Kafue Region (16000) #see Zambia.txt for balance of region
+#uncolonized in 1836/dominated by the Lozi in 1836
+#Linyati (16000/4000 POPS)
+2081 = {
+	aristocrats = {
+		culture = south_forest_bantu
+		religion = animist
+		size = 400
+	}
+
+	clergymen = {
+		culture = south_forest_bantu
+		religion = animist
+		size = 400
+	}
+
+	artisans = {
+		culture = south_forest_bantu
+		religion = animist
+		size = 500
+	}
+
+	soldiers = {
+		culture = south_forest_bantu
+		religion = animist
+		size = 400
+	}
+
+	zbankers = {
+		culture = south_forest_bantu
+		religion = animist
+		size = 7200
+	}
+}
+#Namaqualand Region (64000) #see South Africa.txt for balance of region
+#uncolonized in 1836/dominated by the Nama in 1836
+#Walvis Bay (4000/1000 POPS)
+2083 = {
+	aristocrats = {
+		culture = southern_bantu
+		religion = animist
+		size = 30
+	}
+
+	artisans = {
+		culture = southern_bantu
+		religion = animist
+		size = 100
+	}
+
+	soldiers = {
+		culture = southern_bantu
+		religion = animist
+		size = 20
+	}
+
+	zbankers = {
+		culture = southern_bantu
+		religion = animist
+		size = 3850
+	}
+}
+#Angra Pequena (28000/7000 POPS)
+2084 = {
+	aristocrats = {
+		culture = southern_bantu
+		religion = animist
+		size = 250
+	}
+
+	clergymen = {
+		culture = southern_bantu
+		religion = animist
+		size = 150
+	}
+
+	artisans = {
+		culture = southern_bantu
+		religion = animist
+		size = 700
+	}
+
+	soldiers = {
+		culture = southern_bantu
+		religion = animist
+		size = 150
+	}
+
+	zbankers = {
+		culture = southern_bantu
+		religion = animist
+		size = 12750
+	}
+}
+#Nugouses (12000/3000 POPS)
+2085 = {
+	aristocrats = {
+		culture = southern_bantu
+		religion = animist
+		size = 80
+	}
+
+	clergymen = {
+		culture = southern_bantu
+		religion = animist
+		size = 150
+	}
+
+	artisans = {
+		culture = southern_bantu
+		religion = animist
+		size = 300
+	}
+
+	soldiers = {
+		culture = southern_bantu
+		religion = animist
+		size = 70
+	}
+
+	zbankers = {
+		culture = southern_bantu
+		religion = animist
+		size = 5400
+	}
+}
+#Karasburg (20000/5000 POPS)
+2086 = {
+	aristocrats = {
+		culture = southern_bantu
+		religion = animist
+		size = 130
+	}
+
+	clergymen = {
+		culture = southern_bantu
+		religion = animist
+		size = 120
+	}
+
+	artisans = {
+		culture = southern_bantu
+		religion = animist
+		size = 500
+	}
+
+	soldiers = {
+		culture = southern_bantu
+		religion = animist
+		size = 120
+	}
+
+	zbankers = {
+		culture = southern_bantu
+		religion = animist
+		size = 9100
+	}
+}

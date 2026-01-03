@@ -1,0 +1,151 @@
+#Casamance Region (108000) #see Senegal.txt and Guinea.txt for balance of region
+#Uncolonized in 1836/Portuguese trade post
+#Bissau (32000/8000 POPS)
+1877 = {
+    clergymen = {
+        culture = portuguese
+        religion = catholic
+        size = 200
+    }
+
+    artisans = {
+        culture = portuguese
+        religion = catholic
+        size = 200
+    }
+
+    soldiers = {
+        culture = portuguese
+        religion = catholic
+        size = 200
+    }
+
+    zbankers = {
+        culture = portuguese
+        religion = catholic
+        size = 200
+    }
+
+    aristocrats = {
+        culture = western_nigritic
+        religion = catholic
+        size = 200
+    }
+
+    officers = {
+        culture = western_nigritic
+        religion = catholic
+        size = 200
+    }
+
+    clergymen = {
+        culture = western_nigritic
+        religion = catholic
+        size = 200
+    }
+
+    artisans = {
+        culture = western_nigritic
+        religion = catholic
+        size = 750
+    }
+
+    soldiers = {
+        culture = western_nigritic
+        religion = catholic
+        size = 200
+    }
+
+    zbankers = {
+        culture = western_nigritic
+        religion = catholic
+        size = 10600
+    }
+
+    slaves = {
+        culture = western_nigritic
+        religion = animist
+        size = 4000
+    }
+
+    aristocrats = {
+        culture = western_nigritic
+        religion = animist
+        size = 600
+    }
+
+    officers = {
+        culture = western_nigritic
+        religion = animist
+        size = 200
+    }
+
+    clergymen = {
+        culture = western_nigritic
+        religion = animist
+        size = 200
+    }
+
+    artisans = {
+        culture = western_nigritic
+        religion = animist
+        size = 2000
+    }
+
+    soldiers = {
+        culture = western_nigritic
+        religion = animist
+        size = 6000
+    }
+
+    zbankers = {
+        culture = western_nigritic
+        religion = animist
+        size = 24096
+    }
+}
+#under the rule of Gabu in 1836
+#Gabu (152000/38000 POPS)
+1878 = {
+    aristocrats = {
+        culture = western_nigritic
+        religion = animist
+        size = 1794
+    }
+
+    bureaucrats = {
+        culture = western_nigritic
+        religion = animist
+        size = 2000
+    }
+
+    clergymen = {
+        culture = western_nigritic
+        religion = animist
+        size = 398
+    }
+
+    artisans = {
+        culture = western_nigritic
+        religion = animist
+        size = 3990
+    }
+
+    soldiers = {
+        culture = western_nigritic
+        religion = animist
+        size = 2792
+    }
+
+    zbankers = {
+        culture = western_nigritic
+        religion = animist
+        size = 33706
+    }
+
+    slaves = {
+        culture = western_nigritic
+        religion = animist
+        size = 3990
+    }
+}

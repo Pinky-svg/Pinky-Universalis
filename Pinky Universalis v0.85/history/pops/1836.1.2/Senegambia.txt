@@ -1,0 +1,531 @@
+#Senegambia.txt includes modern Senegal and Gambia
+#Senegambia Region (444000)
+#uncolonized in 1836/ruled by Damel of Wolof
+#Dakar (8000/2000 POPS)
+1783 = {
+    aristocrats = {
+        culture = fulbe
+        religion = sunni
+        size = 200
+    }
+
+    officers = {
+        culture = fulbe
+        religion = sunni
+        size = 200
+    }
+
+    artisans = {
+        culture = fulbe
+        religion = sunni
+        size = 200
+    }
+
+    clergymen = {
+        culture = fulbe
+        religion = sunni
+        size = 200
+    }
+
+    soldiers = {
+        culture = fulbe
+        religion = sunni
+        size = 200
+    }
+
+    zbankers = {
+        culture = fulbe
+        religion = sunni
+        size = 35600
+    }
+
+    artisans = {
+        culture = french
+        religion = catholic
+        size = 200
+    }
+
+    soldiers = {
+        culture = french
+        religion = catholic
+        size = 200
+    }
+
+    zbankers = {
+        culture = french
+        religion = catholic
+        size = 200
+    }
+}
+#Linguere (216000/54000 POPS)
+1786 = {
+    aristocrats = {
+        culture = fulbe
+        religion = sunni
+        size = 2190
+    }
+
+    clergymen = {
+        culture = fulbe
+        religion = sunni
+        size = 892
+    }
+
+    artisans = {
+        culture = fulbe
+        religion = sunni
+        size = 4282
+    }
+
+    soldiers = {
+        culture = fulbe
+        religion = sunni
+        size = 6978
+    }
+
+    zbankers = {
+        culture = fulbe
+        religion = sunni
+        size = 81794
+    }
+
+    slaves = {
+        culture = fulbe
+        religion = sunni
+        size = 15960
+    }
+}
+#Diourbel (88000/22000 POPS)
+1787 = {
+    aristocrats = {
+        culture = fulbe
+        religion = sunni
+        size = 798
+    }
+
+    clergymen = {
+        culture = fulbe
+        religion = sunni
+        size = 398
+    }
+
+    artisans = {
+        culture = fulbe
+        religion = sunni
+        size = 1794
+    }
+
+    soldiers = {
+        culture = fulbe
+        religion = sunni
+        size = 496
+    }
+
+    zbankers = {
+        culture = fulbe
+        religion = sunni
+        size = 32416
+    }
+
+    slaves = {
+        culture = fulbe
+        religion = sunni
+        size = 7980
+    }
+}
+#Kaolack (160000/40000 POPS) #kingdom of the Sereer
+1788 = {
+    aristocrats = {
+        culture = fulbe
+        religion = sunni
+        size = 1494
+    }
+
+    clergymen = {
+        culture = fulbe
+        religion = sunni
+        size = 598
+    }
+
+    artisans = {
+        culture = fulbe
+        religion = sunni
+        size = 1294
+    }
+
+    soldiers = {
+        culture = fulbe
+        religion = sunni
+        size = 4188
+    }
+
+    zbankers = {
+        culture = fulbe
+        religion = sunni
+        size = 72618
+    }
+
+    slaves = {
+        culture = fulbe
+        religion = sunni
+        size = 15960
+    }
+}
+#Mboul (144000/36000 POPS)
+2573 = {
+    aristocrats = {
+        culture = fulbe
+        religion = sunni
+        size = 1294
+    }
+
+    bureaucrats = {
+        culture = fulbe
+        religion = sunni
+        size = 1700
+    }
+
+    officers = {
+        culture = fulbe
+        religion = sunni
+        size = 198
+    }
+
+    clergymen = {
+        culture = fulbe
+        religion = sunni
+        size = 696
+    }
+
+    zbankers = {
+        culture = fulbe
+        religion = sunni
+        size = 296
+    }
+
+    soldiers = {
+        culture = fulbe
+        religion = sunni
+        size = 4388
+    }
+
+    zbankers = {
+        culture = fulbe
+        religion = sunni
+        size = 82392
+    }
+
+    slaves = {
+        culture = fulbe
+        religion = sunni
+        size = 13964
+    }
+}
+#uncolonized/French have trade post in 1836
+#Saint-Louis (24000/6000 POPS)
+1784 = {
+    aristocrats = {
+        culture = fulbe
+        religion = sunni
+        size = 200
+    }
+
+    clergymen = {
+        culture = fulbe
+        religion = sunni
+        size = 200
+    }
+
+    artisans = {
+        culture = fulbe
+        religion = sunni
+        size = 600
+    }
+
+    soldiers = {
+        culture = fulbe
+        religion = sunni
+        size = 400
+    }
+
+    clergymen = {
+        culture = fulbe
+        religion = sunni
+        size = 200
+    }
+
+    zbankers = {
+        culture = fulbe
+        religion = sunni
+        size = 28800
+    }
+
+    slaves = {
+        culture = fulbe
+        religion = sunni
+        size = 2200
+    }
+
+    artisans = {
+        culture = french
+        religion = catholic
+        size = 200
+    }
+
+    soldiers = {
+        culture = french
+        religion = catholic
+        size = 200
+    }
+
+    zbankers = {
+        culture = french
+        religion = catholic
+        size = 200
+    }
+}
+#uncolonized/British have trade post in 1836
+#Banjul (108000/27000 POPS) #now part of Gambia
+1785 = {
+    aristocrats = {
+        culture = western_nigritic
+        religion = animist
+        size = 1000
+    }
+
+    officers = {
+        culture = western_nigritic
+        religion = animist
+        size = 800
+    }
+
+    clergymen = {
+        culture = western_nigritic
+        religion = animist
+        size = 800
+    }
+
+    artisans = {
+        culture = western_nigritic
+        religion = animist
+        size = 4200
+    }
+
+    soldiers = {
+        culture = western_nigritic
+        religion = animist
+        size = 1800
+    }
+
+    zbankers = {
+        culture = western_nigritic
+        religion = animist
+        size = 45400
+    }
+}
+#Futa Region (328000)
+#uncolonized in 1836/ruled by Emir of Tukulor
+#Podor (348000/87000 POPS)
+1789 = {
+    aristocrats = {
+        culture = fulbe
+        religion = sunni
+        size = 3488
+    }
+
+    bureaucrats = {
+        culture = fulbe
+        religion = sunni
+        size = 1400
+    }
+
+    officers = {
+        culture = fulbe
+        religion = sunni
+        size = 296
+    }
+
+    clergymen = {
+        culture = fulbe
+        religion = sunni
+        size = 1994
+    }
+
+    artisans = {
+        culture = fulbe
+        religion = sunni
+        size = 7228
+    }
+
+    soldiers = {
+        culture = fulbe
+        religion = sunni
+        size = 4788
+    }
+
+    zbankers = {
+        culture = fulbe
+        religion = sunni
+        size = 129674
+    }
+
+    slaves = {
+        culture = fulbe
+        religion = sunni
+        size = 23940
+    }
+}
+#Matam (216000/54000 POPS)
+1790 = {
+    aristocrats = {
+        culture = fulbe
+        religion = sunni
+        size = 1940
+    }
+
+    clergymen = {
+        culture = fulbe
+        religion = sunni
+        size = 1044
+    }
+
+    artisans = {
+        culture = fulbe
+        religion = sunni
+        size = 4334
+    }
+
+    soldiers = {
+        culture = fulbe
+        religion = sunni
+        size = 2640
+    }
+
+    zbankers = {
+        culture = fulbe
+        religion = sunni
+        size = 67830
+    }
+
+    slaves = {
+        culture = fulbe
+        religion = sunni
+        size = 29924
+    }
+}
+#Bakel (140000/35000 POPS)
+1791 = {
+    aristocrats = {
+        culture = fulbe
+        religion = sunni
+        size = 1142
+    }
+
+    clergymen = {
+        culture = fulbe
+        religion = sunni
+        size = 798
+    }
+
+    artisans = {
+        culture = fulbe
+        religion = sunni
+        size = 2672
+    }
+
+    soldiers = {
+        culture = fulbe
+        religion = sunni
+        size = 798
+    }
+
+    zbankers = {
+        culture = fulbe
+        religion = sunni
+        size = 82238
+    }
+
+    slaves = {
+        culture = fulbe
+        religion = sunni
+        size = 11970
+    }
+}
+#Casamance Region (224000) #see Guinea Bissau.txt and Guinea.txt for balance of Region
+#under the rule of Gabu in 1836
+#Ziguinchour (240000/60000 POPS)
+1792 = {
+    aristocrats = {
+        culture = western_nigritic
+        religion = animist
+        size = 2492
+    }
+
+    clergymen = {
+        culture = western_nigritic
+        religion = animist
+        size = 398
+    }
+
+    artisans = {
+        culture = western_nigritic
+        religion = animist
+        size = 1994
+    }
+
+    soldiers = {
+        culture = western_nigritic
+        religion = animist
+        size = 4986
+    }
+
+    zbankers = {
+        culture = western_nigritic
+        religion = animist
+        size = 122938
+    }
+
+    slaves = {
+        culture = western_nigritic
+        religion = animist
+        size = 6928
+    }
+}
+#Velingara (104000/26000 POPS
+1793 = {
+    aristocrats = {
+        culture = fulbe
+        religion = sunni
+        size = 996
+    }
+
+    clergymen = {
+        culture = fulbe
+        religion = sunni
+        size = 496
+    }
+
+    artisans = {
+        culture = fulbe
+        religion = sunni
+        size = 2092
+    }
+
+    soldiers = {
+        culture = fulbe
+        religion = sunni
+        size = 544
+    }
+
+    zbankers = {
+        culture = fulbe
+        religion = sunni
+        size = 39748
+    }
+
+    slaves = {
+        culture = fulbe
+        religion = sunni
+        size = 7980
+    }
+}

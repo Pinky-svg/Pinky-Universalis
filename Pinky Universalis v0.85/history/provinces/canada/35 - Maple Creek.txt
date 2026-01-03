@@ -1,0 +1,11 @@
+owner = RPL
+controller = RPL
+add_core = RPL
+
+trade_goods = grain
+life_rating = 0
+1836.1.2 = {
+	owner = CIV
+	controller = CIV
+	remove_core = RPL
+}

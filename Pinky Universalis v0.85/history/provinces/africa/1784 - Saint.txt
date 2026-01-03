@@ -1,0 +1,7 @@
+owner = TOO
+controller = TOO
+add_core = WOL
+add_core = TOO
+trade_goods = fish
+life_rating = 30
+colonial = 2

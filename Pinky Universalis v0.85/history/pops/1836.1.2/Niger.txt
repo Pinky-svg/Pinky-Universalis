@@ -1,0 +1,361 @@
+#Niger Region (492000)
+#uncolonized in 1836/under the loose control of Sokoto
+#Niamey (288000/72000 POPS)
+1808 = {
+    aristocrats = {
+        culture = mossi
+        religion = animist
+        size = 2428
+    }
+
+    bureaucrats = {
+        culture = mossi
+        religion = animist
+        size = 1800
+    }
+
+    clergymen = {
+        culture = mossi
+        religion = animist
+        size = 1392
+    }
+
+    artisans = {
+        culture = mossi
+        religion = animist
+        size = 6282
+    }
+
+    soldiers = {
+        culture = mossi
+        religion = animist
+        size = 5444
+    }
+
+    zbankers = {
+        culture = mossi
+        religion = animist
+        size = 120492
+    }
+
+    slaves = {
+        culture = mossi
+        religion = animist
+        size = 3990
+    }
+}
+#Say (136000/34000 POPS)
+1809 = {
+    aristocrats = {
+        culture = mossi
+        religion = animist
+        size = 1092
+    }
+
+    clergymen = {
+        culture = mossi
+        religion = animist
+        size = 598
+    }
+
+    artisans = {
+        culture = mossi
+        religion = animist
+        size = 3390
+    }
+
+    soldiers = {
+        culture = mossi
+        religion = animist
+        size = 2690
+    }
+
+    zbankers = {
+        culture = mossi
+        religion = animist
+        size = 91966
+    }
+
+    slaves = {
+        culture = mossi
+        religion = animist
+        size = 7980
+    }
+}
+#Dosso (280000/70000 POPS)
+1810 = {
+    aristocrats = {
+        culture = hausa
+        religion = sunni
+        size = 2394
+    }
+
+    clergymen = {
+        culture = hausa
+        religion = sunni
+        size = 4084
+    }
+
+    artisans = {
+        culture = hausa
+        religion = sunni
+        size = 5984
+    }
+
+    soldiers = {
+        culture = hausa
+        religion = sunni
+        size = 2792
+    }
+
+    zbankers = {
+        culture = hausa
+        religion = sunni
+        size = 115310
+    }
+
+    slaves = {
+        culture = hausa
+        religion = sunni
+        size = 11570
+    }
+}
+#Maradi (280000/70000 POPS)
+1811 = {
+    aristocrats = {
+        culture = hausa
+        religion = sunni
+        size = 2632
+    }
+
+    clergymen = {
+        culture = hausa
+        religion = sunni
+        size = 1596
+    }
+
+    artisans = {
+        culture = hausa
+        religion = sunni
+        size = 8000
+    }
+
+    soldiers = {
+        culture = hausa
+        religion = sunni
+        size = 4946
+    }
+
+    zbankers = {
+        culture = hausa
+        religion = sunni
+        size = 109106
+    }
+
+    slaves = {
+        culture = hausa
+        religion = sunni
+        size = 15960
+    }
+}
+#Air Region (144000)
+#uncolonized in 1836/under the rule of Sultan of Agades
+#Agades (168000/42000 POPS)
+1812 = {
+    aristocrats = {
+        culture = berber
+        religion = sunni
+        size = 1650
+    }
+
+    clergymen = {
+        culture = berber
+        religion = sunni
+        size = 1000
+    }
+
+    artisans = {
+        culture = berber
+        religion = sunni
+        size = 4400
+    }
+
+    soldiers = {
+        culture = berber
+        religion = sunni
+        size = 2600
+    }
+
+    zbankers = {
+        culture = berber
+        religion = sunni
+        size = 78750
+    }
+
+    slaves = {
+        culture = berber
+        religion = sunni
+        size = 4000
+    }
+}
+#Madama (44000/11000 POPS)
+1814 = {
+    aristocrats = {
+        culture = berber
+        religion = sunni
+        size = 400
+    }
+
+    clergymen = {
+        culture = berber
+        religion = sunni
+        size = 200
+    }
+
+    artisans = {
+        culture = berber
+        religion = sunni
+        size = 1100
+    }
+
+    soldiers = {
+        culture = berber
+        religion = sunni
+        size = 250
+    }
+
+    zbankers = {
+        culture = berber
+        religion = sunni
+        size = 18050
+    }
+
+    slaves = {
+        culture = berber
+        religion = sunni
+        size = 2000
+    }
+}
+#Damergu Region (360000)
+#uncolonized in 1836/under the rule of Sultan of Zinder
+#Zinder (464000/116000 POPS)
+1815 = {
+    aristocrats = {
+        culture = hausa
+        religion = sunni
+        size = 4584
+    }
+
+    bureaucrats = {
+        culture = hausa
+        religion = sunni
+        size = 1870
+    }
+
+    clergymen = {
+        culture = hausa
+        religion = sunni
+        size = 2092
+    }
+
+    artisans = {
+        culture = hausa
+        religion = sunni
+        size = 12568
+    }
+
+    soldiers = {
+        culture = hausa
+        religion = sunni
+        size = 8876
+    }
+
+    zbankers = {
+        culture = hausa
+        religion = sunni
+        size = 183936
+    }
+
+    slaves = {
+        culture = hausa
+        religion = sunni
+        size = 19950
+    }
+}
+#under the rule of Kanem-Bornu in 1836
+#Kufe (384000/96000 POPS)
+1816 = {
+    aristocrats = {
+        culture = hausa
+        religion = sunni
+        size = 3990
+    }
+
+    clergymen = {
+        culture = hausa
+        religion = sunni
+        size = 2194
+    }
+
+    artisans = {
+        culture = hausa
+        religion = sunni
+        size = 8178
+    }
+
+    soldiers = {
+        culture = hausa
+        religion = sunni
+        size = 2394
+    }
+
+    zbankers = {
+        culture = hausa
+        religion = sunni
+        size = 161196
+    }
+
+    slaves = {
+        culture = hausa
+        religion = sunni
+        size = 15960
+    }
+}
+#Bilma (36000/9000 POPS)
+1817 = {
+    aristocrats = {
+        culture = bedouin
+        religion = sunni
+        size = 300
+    }
+
+    clergymen = {
+        culture = bedouin
+        religion = sunni
+        size = 200
+    }
+
+    artisans = {
+        culture = bedouin
+        religion = sunni
+        size = 900
+    }
+
+    soldiers = {
+        culture = bedouin
+        religion = sunni
+        size = 200
+    }
+
+    zbankers = {
+        culture = bedouin
+        religion = sunni
+        size = 14400
+    }
+
+    slaves = {
+        culture = bedouin
+        religion = sunni
+        size = 2000
+    }
+}

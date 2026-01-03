@@ -1,0 +1,12 @@
+owner = ASH
+controller = ASH
+add_core = ASH
+add_core = KNG
+trade_goods = grain
+life_rating = 30
+1913.1.1 = {
+owner = GER
+controller = GER
+colonial = 2
+life_rating = 35
+}

@@ -1,0 +1,632 @@
+#Mali Region (1304000)
+#under the rule of Segu in 1836
+#Bamako (296000/74000 POPS)
+1794 = {
+    aristocrats = {
+        culture = fulbe
+        religion = sunni
+        size = 2688
+    }
+
+    bureaucrats = {
+        culture = fulbe
+        religion = sunni
+        size = 2200
+    }
+
+    clergymen = {
+        culture = fulbe
+        religion = sunni
+        size = 1492
+    }
+
+    artisans = {
+        culture = fulbe
+        religion = sunni
+        size = 6582
+    }
+
+    soldiers = {
+        culture = fulbe
+        religion = sunni
+        size = 7280
+    }
+
+    zbankers = {
+        culture = fulbe
+        religion = sunni
+        size = 111318
+    }
+
+    slaves = {
+        culture = fulbe
+        religion = sunni
+        size = 23940
+    }
+}
+#Segu (520000/130000 POPS)
+1800 = {
+    aristocrats = {
+        culture = fulbe
+        religion = sunni
+        size = 4784
+    }
+
+    bureaucrats = {
+        culture = fulbe
+        religion = sunni
+        size = 2200
+    }
+
+    officers = {
+        culture = fulbe
+        religion = sunni
+        size = 398
+    }
+
+    clergymen = {
+        culture = fulbe
+        religion = sunni
+        size = 2488
+    }
+
+    artisans = {
+        culture = fulbe
+        religion = sunni
+        size = 7980
+    }
+
+    soldiers = {
+        culture = fulbe
+        religion = sunni
+        size = 5084
+    }
+
+    zbankers = {
+        culture = fulbe
+        religion = sunni
+        size = 193512
+    }
+
+    slaves = {
+        culture = fulbe
+        religion = sunni
+        size = 43890
+    }
+}
+#Mourdiah (128000/32000 POPS)
+1801 = {
+    aristocrats = {
+        culture = fulbe
+        religion = sunni
+        size = 1094
+    }
+
+    clergymen = {
+        culture = fulbe
+        religion = sunni
+        size = 598
+    }
+
+    artisans = {
+        culture = fulbe
+        religion = sunni
+        size = 2992
+    }
+
+    soldiers = {
+        culture = fulbe
+        religion = sunni
+        size = 696
+    }
+
+    zbankers = {
+        culture = fulbe
+        religion = sunni
+        size = 46480
+    }
+
+    slaves = {
+        culture = fulbe
+        religion = sunni
+        size = 11970
+    }
+}
+#Jenne (360000/90000 POPS)
+1802 = {
+    aristocrats = {
+        culture = fulbe
+        religion = sunni
+        size = 3192
+    }
+
+    clergymen = {
+        culture = fulbe
+        religion = sunni
+        size = 1792
+    }
+
+    artisans = {
+        culture = fulbe
+        religion = sunni
+        size = 8596
+    }
+
+    soldiers = {
+        culture = fulbe
+        religion = sunni
+        size = 1792
+    }
+
+    zbankers = {
+        culture = fulbe
+        religion = sunni
+        size = 140346
+    }
+
+    slaves = {
+        culture = fulbe
+        religion = sunni
+        size = 23940
+    }
+}
+#Bambuk Region (512000)
+#under the rule of Segu in 1836
+#Kayes (200000/50000 POPS)
+1795 = {
+    aristocrats = {
+        culture = fulbe
+        religion = sunni
+        size = 1794
+    }
+
+    clergymen = {
+        culture = fulbe
+        religion = sunni
+        size = 794
+    }
+
+    artisans = {
+        culture = fulbe
+        religion = sunni
+        size = 3986
+    }
+
+    soldiers = {
+        culture = fulbe
+        religion = sunni
+        size = 1792
+    }
+
+    zbankers = {
+        culture = fulbe
+        religion = sunni
+        size = 75540
+    }
+
+    slaves = {
+        culture = fulbe
+        religion = sunni
+        size = 15960
+    }
+}
+#Nioro (160000/40000 POPS)
+1796 = {
+    aristocrats = {
+        culture = fulbe
+        religion = sunni
+        size = 1392
+    }
+
+    clergymen = {
+        culture = fulbe
+        religion = sunni
+        size = 794
+    }
+
+    artisans = {
+        culture = fulbe
+        religion = sunni
+        size = 3290
+    }
+
+    soldiers = {
+        culture = fulbe
+        religion = sunni
+        size = 794
+    }
+
+    zbankers = {
+        culture = fulbe
+        religion = sunni
+        size = 49574
+    }
+
+    slaves = {
+        culture = fulbe
+        religion = sunni
+        size = 23940
+    }
+}
+#Kita (152000/38000 POPS)
+1797 = {
+    aristocrats = {
+        culture = fulbe
+        religion = sunni
+        size = 1196
+    }
+
+    clergymen = {
+        culture = fulbe
+        religion = sunni
+        size = 598
+    }
+
+    artisans = {
+        culture = fulbe
+        religion = sunni
+        size = 2792
+    }
+
+    soldiers = {
+        culture = fulbe
+        religion = sunni
+        size = 4784
+    }
+
+    zbankers = {
+        culture = fulbe
+        religion = sunni
+        size = 42490
+    }
+
+    slaves = {
+        culture = fulbe
+        religion = sunni
+        size = 23940
+    }
+}
+#Bure Region (136000) #see Guinea.txt and Ivory Coast.txt for balance of region
+#under the rule of Segu in 1836
+#Bourgouni (272000/68000 POPS)
+1798 = {
+    aristocrats = {
+        culture = fulbe
+        religion = sunni
+        size = 2592
+    }
+
+    clergymen = {
+        culture = fulbe
+        religion = sunni
+        size = 1596
+    }
+
+    artisans = {
+        culture = fulbe
+        religion = sunni
+        size = 5784
+    }
+
+    soldiers = {
+        culture = fulbe
+        religion = sunni
+        size = 1494
+    }
+
+    zbankers = {
+        culture = fulbe
+        religion = sunni
+        size = 124484
+    }
+
+    slaves = {
+        culture = fulbe
+        religion = sunni
+        size = 11970
+    }
+}
+#Worodugu Region (344000)  #see Burkina.txt and Ivory Coast.txt for balance of region
+#under the rule of Massina in 1836
+#Sikasso (344000/86000 POPS)
+1799 = {
+    aristocrats = {
+        culture = fulbe
+        religion = sunni
+        size = 3286
+    }
+
+    clergymen = {
+        culture = fulbe
+        religion = sunni
+        size = 1792
+    }
+
+    artisans = {
+        culture = fulbe
+        religion = sunni
+        size = 6978
+    }
+
+    soldiers = {
+        culture = fulbe
+        religion = sunni
+        size = 5680
+    }
+
+    zbankers = {
+        culture = fulbe
+        religion = sunni
+        size = 100148
+    }
+
+    slaves = {
+        culture = fulbe
+        religion = sunni
+        size = 55860
+    }
+}
+#Macina Region (536000)
+#under the rule of Segu in 1836
+#Timbuktu (368000/92000 POPS)
+1803 = {
+    aristocrats = {
+        culture = fulbe
+        religion = sunni
+        size = 3888
+    }
+
+    bureaucrats = {
+        culture = fulbe
+        religion = sunni
+        size = 1200
+    }
+
+    clergymen = {
+        culture = fulbe
+        religion = sunni
+        size = 2194
+    }
+
+    artisans = {
+        culture = fulbe
+        religion = sunni
+        size = 7678
+    }
+
+    soldiers = {
+        culture = fulbe
+        religion = sunni
+        size = 2292
+    }
+
+    zbankers = {
+        culture = fulbe
+        religion = sunni
+        size = 125384
+    }
+
+    slaves = {
+        culture = fulbe
+        religion = sunni
+        size = 43890
+    }
+}
+#under the rule of Massina in 1836
+#Bandiagara (488000/122000 POPS)
+1804 = {
+    aristocrats = {
+        culture = fulbe
+        religion = sunni
+        size = 3986
+    }
+
+    bureaucrats = {
+        culture = fulbe
+        religion = sunni
+        size = 2400
+    }
+
+    officers = {
+        culture = fulbe
+        religion = sunni
+        size = 296
+    }
+
+    clergymen = {
+        culture = fulbe
+        religion = sunni
+        size = 3088
+    }
+
+    artisans = {
+        culture = fulbe
+        religion = sunni
+        size = 11668
+    }
+
+    soldiers = {
+        culture = fulbe
+        religion = sunni
+        size = 13164
+    }
+
+    zbankers = {
+        culture = fulbe
+        religion = sunni
+        size = 195006
+    }
+
+    slaves = {
+        culture = fulbe
+        religion = sunni
+        size = 19950
+    }
+}
+#under the rule of Massina in 1836
+#Gao (232000/58000 POPS)
+1805 = {
+    aristocrats = {
+        culture = fulbe
+        religion = sunni
+        size = 2092
+    }
+
+    clergymen = {
+        culture = fulbe
+        religion = sunni
+        size = 1596
+    }
+
+    artisans = {
+        culture = fulbe
+        religion = sunni
+        size = 20000
+    }
+
+    artisans = {
+        culture = fulbe
+        religion = sunni
+        size = 20000
+    }
+
+    artisans = {
+        culture = fulbe
+        religion = sunni
+        size = 20000
+    }
+
+    artisans = {
+        culture = fulbe
+        religion = sunni
+        size = 20000
+    }
+
+    artisans = {
+        culture = fulbe
+        religion = sunni
+        size = 8424
+    }
+
+    soldiers = {
+        culture = fulbe
+        religion = sunni
+        size = 8976
+    }
+
+    zbankers = {
+        culture = fulbe
+        religion = sunni
+        size = 20000
+    }
+
+    slaves = {
+        culture = fulbe
+        religion = sunni
+        size = 3990
+    }
+}
+#Azawad Region (36000)
+#uncolonized in 1836/dominated by Tuareg
+#Taoudenni (8000/2000 POPS)
+1806 = {
+    aristocrats = {
+        culture = berber
+        religion = sunni
+        size = 50
+    }
+
+    clergymen = {
+        culture = berber
+        religion = sunni
+        size = 100
+    }
+
+    artisans = {
+        culture = berber
+        religion = sunni
+        size = 200
+    }
+
+    soldiers = {
+        culture = berber
+        religion = sunni
+        size = 50
+    }
+
+    zbankers = {
+        culture = berber
+        religion = sunni
+        size = 2600
+    }
+
+    slaves = {
+        culture = berber
+        religion = sunni
+        size = 1000
+    }
+}
+#Tessalit (16000/4000 POPS)
+1807 = {
+    aristocrats = {
+        culture = berber
+        religion = sunni
+        size = 150
+    }
+
+    clergymen = {
+        culture = berber
+        religion = sunni
+        size = 250
+    }
+
+    artisans = {
+        culture = berber
+        religion = sunni
+        size = 600
+    }
+
+    soldiers = {
+        culture = berber
+        religion = sunni
+        size = 300
+    }
+
+    zbankers = {
+        culture = berber
+        religion = sunni
+        size = 6450
+    }
+}
+#Araouane (12000/3000 POPS)
+2609 = {
+    aristocrats = {
+        culture = berber
+        religion = sunni
+        size = 250
+    }
+
+    clergymen = {
+        culture = berber
+        religion = sunni
+        size = 400
+    }
+
+    artisans = {
+        culture = berber
+        religion = sunni
+        size = 900
+    }
+
+    soldiers = {
+        culture = berber
+        religion = sunni
+        size = 400
+    }
+
+    zbankers = {
+        culture = berber
+        religion = sunni
+        size = 8200
+    }
+}

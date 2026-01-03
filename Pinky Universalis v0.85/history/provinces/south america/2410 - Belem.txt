@@ -1,0 +1,24 @@
+owner = GRP
+controller = GRP
+add_core = GRP
+
+trade_goods = iron
+life_rating = 0
+terrain = jungle_mine
+1836.1.2 = {
+	owner = CIV
+	controller = CIV
+}
+1913.1.1 = {
+	state_building = {
+		level = 1
+		building = cigarette_factory
+		upgrade = yes
+	}
+	naval_base = 5
+}
+1913.1.1 = {
+	owner = CIV
+	controller = CIV
+	remove_core = GRP
+}

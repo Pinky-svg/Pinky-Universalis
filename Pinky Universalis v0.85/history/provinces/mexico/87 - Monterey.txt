@@ -1,0 +1,13 @@
+owner = CIV
+controller = CIV
+
+
+trade_goods = fish
+life_rating = 0
+terrain = steppe_mine
+1913.1.1 = {
+	
+	
+	
+	remove_core = MEX
+}

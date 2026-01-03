@@ -1,0 +1,4 @@
+owner = CIV
+controller = CIV
+trade_goods = timber
+life_rating = 0
