@@ -5,49 +5,49 @@
     clergymen = {
         culture = serb
         religion = orthodox
-        size = 500
+        size = 1000
     }
 
     artisans = {
         culture = serb
         religion = orthodox
-        size = 800
+        size = 1600
     }
 
     soldiers = {
         culture = serb
         religion = orthodox
-        size = 385
+        size = 770
     }
 
     zbankers = {
         culture = serb
         religion = orthodox
-        size = 13700
+        size = 27400
     }
 
     clergymen = {
         culture = turkish
         religion = sunni
-        size = 200
+        size = 400
     }
 
     artisans = {
         culture = turkish
         religion = sunni
-        size = 200
+        size = 400
     }
 
     soldiers = {
         culture = turkish
         religion = sunni
-        size = 200
+        size = 400
     }
 
     zbankers = {
         culture = turkish
         religion = sunni
-        size = 2450
+        size = 4900
     }
 }
 #Niksic (52000/13000 POPS) 
@@ -55,31 +55,31 @@
 	aristocrats = {
 		culture = serb
 		religion = orthodox
-		size = 250
+		size = 500
 	}
 
 	clergymen = {
 		culture = serb
 		religion = orthodox
-		size = 125
+		size = 250
 	}
 
 	artisans = {
 		culture = serb
 		religion = orthodox
-		size = 575
+		size = 1150
 	}
 
 	soldiers = {
 		culture = serb
 		religion = orthodox
-		size = 125
+		size = 250
 	}
 
 	zbankers = {
 		culture = serb
 		religion = orthodox
-		size = 17225
+		size = 34450
 	}
 }
 #under the rule of Montenegro in 1836  
@@ -88,37 +88,37 @@
 	bureaucrats = {
 		culture = serb
 		religion = orthodox
-		size = 100
+		size = 200
 	}
 
 	officers = {
 		culture = serb
 		religion = orthodox
-		size = 25
+		size = 50
 	}
 
 	clergymen = {
 		culture = serb
 		religion = orthodox
-		size = 275
+		size = 550
 	}
 
 	artisans = {
 		culture = serb
 		religion = orthodox
-		size = 1300
+		size = 2600
 	}
 
 	soldiers = {
 		culture = serb
 		religion = orthodox
-		size = 1100
+		size = 2200
 	}
 
 	zbankers = {
 		culture = serb
 		religion = orthodox
-		size = 24375
+		size = 48750
 	}
 }
 #Kosovo-Sanjak Region (52000)  #see Serbia.txt for balance of region 
@@ -128,31 +128,31 @@
 	aristocrats = {
 		culture = serb
 		religion = orthodox
-		size = 250
+		size = 500
 	}
 
 	clergymen = {
 		culture = serb
 		religion = orthodox
-		size = 125
+		size = 250
 	}
 
 	artisans = {
 		culture = serb
 		religion = orthodox
-		size = 2475
+		size = 4950
 	}
 
 	soldiers = {
 		culture = serb
 		religion = orthodox
-		size = 150
+		size = 300
 	}
 
 	zbankers = {
 		culture = serb
 		religion = orthodox
-		size = 10000
+		size = 20000
 	}
 }
 #Dalmatia Region (64000) #see Croatia.txt for balance of region 
@@ -162,49 +162,49 @@
 	clergymen = {
 		culture = croat
 		religion = catholic
-		size = 50
+		size = 100
 	}
 
 	artisans = {
 		culture = croat
 		religion = catholic
-		size = 250
+		size = 500
 	}
 
 	soldiers = {
 		culture = croat
 		religion = catholic
-		size = 50
+		size = 100
 	}
 
 	zbankers = {
 		culture = croat
 		religion = catholic
-		size = 4650
+		size = 9300
 	}
 
 	clergymen = {
 		culture = serb
 		religion = orthodox
-		size = 100
+		size = 200
 	}
 
 	artisans = {
 		culture = serb
 		religion = orthodox
-		size = 550
+		size = 1100
 	}
 
 	soldiers = {
 		culture = serb
 		religion = orthodox
-		size = 125
+		size = 250
 	}
 
 	zbankers = {
 		culture = serb
 		religion = orthodox
-		size = 10225
+		size = 20450
 	}
 
 }

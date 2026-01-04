@@ -7,67 +7,67 @@
     aristocrats = {
         culture = turkish
         religion = sunni
-        size = 921
+        size = 1842
     }
 
     bureaucrats = {
         culture = turkish
         religion = sunni
-        size = 286
+        size = 572
     }
 
     officers = {
         culture = turkish
         religion = sunni
-        size = 122
+        size = 244
     }
 
     clergymen = {
         culture = turkish
         religion = sunni
-        size = 558
+        size = 1116
     }
 
     artisans = {
         culture = turkish
         religion = sunni
-        size = 1532
+        size = 3064
     }
 
     soldiers = {
         culture = turkish
         religion = sunni
-        size = 1369
+        size = 2738
     }
 
     zbankers = {
         culture = turkish
         religion = sunni
-        size = 73203
+        size = 146406
     }
 
     soldiers = {
         culture = bulgarian
         religion = orthodox
-        size = 122
+        size = 244
     }
 
     clergymen = {
         culture = bulgarian
         religion = orthodox
-        size = 100
+        size = 200
     }
 
     zbankers = {
         culture = bulgarian
         religion = orthodox
-        size = 4044
+        size = 8088
     }
 
     zbankers = {
         culture = ashkenazi
         religion = jewish
-        size = 543
+        size = 1086
     }
 }
 #Shkoder (408000/102000 POPS)
@@ -75,31 +75,31 @@
     aristocrats = {
         culture = turkish
         religion = sunni
-        size = 880
+        size = 1760
     }
 
     clergymen = {
         culture = turkish
         religion = sunni
-        size = 407
+        size = 814
     }
 
     artisans = {
         culture = turkish
         religion = sunni
-        size = 1986
+        size = 3972
     }
 
     soldiers = {
         culture = turkish
         religion = sunni
-        size = 819
+        size = 1638
     }
 
     zbankers = {
         culture = turkish
         religion = sunni
-        size = 38693
+        size = 77386
     }
 }
 #Durres (120000/30000 POPS)
@@ -107,43 +107,43 @@
     aristocrats = {
         culture = turkish
         religion = sunni
-        size = 245
+        size = 490
     }
 
     clergymen = {
         culture = turkish
         religion = sunni
-        size = 100
+        size = 200
     }
 
     artisans = {
         culture = turkish
         religion = sunni
-        size = 491
+        size = 982
     }
 
     soldiers = {
         culture = turkish
         religion = sunni
-        size = 450
+        size = 900
     }
 
     zbankers = {
         culture = turkish
         religion = sunni
-        size = 5632
+        size = 11264
     }
 
     clergymen = {
         culture = turkish
         religion = catholic
-        size = 100
+        size = 200
     }
 
     zbankers = {
         culture = turkish
         religion = catholic
-        size = 2355
+        size = 4710
     }
 }
 #Vlore (272000/68000 POPS)
@@ -151,31 +151,31 @@
     aristocrats = {
         culture = turkish
         religion = sunni
-        size = 573
+        size = 1146
     }
 
     clergymen = {
         culture = turkish
         religion = sunni
-        size = 399
+        size = 798
     }
 
     artisans = {
         culture = turkish
         religion = sunni
-        size = 1331
+        size = 2662
     }
 
     soldiers = {
         culture = turkish
         religion = sunni
-        size = 286
+        size = 572
     }
 
     zbankers = {
         culture = turkish
         religion = sunni
-        size = 12179
+        size = 24358
     }
 }
 #Epirus Region (168000) #see Greece.txt for balance of region
@@ -185,60 +185,60 @@
     aristocrats = {
         culture = turkish
         religion = sunni
-        size = 614
+        size = 1228
     }
 
     clergymen = {
         culture = turkish
         religion = sunni
-        size = 406
+        size = 812
     }
 
     soldiers = {
         culture = turkish
         religion = sunni
-        size = 1100
+        size = 2200
     }
 
     artisans = {
         culture = turkish
         religion = sunni
-        size = 444
+        size = 888
     }
 
     zbankers = {
         culture = turkish
         religion = sunni
-        size = 41070
+        size = 82140
     }
 
     clergymen = {
         culture = bulgarian
-        religion = orthodox
-        size = 100
-    }
-
-    zbankers = {
-        culture = bulgarian
-        religion = orthodox
-        size = 966
-    }
-
-    soldiers = {
-        culture = greek
-        religion = orthodox
-        size = 222
-    }
-
-    clergymen = {
-        culture = greek
         religion = orthodox
         size = 200
     }
 
     zbankers = {
+        culture = bulgarian
+        religion = orthodox
+        size = 1932
+    }
+
+    soldiers = {
         culture = greek
         religion = orthodox
-        size = 3228
+        size = 444
+    }
+
+    clergymen = {
+        culture = greek
+        religion = orthodox
+        size = 400
+    }
+
+    zbankers = {
+        culture = greek
+        religion = orthodox
+        size = 6456
     }
 }

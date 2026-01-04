@@ -5,55 +5,55 @@
     aristocrats = {
         culture = north_italian
         religion = catholic
-        size = 750
+        size = 1500
     }
 
     clergymen = {
         culture = north_italian
         religion = catholic
-        size = 200
+        size = 400
     }
 
     artisans = {
         culture = north_italian
         religion = catholic
-        size = 1450
+        size = 2900
     }
 
     soldiers = {
         culture = north_italian
         religion = catholic
-        size = 225
+        size = 450
     }
 
     zbankers = {
         culture = north_italian
         religion = catholic
-        size = 20875
+        size = 41750
     }
 
     clergymen = {
         culture = croat
         religion = catholic
-        size = 225
+        size = 450
     }
 
     artisans = {
         culture = croat
         religion = catholic
-        size = 900
+        size = 1800
     }
 
     soldiers = {
         culture = croat
         religion = catholic
-        size = 250
+        size = 500
     }
 
     zbankers = {
         culture = croat
         religion = catholic
-        size = 20925
+        size = 41850
     }
 }
 #Croatia Region (870000)
@@ -63,128 +63,128 @@
     aristocrats = {
         culture = croat
         religion = catholic
-        size = 450
+        size = 900
     }
 
     bureaucrats = {
         culture = croat
         religion = catholic
-        size = 250
+        size = 500
     }
 
     officers = {
         culture = croat
         religion = catholic
-        size = 100
+        size = 200
     }
 
     clergymen = {
         culture = croat
         religion = catholic
-        size = 450
+        size = 900
     }
 
     artisans = {
         culture = croat
         religion = catholic
-        size = 2500
+        size = 5000
     }
 
     soldiers = {
         culture = croat
         religion = catholic
-        size = 1100
+        size = 2200
     }
 
     zbankers = {
         culture = croat
         religion = catholic
-        size = 41350
+        size = 82700
     }
 
     aristocrats = {
         culture = hungarian
         religion = catholic
-        size = 700
+        size = 1400
     }
 
     bureaucrats = {
         culture = hungarian
         religion = catholic
-        size = 100
+        size = 200
     }
 
     officers = {
         culture = hungarian
         religion = catholic
-        size = 150
+        size = 300
     }
 
     clergymen = {
         culture = hungarian
         religion = catholic
-        size = 100
+        size = 200
     }
 
     artisans = {
         culture = hungarian
         religion = catholic
-        size = 700
+        size = 1400
     }
 
     soldiers = {
         culture = hungarian
         religion = catholic
-        size = 100
+        size = 200
     }
 
     zbankers = {
         culture = hungarian
         religion = catholic
-        size = 3250
+        size = 6500
     }
 
     bureaucrats = {
         culture = south_german
         religion = catholic
-        size = 550
+        size = 1100
     }
 
     clergymen = {
         culture = south_german
         religion = catholic
-        size = 100
+        size = 200
     }
 
     artisans = {
         culture = south_german
         religion = catholic
-        size = 300
+        size = 600
     }
 
     soldiers = {
         culture = south_german
         religion = catholic
-        size = 100
+        size = 200
     }
 
     zbankers = {
         culture = south_german
         religion = catholic
-        size = 6500
+        size = 13000
     }
 
     ######Jews
     clergymen = {
         culture = ashkenazi
         religion = jewish
-        size = 200
+        size = 400
     }
 
     zbankers = {
         culture = ashkenazi
         religion = jewish
-        size = 1500
+        size = 3000
     }
     ########
 }
@@ -193,55 +193,55 @@
 	aristocrats = {
 		culture = croat
 		religion = catholic
+		size = 700
+	}
+
+	clergymen = {
+		culture = croat
+		religion = catholic
 		size = 350
 	}
 
-	clergymen = {
-		culture = croat
-		religion = catholic
-		size = 175
-	}
-
 	artisans = {
 		culture = croat
 		religion = catholic
-		size = 900
+		size = 1800
 	}
 
 	soldiers = {
 		culture = croat
 		religion = catholic
-		size = 175
+		size = 350
 	}
 
 	zbankers = {
 		culture = croat
 		religion = catholic
-		size = 16400
+		size = 32800
 	}
 
 	clergymen = {
 		culture = serb
 		religion = orthodox
-		size = 100
+		size = 200
 	}
 
 	artisans = {
 		culture = serb
 		religion = orthodox
-		size = 550
+		size = 1100
 	}
 
 	soldiers = {
 		culture = serb
 		religion = orthodox
-		size = 125
+		size = 250
 	}
 
 	zbankers = {
 		culture = serb
 		religion = orthodox
-		size = 10225
+		size = 20450
 	}
 }
 #Karlovac (184000/46000 POPS)
@@ -249,55 +249,55 @@
     aristocrats = {
         culture = croat
         religion = catholic
-        size = 550
-    }
-
-    clergymen = {
-        culture = croat
-        religion = catholic
-        size = 350
-    }
-
-    artisans = {
-        culture = croat
-        religion = catholic
-        size = 1000
-    }
-
-    soldiers = {
-        culture = croat
-        religion = catholic
         size = 1100
     }
 
+    clergymen = {
+        culture = croat
+        religion = catholic
+        size = 700
+    }
+
+    artisans = {
+        culture = croat
+        religion = catholic
+        size = 2000
+    }
+
+    soldiers = {
+        culture = croat
+        religion = catholic
+        size = 2200
+    }
+
     zbankers = {
         culture = croat
         religion = catholic
-        size = 35100
+        size = 70200
     }
 
     clergymen = {
         culture = serb
         religion = orthodox
-        size = 125
+        size = 250
     }
 
     artisans = {
         culture = serb
         religion = orthodox
-        size = 200
+        size = 400
     }
 
     soldiers = {
         culture = serb
         religion = orthodox
-        size = 150
+        size = 300
     }
 
     zbankers = {
         culture = serb
         religion = orthodox
-        size = 2525
+        size = 5050
     }
 }
 #Senj (96000/24000 POPS)
@@ -305,55 +305,55 @@
 	aristocrats = {
 		culture = croat
 		religion = catholic
-		size = 275
+		size = 550
 	}
 
 	clergymen = {
 		culture = croat
 		religion = catholic
-		size = 125
+		size = 250
 	}
 
 	artisans = {
 		culture = croat
 		religion = catholic
-		size = 7175
+		size = 14350
 	}
 
 	soldiers = {
 		culture = croat
 		religion = catholic
-		size = 125
+		size = 250
 	}
 
 	zbankers = {
 		culture = croat
 		religion = catholic
-		size = 5000
+		size = 10000
 	}
 
 	clergymen = {
 		culture = serb
 		religion = orthodox
-		size = 100
+		size = 200
 	}
 
 	artisans = {
 		culture = serb
 		religion = orthodox
-		size = 5775
+		size = 11550
 	}
 
 	soldiers = {
 		culture = serb
 		religion = orthodox
-		size = 125
+		size = 250
 	}
 
 	zbankers = {
 		culture = serb
 		religion = orthodox
-		size = 5000
+		size = 10000
 	}
 }
 #Varadzin (68000/17000 POPS)
@@ -361,68 +361,68 @@
     aristocrats = {
         culture = croat
         religion = catholic
-        size = 200
+        size = 400
     }
 
     clergymen = {
         culture = croat
         religion = catholic
-        size = 325
+        size = 650
     }
 
     artisans = {
         culture = croat
         religion = catholic
-        size = 1650
+        size = 3300
     }
 
     soldiers = {
         culture = croat
         religion = catholic
-        size = 350
+        size = 700
     }
 
     zbankers = {
         culture = croat
         religion = catholic
-        size = 23175
+        size = 46350
     }
 
     aristocrats = {
         culture = hungarian
         religion = catholic
-        size = 50
+        size = 100
     }
 
     artisans = {
         culture = hungarian
         religion = catholic
-        size = 650
+        size = 1300
     }
 
     soldiers = {
         culture = hungarian
         religion = catholic
-        size = 400
+        size = 800
     }
 
     zbankers = {
         culture = hungarian
         religion = catholic
-        size = 2050
+        size = 4100
     }
 
     ######Jews
     clergymen = {
         culture = ashkenazi
         religion = jewish
-        size = 100
+        size = 200
     }
 
     zbankers = {
         culture = ashkenazi
         religion = jewish
-        size = 300
+        size = 600
     }
     ########
 }
@@ -431,55 +431,55 @@
 	aristocrats = {
 		culture = croat
 		religion = catholic
-		size = 425
+		size = 850
 	}
 
 	clergymen = {
 		culture = croat
 		religion = catholic
-		size = 400
+		size = 800
 	}
 
 	artisans = {
 		culture = croat
 		religion = catholic
-		size = 1300
+		size = 2600
 	}
 
 	soldiers = {
 		culture = croat
 		religion = catholic
-		size = 400
+		size = 800
 	}
 
 	zbankers = {
 		culture = croat
 		religion = catholic
-		size = 25700
+		size = 51400
 	}
 
     clergymen = {
         culture = serb
         religion = orthodox
-        size = 100
+        size = 200
     }
 
     artisans = {
         culture = serb
         religion = orthodox
-        size = 250
+        size = 500
     }
 
     soldiers = {
         culture = serb
         religion = orthodox
-        size = 100
+        size = 200
     }
 
     zbankers = {
         culture = serb
         religion = orthodox
-        size = 5025
+        size = 10050
     }
 }
 #Fiume (52000/13000 POPS)
@@ -487,79 +487,79 @@
     clergymen = {
         culture = croat
         religion = catholic
-        size = 100
+        size = 200
     }
 
     artisans = {
         culture = croat
         religion = catholic
-        size = 1200
+        size = 2400
     }
 
     soldiers = {
         culture = croat
         religion = catholic
-        size = 100
+        size = 200
     }
 
     zbankers = {
         culture = croat
         religion = catholic
-        size = 4700
+        size = 9400
     }
 
     aristocrats = {
         culture = north_italian
         religion = catholic
-        size = 150
+        size = 300
     }
 
     clergymen = {
         culture = north_italian
         religion = catholic
-        size = 100
+        size = 200
     }
 
     artisans = {
         culture = north_italian
         religion = catholic
-        size = 1300
+        size = 2600
     }
 
     soldiers = {
         culture = north_italian
         religion = catholic
-        size = 100
+        size = 200
     }
 
     zbankers = {
         culture = north_italian
         religion = catholic
-        size = 4525
+        size = 9050
     }
 
     clergymen = {
         culture = hungarian
         religion = catholic
-        size = 100
+        size = 200
     }
 
     artisans = {
         culture = hungarian
         religion = catholic
-        size = 250
+        size = 500
     }
 
     soldiers = {
         culture = hungarian
         religion = catholic
-        size = 100
+        size = 200
     }
 
     zbankers = {
         culture = hungarian
         religion = catholic
-        size = 700
+        size = 1400
     }
 }
 #Baranya Region (180000) #see Hungary.txt for balance of Region
@@ -569,109 +569,109 @@
     clergymen = {
         culture = croat
         religion = catholic
-        size = 610
+        size = 1220
     }
 
     artisans = {
         culture = croat
         religion = catholic
-        size = 3000
+        size = 6000
     }
 
     soldiers = {
         culture = croat
         religion = catholic
-        size = 795
+        size = 1590
     }
 
     zbankers = {
         culture = croat
         religion = catholic
-        size = 65495
+        size = 130990
     }
 
     clergymen = {
         culture = serb
         religion = orthodox
-        size = 200
+        size = 400
     }
 
     artisans = {
         culture = serb
         religion = orthodox
-        size = 700
+        size = 1400
     }
 
     soldiers = {
         culture = serb
         religion = orthodox
-        size = 200
+        size = 400
     }
 
     zbankers = {
         culture = serb
         religion = orthodox
-        size = 19225
+        size = 38450
     }
 
     aristocrats = {
         culture = hungarian
         religion = catholic
-        size = 600
+        size = 1200
     }
 
 	clergymen = {
         culture = hungarian
         religion = catholic
-        size = 455
+        size = 910
     }
 
     artisans = {
         culture = hungarian
         religion = catholic
-        size = 2250
+        size = 4500
     }
 
     soldiers = {
         culture = hungarian
         religion = catholic
-        size = 740
+        size = 1480
     }
 
     zbankers = {
         culture = hungarian
         religion = catholic
-        size = 24420
+        size = 48840
     }
 
     aristocrats = {
         culture = south_german
         religion = catholic
-        size = 450
+        size = 900
     }
 
     clergymen = {
         culture = south_german
         religion = catholic
-        size = 240
+        size = 480
     }
 
     artisans = {
         culture = south_german
         religion = catholic
-        size = 550
+        size = 1100
     }
 
     soldiers = {
         culture = south_german
         religion = catholic
-        size = 225
+        size = 450
     }
 
     zbankers = {
         culture = south_german
         religion = catholic
-        size = 6525
+        size = 13050
     }
 }
 #Dalmatia Region (320000) #see Montenegro.txt for balance of region 
@@ -681,55 +681,55 @@
 	aristocrats = {
 		culture = croat
 		religion = catholic
-		size = 400
+		size = 800
 	}
 
 	clergymen = {
 		culture = croat
 		religion = catholic
-		size = 350
+		size = 700
 	}
 
 	artisans = {
 		culture = croat
 		religion = catholic
-		size = 2000
+		size = 4000
 	}
 
 	soldiers = {
 		culture = croat
 		religion = catholic
-		size = 350
+		size = 700
 	}
 
 	zbankers = {
 		culture = croat
 		religion = catholic
-		size = 34350
+		size = 68700
 	}
 
 	clergymen = {
 		culture = north_italian
 		religion = catholic
-		size = 25
+		size = 50
 	}
 
 	artisans = {
 		culture = north_italian
 		religion = catholic
-		size = 500
+		size = 1000
 	}
 
 	soldiers = {
 		culture = north_italian
 		religion = catholic
-		size = 25
+		size = 50
 	}
 
 	zbankers = {
 		culture = north_italian
 		religion = catholic
-		size = 5310
+		size = 10620
 	}
 }
 #Zadar (128000/32000 POPS)
@@ -737,97 +737,97 @@
 	aristocrats = {
 		culture = croat
 		religion = catholic
-		size = 250
+		size = 500
 	}
 
 	bureaucrats = {
 		culture = croat
 		religion = catholic
-		size = 400
+		size = 800
 	}
 
 	officers = {
 		culture = croat
 		religion = catholic
-		size = 75
+		size = 150
 	}
 
 	clergymen = {
 		culture = croat
 		religion = catholic
-		size = 225
+		size = 450
 	}
 
 	artisans = {
 		culture = croat
 		religion = catholic
-		size = 600
+		size = 1200
 	}
 
 	soldiers = {
 		culture = croat
 		religion = catholic
-		size = 225
+		size = 450
 	}
 
 	zbankers = {
 		culture = croat
 		religion = catholic
-		size = 20525
+		size = 41050
 	}
 
 	bureaucrats = {
 		culture = north_italian
 		religion = catholic
-		size = 75
+		size = 150
 	}
 
 	clergymen = {
 		culture = north_italian
 		religion = catholic
-		size = 75
+		size = 150
 	}
 
 	artisans = {
 		culture = north_italian
 		religion = catholic
-		size = 700
+		size = 1400
 	}
 
 	soldiers = {
 		culture = north_italian
 		religion = catholic
-		size = 25
+		size = 50
 	}
 
 	zbankers = {
 		culture = north_italian
 		religion = catholic
-		size = 6075
+		size = 12150
 	}
 
 	clergymen = {
 		culture = serb
 		religion = orthodox
-		size = 75
+		size = 150
 	}
 
 	artisans = {
 		culture = serb
 		religion = orthodox
-		size = 300
+		size = 600
 	}
 
 	soldiers = {
 		culture = serb
 		religion = orthodox
-		size = 75
+		size = 150
 	}
 
 	zbankers = {
 		culture = serb
 		religion = orthodox
-		size = 6550
+		size = 13100
 	}
 }
 #Dubrovnik (52000/13000 POPS)
@@ -835,85 +835,85 @@
 	aristocrats = {
 		culture = croat
 		religion = catholic
-		size = 75
+		size = 150
 	}
 
 	clergymen = {
 		culture = croat
 		religion = catholic
-		size = 100
+		size = 200
 	}
 
 	artisans = {
 		culture = croat
 		religion = catholic
-		size = 500
+		size = 1000
 	}
 
 	soldiers = {
 		culture = croat
 		religion = catholic
-		size = 100
+		size = 200
 	}
 
 	zbankers = {
 		culture = croat
 		religion = catholic
-		size = 9225
+		size = 18450
 	}
 
 	aristocrats = {
 		culture = north_italian
 		religion = catholic
-		size = 50
+		size = 100
 	}
 
 	clergymen = {
 		culture = north_italian
 		religion = catholic
-		size = 25
+		size = 50
 	}
 
 	artisans = {
 		culture = north_italian
 		religion = catholic
-		size = 500
+		size = 1000
 	}
 
 	soldiers = {
 		culture = north_italian
 		religion = catholic
-		size = 25
+		size = 50
 	}
 
 	zbankers = {
 		culture = north_italian
 		religion = catholic
-		size = 2180
+		size = 4360
 	}
 
 	clergymen = {
-		culture = serb
-		religion = orthodox
-		size = 50
-	}
-
-	artisans = {
 		culture = serb
 		religion = orthodox
 		size = 100
 	}
 
+	artisans = {
+		culture = serb
+		religion = orthodox
+		size = 200
+	}
+
 	soldiers = {
 		culture = serb
 		religion = orthodox
-		size = 25
+		size = 50
 	}
 
 	zbankers = {
 		culture = serb
 		religion = orthodox
-		size = 1825
+		size = 3650
 	}
 
 }

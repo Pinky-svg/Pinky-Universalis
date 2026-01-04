@@ -5,121 +5,121 @@
     aristocrats = {
         culture = turkish
         religion = sunni
-        size = 950
+        size = 1900
     }
 
     bureaucrats = {
         culture = turkish
         religion = sunni
-        size = 500
+        size = 1000
     }
 
     clergymen = {
         culture = turkish
         religion = sunni
-        size = 190
+        size = 380
     }
 
     artisans = {
         culture = turkish
         religion = sunni
+        size = 2200
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = sunni
+        size = 2420
+    }
+
+    zbankers = {
+        culture = turkish
+        religion = sunni
+        size = 43214
+    }
+
+    clergymen = {
+        culture = greek
+        religion = orthodox
+        size = 380
+    }
+
+    artisans = {
+        culture = greek
+        religion = orthodox
+        size = 3200
+    }
+
+    soldiers = {
+        culture = greek
+        religion = orthodox
+        size = 1100
+    }
+
+    zbankers = {
+        culture = greek
+        religion = orthodox
+        size = 48950
+    }
+
+    clergymen = {
+        culture = bulgarian
+        religion = orthodox
+        size = 260
+    }
+
+    artisans = {
+        culture = bulgarian
+        religion = orthodox
         size = 1100
     }
 
     soldiers = {
-        culture = turkish
-        religion = sunni
-        size = 1210
-    }
-
-    zbankers = {
-        culture = turkish
-        religion = sunni
-        size = 21607
-    }
-
-    clergymen = {
-        culture = greek
-        religion = orthodox
-        size = 190
-    }
-
-    artisans = {
-        culture = greek
-        religion = orthodox
-        size = 1600
-    }
-
-    soldiers = {
-        culture = greek
-        religion = orthodox
-        size = 550
-    }
-
-    zbankers = {
-        culture = greek
-        religion = orthodox
-        size = 24475
-    }
-
-    clergymen = {
         culture = bulgarian
         religion = orthodox
-        size = 130
-    }
-
-    artisans = {
-        culture = bulgarian
-        religion = orthodox
-        size = 550
-    }
-
-    soldiers = {
-        culture = bulgarian
-        religion = orthodox
-        size = 550
+        size = 1100
     }
 
     zbankers = {
         culture = bulgarian
         religion = orthodox
-        size = 27145
+        size = 54290
     }
 
     clergymen = {
-        culture = armenian
-        religion = coptic
-        size = 220
-    }
-
-    artisans = {
         culture = armenian
         religion = coptic
         size = 440
     }
 
+    artisans = {
+        culture = armenian
+        religion = coptic
+        size = 880
+    }
+
     zbankers = {
         culture = armenian
         religion = coptic
-        size = 990
+        size = 1980
     }
 
     clergymen = {
         culture = sephardic
         religion = jewish
-        size = 220
+        size = 440
     }
 
     artisans = {
         culture = sephardic
         religion = jewish
-        size = 260
+        size = 520
     }
 
     zbankers = {
         culture = sephardic
         religion = jewish
-        size = 1720
+        size = 3440
     }
 }
 #Kirklareli (112000/28000 POPS)
@@ -127,115 +127,115 @@
     aristocrats = {
         culture = turkish
         religion = sunni
-        size = 900
+        size = 1800
     }
 
     bureaucrats = {
         culture = turkish
         religion = sunni
-        size = 450
+        size = 900
     }
 
     clergymen = {
         culture = turkish
         religion = sunni
-        size = 175
+        size = 350
     }
 
     artisans = {
         culture = turkish
         religion = sunni
-        size = 1000
+        size = 2000
     }
 
     soldiers = {
         culture = turkish
         religion = sunni
-        size = 1100
+        size = 2200
     }
 
     zbankers = {
         culture = turkish
         religion = sunni
-        size = 10825
+        size = 21650
     }
 
     clergymen = {
         culture = greek
         religion = orthodox
-        size = 175
+        size = 350
     }
 
     artisans = {
         culture = greek
         religion = orthodox
+        size = 2000
+    }
+
+    soldiers = {
+        culture = greek
+        religion = orthodox
         size = 1000
     }
 
-    soldiers = {
-        culture = greek
-        religion = orthodox
-        size = 500
-    }
-
     zbankers = {
         culture = greek
         religion = orthodox
-        size = 12455
+        size = 24910
     }
 
     clergymen = {
         culture = bulgarian
         religion = orthodox
-        size = 120
+        size = 240
     }
 
     soldiers = {
         culture = bulgarian
         religion = orthodox
-        size = 500
+        size = 1000
     }
 
     zbankers = {
         culture = bulgarian
         religion = orthodox
-        size = 20490
+        size = 40980
     }
 
     clergymen = {
-        culture = armenian
-        religion = coptic
-        size = 200
-    }
-
-    soldiers = {
         culture = armenian
         religion = coptic
         size = 400
     }
 
+    soldiers = {
+        culture = armenian
+        religion = coptic
+        size = 800
+    }
+
     zbankers = {
         culture = armenian
         religion = coptic
-        size = 900
+        size = 1800
     }
 
     clergymen = {
         culture = sephardic
         religion = jewish
-        size = 200
+        size = 400
     }
 
     soldiers = {
         culture = sephardic
         religion = jewish
-        size = 200
+        size = 400
     }
 
     zbankers = {
         culture = sephardic
         religion = jewish
-        size = 1500
+        size = 3000
     }
 }
 #Gelibolu (80000/20000 POPS)
@@ -243,97 +243,97 @@
     aristocrats = {
         culture = turkish
         religion = sunni
-        size = 925
+        size = 1850
     }
 
     clergymen = {
         culture = turkish
         religion = sunni
-        size = 225
+        size = 450
     }
 
     artisans = {
         culture = turkish
         religion = sunni
-        size = 1300
+        size = 2600
     }
 
     soldiers = {
         culture = turkish
         religion = sunni
-        size = 1400
+        size = 2800
     }
 
     zbankers = {
         culture = turkish
         religion = sunni
-        size = 35130
+        size = 70260
     }
 
     soldiers = {
+        culture = greek
+        religion = orthodox
+        size = 1000
+    }
+
+    clergymen = {
         culture = greek
         religion = orthodox
         size = 500
     }
 
-    clergymen = {
-        culture = greek
-        religion = orthodox
-        size = 250
-    }
-
     artisans = {
         culture = greek
         religion = orthodox
-        size = 990
+        size = 1980
     }
 
     zbankers = {
         culture = greek
         religion = orthodox
-        size = 34325
+        size = 68650
     }
 
     aristocrats = {
         culture = bulgarian
         religion = orthodox
-        size = 120
+        size = 240
     }
 
     officers = {
         culture = bulgarian
         religion = orthodox
-        size = 120
+        size = 240
     }
 
     clergymen = {
         culture = bulgarian
         religion = orthodox
-        size = 320
+        size = 640
     }
 
     artisans = {
         culture = bulgarian
         religion = orthodox
-        size = 620
+        size = 1240
     }
 
     soldiers = {
         culture = bulgarian
         religion = orthodox
-        size = 500
+        size = 1000
     }
 
     zbankers = {
         culture = bulgarian
         religion = orthodox
-        size = 15770
+        size = 31540
     }
 
     zbankers = {
         culture = sephardic
         religion = jewish
-        size = 750
+        size = 1500
     }
 }
 #Istanbul Region (1268000)
@@ -343,211 +343,211 @@
     aristocrats = {
         culture = turkish
         religion = sunni
-        size = 750
+        size = 1500
     }
 
     bureaucrats = {
         culture = turkish
         religion = sunni
-        size = 1400
+        size = 2800
     }
 
     officers = {
         culture = turkish
         religion = sunni
-        size = 150
-    }
-
-    clergymen = {
-        culture = turkish
-        religion = sunni
-        size = 1125
-    }
-
-    artisans = {
-        culture = turkish
-        religion = sunni
-        size = 10000
-    }
-
-    soldiers = {
-        culture = turkish
-        religion = sunni
-        size = 6000
-    }
-
-    zbankers = {
-        culture = turkish
-        religion = sunni
-        size = 69675
-    }
-
-    aristocrats = {
-        culture = greek
-        religion = orthodox
-        size = 120
-    }
-
-    officers = {
-        culture = greek
-        religion = orthodox
-        size = 120
-    }
-
-    soldiers = {
-        culture = greek
-        religion = orthodox
         size = 300
     }
 
     clergymen = {
-        culture = greek
-        religion = orthodox
-        size = 550
+        culture = turkish
+        religion = sunni
+        size = 2250
     }
 
     artisans = {
-        culture = greek
-        religion = orthodox
-        size = 5000
+        culture = turkish
+        religion = sunni
+        size = 20000
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = sunni
+        size = 12000
     }
 
     zbankers = {
-        culture = greek
-        religion = orthodox
-        size = 31700
+        culture = turkish
+        religion = sunni
+        size = 139350
     }
 
     aristocrats = {
-        culture = bulgarian
+        culture = greek
         religion = orthodox
-        size = 120
+        size = 240
     }
 
     officers = {
-        culture = bulgarian
+        culture = greek
         religion = orthodox
-        size = 120
+        size = 240
     }
 
     soldiers = {
-        culture = bulgarian
+        culture = greek
         religion = orthodox
-        size = 120
-    }
-
-    clergymen = {
-        culture = bulgarian
-        religion = orthodox
-        size = 120
-    }
-
-    artisans = {
-        culture = bulgarian
-        religion = orthodox
-        size = 5000
-    }
-
-    zbankers = {
-        culture = bulgarian
-        religion = orthodox
-        size = 475
-    }
-
-    aristocrats = {
-        culture = armenian
-        religion = coptic
-        size = 120
-    }
-
-    officers = {
-        culture = armenian
-        religion = coptic
-        size = 120
-    }
-
-    soldiers = {
-        culture = armenian
-        religion = coptic
-        size = 300
-    }
-
-    clergymen = {
-        culture = armenian
-        religion = coptic
-        size = 225
-    }
-
-    artisans = {
-        culture = armenian
-        religion = coptic
-        size = 5000
-    }
-
-    zbankers = {
-        culture = armenian
-        religion = coptic
-        size = 32775
-    }
-
-    clergymen = {
-        culture = sephardic
-        religion = jewish
-        size = 100
-    }
-
-    soldiers = {
-        culture = sephardic
-        religion = jewish
         size = 600
     }
 
+    clergymen = {
+        culture = greek
+        religion = orthodox
+        size = 1100
+    }
+
+    artisans = {
+        culture = greek
+        religion = orthodox
+        size = 10000
+    }
+
+    zbankers = {
+        culture = greek
+        religion = orthodox
+        size = 63400
+    }
+
+    aristocrats = {
+        culture = bulgarian
+        religion = orthodox
+        size = 240
+    }
+
+    officers = {
+        culture = bulgarian
+        religion = orthodox
+        size = 240
+    }
+
+    soldiers = {
+        culture = bulgarian
+        religion = orthodox
+        size = 240
+    }
+
+    clergymen = {
+        culture = bulgarian
+        religion = orthodox
+        size = 240
+    }
+
+    artisans = {
+        culture = bulgarian
+        religion = orthodox
+        size = 10000
+    }
+
+    zbankers = {
+        culture = bulgarian
+        religion = orthodox
+        size = 950
+    }
+
+    aristocrats = {
+        culture = armenian
+        religion = coptic
+        size = 240
+    }
+
+    officers = {
+        culture = armenian
+        religion = coptic
+        size = 240
+    }
+
+    soldiers = {
+        culture = armenian
+        religion = coptic
+        size = 600
+    }
+
+    clergymen = {
+        culture = armenian
+        religion = coptic
+        size = 450
+    }
+
+    artisans = {
+        culture = armenian
+        religion = coptic
+        size = 10000
+    }
+
+    zbankers = {
+        culture = armenian
+        religion = coptic
+        size = 65550
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 200
+    }
+
+    soldiers = {
+        culture = sephardic
+        religion = jewish
+        size = 1200
+    }
+
     artisans = {
         culture = sephardic
         religion = jewish
-        size = 1025
+        size = 2050
     }
 
     zbankers = {
         culture = sephardic
         religion = jewish
-        size = 9400
+        size = 18800
     }
 
     clergymen = {
         culture = north_italian
         religion = catholic
-        size = 1000
+        size = 2000
     }
 
     artisans = {
         culture = north_italian
         religion = catholic
-        size = 7750
+        size = 15500
     }
 
     soldiers = {
         culture = north_italian
         religion = catholic
-        size = 1400
+        size = 2800
     }
 
     zbankers = {
         culture = north_italian
         religion = catholic
-        size = 1000
+        size = 2000
     }
 
     slaves = {
         culture = greek
         religion = orthodox
-        size = 300
+        size = 600
     }
 
     slaves = {
         culture = armenian #african_minor
         religion = coptic
-        size = 9600
+        size = 19200
     }
 }
 #Uskudar (188000/47000 POPS)
@@ -555,79 +555,79 @@
     aristocrats = {
         culture = turkish
         religion = sunni
-        size = 450
+        size = 900
     }
 
     clergymen = {
         culture = turkish
         religion = sunni
-        size = 300
+        size = 600
     }
 
     artisans = {
         culture = turkish
         religion = sunni
-        size = 2000
+        size = 4000
     }
 
     soldiers = {
         culture = turkish
         religion = sunni
-        size = 1100
+        size = 2200
     }
 
     zbankers = {
         culture = turkish
         religion = sunni
-        size = 28850
+        size = 57700
     }
 
     soldiers = {
         culture = greek
         religion = orthodox
-        size = 125
+        size = 250
     }
 
     clergymen = {
         culture = greek
         religion = orthodox
-        size = 125
+        size = 250
     }
 
     artisans = {
         culture = greek
         religion = orthodox
-        size = 1500
+        size = 3000
     }
 
     zbankers = {
         culture = greek
         religion = orthodox
-        size = 10475
+        size = 20950
     }
 
     soldiers = {
         culture = armenian
         religion = coptic
-        size = 120
+        size = 240
     }
 
     clergymen = {
         culture = armenian
         religion = coptic
-        size = 120
+        size = 240
     }
 
     artisans = {
         culture = armenian
         religion = coptic
-        size = 500
+        size = 1000
     }
 
     zbankers = {
         culture = armenian
         religion = coptic
-        size = 6850
+        size = 13700
     }
 }
 #Izmit (316000/79000 POPS)
@@ -635,85 +635,85 @@
     aristocrats = {
         culture = turkish
         religion = sunni
-        size = 1100
+        size = 2200
     }
 
     clergymen = {
         culture = turkish
         religion = sunni
-        size = 575
+        size = 1150
     }
 
     artisans = {
         culture = turkish
         religion = sunni
-        size = 3375
+        size = 6750
     }
 
     soldiers = {
         culture = turkish
         religion = sunni
-        size = 800
+        size = 1600
     }
 
     zbankers = {
         culture = turkish
         religion = sunni
-        size = 50250
+        size = 100500
     }
 
     soldiers = {
         culture = greek
         religion = orthodox
-        size = 120
+        size = 240
     }
 
     clergymen = {
         culture = greek
         religion = orthodox
-        size = 120
+        size = 240
     }
 
     artisans = {
         culture = greek
         religion = orthodox
-        size = 450
+        size = 900
     }
 
     zbankers = {
         culture = greek
         religion = orthodox
-        size = 8375
+        size = 16750
     }
 
     soldiers = {
         culture = armenian
         religion = coptic
-        size = 125
+        size = 250
     }
 
     clergymen = {
         culture = armenian
         religion = coptic
-        size = 125
+        size = 250
     }
 
     artisans = {
         culture = armenian
         religion = coptic
-        size = 700
+        size = 1400
     }
 
     zbankers = {
         culture = armenian
         religion = coptic
-        size = 13375
+        size = 26750
     }
 
     slaves = {
         culture = forest_bantu #african_minor
         religion = animist
-        size = 500
+        size = 1000
     }
 }
 #Hudavendigar Region (736000)
@@ -723,133 +723,133 @@
     aristocrats = {
         culture = turkish
         religion = sunni
-        size = 1265
+        size = 2530
     }
 
     bureaucrats = {
         culture = turkish
         religion = sunni
-        size = 710
+        size = 1420
     }
 
     officers = {
         culture = turkish
         religion = sunni
-        size = 220
+        size = 440
     }
 
     clergymen = {
         culture = turkish
         religion = sunni
-        size = 825
+        size = 1650
     }
 
     artisans = {
         culture = turkish
         religion = sunni
-        size = 4600
+        size = 9200
     }
 
     soldiers = {
         culture = turkish
         religion = sunni
-        size = 1210
+        size = 2420
     }
 
     zbankers = {
         culture = turkish
         religion = sunni
-        size = 57130
+        size = 114260
     }
 
     aristocrats = {
         culture = greek
         religion = orthodox
-        size = 240
+        size = 480
     }
 
     bureaucrats = {
         culture = greek
         religion = orthodox
-        size = 1600
+        size = 3200
     }
 
     officers = {
         culture = greek
         religion = orthodox
-        size = 240
+        size = 480
     }
 
     soldiers = {
+        culture = greek
+        religion = orthodox
+        size = 1200
+    }
+
+    clergymen = {
         culture = greek
         religion = orthodox
         size = 600
     }
 
-    clergymen = {
-        culture = greek
-        religion = orthodox
-        size = 300
-    }
-
     artisans = {
         culture = greek
         religion = orthodox
-        size = 5000
+        size = 10000
     }
 
     zbankers = {
         culture = greek
         religion = orthodox
-        size = 47400
+        size = 94800
     }
 
     aristocrats = {
         culture = armenian
         religion = coptic
-        size = 130
+        size = 260
     }
 
     officers = {
         culture = armenian
         religion = coptic
-        size = 130
+        size = 260
     }
 
     soldiers = {
         culture = armenian
         religion = coptic
-        size = 330
+        size = 660
     }
 
     clergymen = {
         culture = armenian
         religion = coptic
-        size = 130
+        size = 260
     }
 
     artisans = {
         culture = armenian
         religion = coptic
-        size = 750
+        size = 1500
     }
 
     zbankers = {
         culture = armenian
         religion = coptic
-        size = 9065
+        size = 18130
     }
 
     artisans = {
         culture = sephardic
         religion = jewish
-        size = 550
+        size = 1100
     }
 
     slaves = {
         culture = armenian
         religion = coptic
-        size = 1100
+        size = 2200
     }
 }
 #Balikesir (204000/51000 POPS)
@@ -857,49 +857,49 @@
     aristocrats = {
         culture = turkish
         religion = sunni
-        size = 650
+        size = 1300
     }
 
     clergymen = {
         culture = turkish
         religion = sunni
-        size = 425
+        size = 850
     }
 
     artisans = {
         culture = turkish
         religion = sunni
-        size = 2100
+        size = 4200
     }
 
     soldiers = {
         culture = turkish
         religion = sunni
-        size = 500
+        size = 1000
     }
 
     zbankers = {
         culture = turkish
         religion = sunni
-        size = 38325
+        size = 76650
     }
 
     clergymen = {
         culture = greek
         religion = orthodox
-        size = 120
+        size = 240
     }
 
     artisans = {
         culture = greek
         religion = orthodox
-        size = 450
+        size = 900
     }
 
     zbankers = {
         culture = greek
         religion = orthodox
-        size = 8625
+        size = 17250
     }
 }
 #Chanakkale (132000/33000 POPS)
@@ -907,55 +907,55 @@
     aristocrats = {
         culture = turkish
         religion = sunni
-        size = 350
+        size = 700
     }
 
     clergymen = {
         culture = turkish
         religion = sunni
-        size = 275
+        size = 550
     }
 
     artisans = {
         culture = turkish
         religion = sunni
-        size = 1500
+        size = 3000
     }
 
     soldiers = {
         culture = turkish
         religion = sunni
-        size = 325
+        size = 650
     }
 
     zbankers = {
         culture = turkish
         religion = sunni
-        size = 27600
+        size = 55200
     }
 
     soldiers = {
         culture = greek
         religion = orthodox
-        size = 120
+        size = 240
     }
 
     clergymen = {
         culture = greek
         religion = orthodox
-        size = 120
+        size = 240
     }
 
     artisans = {
         culture = greek
         religion = orthodox
-        size = 150
+        size = 300
     }
 
     zbankers = {
         culture = greek
         religion = orthodox
-        size = 18600
+        size = 37200
     }
 }
 #Karahisar Region (336000)
@@ -965,55 +965,55 @@
     aristocrats = {
         culture = turkish
         religion = sunni
-        size = 550
+        size = 1100
     }
 
     clergymen = {
         culture = turkish
         religion = sunni
-        size = 550
+        size = 1100
     }
 
     artisans = {
         culture = turkish
         religion = sunni
-        size = 7500
+        size = 15000
     }
 
     soldiers = {
         culture = turkish
         religion = sunni
-        size = 200
+        size = 400
     }
 
     zbankers = {
         culture = turkish
         religion = sunni
-        size = 46200
+        size = 92400
     }
 
     soldiers = {
         culture = greek
         religion = orthodox
-        size = 200
+        size = 400
     }
 
     clergymen = {
         culture = greek
         religion = orthodox
-        size = 120
+        size = 240
     }
 
     artisans = {
         culture = greek
         religion = orthodox
-        size = 1500
+        size = 3000
     }
 
     zbankers = {
         culture = greek
         religion = orthodox
-        size = 2450
+        size = 4900
     }
 }
 #Eskisehir (140000/35000 POPS)
@@ -1021,67 +1021,67 @@
     aristocrats = {
         culture = turkish
         religion = sunni
-        size = 725
+        size = 1450
     }
 
     clergymen = {
         culture = turkish
         religion = sunni
-        size = 450
+        size = 900
     }
 
     artisans = {
         culture = turkish
         religion = sunni
-        size = 2600
+        size = 5200
     }
 
     soldiers = {
         culture = turkish
         religion = sunni
-        size = 550
+        size = 1100
     }
 
     zbankers = {
         culture = turkish
         religion = sunni
-        size = 47575
+        size = 95150
     }
 
     clergymen = {
         culture = greek
         religion = orthodox
-        size = 240
+        size = 480
     }
 
     artisans = {
         culture = greek
         religion = orthodox
-        size = 300
+        size = 600
     }
 
     zbankers = {
         culture = greek
         religion = orthodox
-        size = 2260
+        size = 4520
     }
 
     clergymen = {
         culture = armenian
         religion = coptic
-        size = 240
+        size = 480
     }
 
     artisans = {
         culture = armenian
         religion = coptic
-        size = 300
+        size = 600
     }
 
     zbankers = {
         culture = armenian
         religion = coptic
-        size = 2600
+        size = 5200
     }
 }
 #Aydin Region (988000)
@@ -1091,19 +1091,129 @@
     aristocrats = {
         culture = turkish
         religion = sunni
-        size = 575
+        size = 1150
     }
 
     bureaucrats = {
         culture = turkish
         religion = sunni
-        size = 850
+        size = 1700
     }
 
     officers = {
         culture = turkish
         religion = sunni
-        size = 100
+        size = 200
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = sunni
+        size = 1100
+    }
+
+    artisans = {
+        culture = turkish
+        religion = sunni
+        size = 8000
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = sunni
+        size = 1000
+    }
+
+    zbankers = {
+        culture = turkish
+        religion = sunni
+        size = 56700
+    }
+
+    aristocrats = {
+        culture = greek
+        religion = orthodox
+        size = 240
+    }
+
+    officers = {
+        culture = greek
+        religion = orthodox
+        size = 240
+    }
+
+    soldiers = {
+        culture = greek
+        religion = orthodox
+        size = 400
+    }
+
+    clergymen = {
+        culture = greek
+        religion = orthodox
+        size = 500
+    }
+
+    artisans = {
+        culture = greek
+        religion = orthodox
+        size = 4000
+    }
+
+    zbankers = {
+        culture = greek
+        religion = orthodox
+        size = 74300
+    }
+
+    aristocrats = {
+        culture = armenian
+        religion = coptic
+        size = 240
+    }
+
+    officers = {
+        culture = armenian
+        religion = coptic
+        size = 240
+    }
+
+    soldiers = {
+        culture = armenian
+        religion = coptic
+        size = 300
+    }
+
+    clergymen = {
+        culture = armenian
+        religion = coptic
+        size = 240
+    }
+
+    artisans = {
+        culture = armenian
+        religion = coptic
+        size = 1160
+    }
+
+    zbankers = {
+        culture = armenian
+        religion = coptic
+        size = 12800
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 6000
+    }
+}
+#Manisa (244000/61000 POPS)
+870 = {
+    aristocrats = {
+        culture = turkish
+        religion = sunni
+        size = 750
     }
 
     clergymen = {
@@ -1115,153 +1225,43 @@
     artisans = {
         culture = turkish
         religion = sunni
-        size = 4000
+        size = 2700
     }
 
     soldiers = {
         culture = turkish
         religion = sunni
-        size = 500
+        size = 550
     }
 
     zbankers = {
         culture = turkish
         religion = sunni
-        size = 28350
-    }
-
-    aristocrats = {
-        culture = greek
-        religion = orthodox
-        size = 120
-    }
-
-    officers = {
-        culture = greek
-        religion = orthodox
-        size = 120
+        size = 41450
     }
 
     soldiers = {
         culture = greek
         religion = orthodox
-        size = 200
+        size = 240
     }
 
     clergymen = {
         culture = greek
         religion = orthodox
-        size = 250
+        size = 240
     }
 
     artisans = {
         culture = greek
         religion = orthodox
-        size = 2000
+        size = 240
     }
 
     zbankers = {
         culture = greek
         religion = orthodox
-        size = 37150
-    }
-
-    aristocrats = {
-        culture = armenian
-        religion = coptic
-        size = 120
-    }
-
-    officers = {
-        culture = armenian
-        religion = coptic
-        size = 120
-    }
-
-    soldiers = {
-        culture = armenian
-        religion = coptic
-        size = 150
-    }
-
-    clergymen = {
-        culture = armenian
-        religion = coptic
-        size = 120
-    }
-
-    artisans = {
-        culture = armenian
-        religion = coptic
-        size = 580
-    }
-
-    zbankers = {
-        culture = armenian
-        religion = coptic
-        size = 6400
-    }
-
-    artisans = {
-        culture = sephardic
-        religion = jewish
-        size = 3000
-    }
-}
-#Manisa (244000/61000 POPS)
-870 = {
-    aristocrats = {
-        culture = turkish
-        religion = sunni
-        size = 375
-    }
-
-    clergymen = {
-        culture = turkish
-        religion = sunni
-        size = 275
-    }
-
-    artisans = {
-        culture = turkish
-        religion = sunni
-        size = 1350
-    }
-
-    soldiers = {
-        culture = turkish
-        religion = sunni
-        size = 275
-    }
-
-    zbankers = {
-        culture = turkish
-        religion = sunni
-        size = 20725
-    }
-
-    soldiers = {
-        culture = greek
-        religion = orthodox
-        size = 120
-    }
-
-    clergymen = {
-        culture = greek
-        religion = orthodox
-        size = 120
-    }
-
-    artisans = {
-        culture = greek
-        religion = orthodox
-        size = 120
-    }
-
-    zbankers = {
-        culture = greek
-        religion = orthodox
-        size = 4930
+        size = 9860
     }
 }
 #Denizli (308000/77000 POPS)
@@ -1269,315 +1269,61 @@
     aristocrats = {
         culture = turkish
         religion = sunni
-        size = 900
+        size = 1800
     }
 
     soldiers = {
         culture = turkish
         religion = sunni
-        size = 400
+        size = 800
     }
 
     clergymen = {
         culture = turkish
         religion = sunni
-        size = 725
+        size = 1450
     }
 
     artisans = {
         culture = turkish
         religion = sunni
-        size = 10000
+        size = 20000
     }
 
     artisans = {
         culture = turkish
         religion = sunni
-        size = 10000
+        size = 20000
     }
 
     artisans = {
         culture = turkish
         religion = sunni
-        size = 10000
+        size = 20000
     }
 
     artisans = {
         culture = turkish
         religion = sunni
-        size = 10000
+        size = 20000
     }
 
     artisans = {
         culture = turkish
         religion = sunni
-        size = 10000
+        size = 20000
     }
 
     artisans = {
         culture = turkish
         religion = sunni
-        size = 5400
+        size = 10800
     }
 
     zbankers = {
         culture = turkish
         religion = sunni
-        size = 6000
-    }
-
-    soldiers = {
-        culture = greek
-        religion = orthodox
-        size = 200
-    }
-
-    clergymen = {
-        culture = greek
-        religion = orthodox
-        size = 120
-    }
-
-    artisans = {
-        culture = greek
-        religion = orthodox
-        size = 9625
-    }
-
-    zbankers = {
-        culture = greek
-        religion = orthodox
-        size = 4000
-    }
-}
-#Mugla (96000/24000 POPS)
-872 = {
-    aristocrats = {
-        culture = turkish
-        religion = sunni
-        size = 275
-    }
-
-    clergymen = {
-        culture = turkish
-        religion = sunni
-        size = 120
-    }
-
-    artisans = {
-        culture = turkish
-        religion = sunni
-        size = 10000
-    }
-
-    soldiers = {
-        culture = turkish
-        religion = sunni
-        size = 380
-    }
-
-    zbankers = {
-        culture = turkish
-        religion = sunni
-        size = 6000
-    }
-
-    soldiers = {
-        culture = greek
-        religion = orthodox
-        size = 200
-    }
-
-    clergymen = {
-        culture = greek
-        religion = orthodox
-        size = 120
-    }
-
-    artisans = {
-        culture = greek
-        religion = orthodox
-        size = 3225
-    }
-
-    zbankers = {
-        culture = greek
-        religion = orthodox
-        size = 4000
-    }
-}
-#Karaman Region (820000)
-#under the rule of Ottoman Empire in 1836
-#Konya (416000/104000 POPS)
-873 = {
-    aristocrats = {
-        culture = turkish
-        religion = sunni
-        size = 1150
-    }
-
-    bureaucrats = {
-        culture = turkish
-        religion = sunni
-        size = 2200
-    }
-
-    officers = {
-        culture = turkish
-        religion = sunni
-        size = 125
-    }
-
-    clergymen = {
-        culture = turkish
-        religion = sunni
-        size = 950
-    }
-
-    artisans = {
-        culture = turkish
-        religion = sunni
-        size = 3050
-    }
-
-    soldiers = {
-        culture = turkish
-        religion = sunni
-        size = 1050
-    }
-
-    zbankers = {
-        culture = turkish
-        religion = sunni
-        size = 80000
-    }
-
-    clergymen = {
-        culture = kurdish
-        religion = sunni
-        size = 200
-    }
-
-    artisans = {
-        culture = kurdish
-        religion = sunni
-        size = 300
-    }
-
-    zbankers = {
-        culture = kurdish
-        religion = sunni
-        size = 8025
-    }
-
-    aristocrats = {
-        culture = greek
-        religion = orthodox
-        size = 120
-    }
-
-    officers = {
-        culture = greek
-        religion = orthodox
-        size = 120
-    }
-
-    soldiers = {
-        culture = greek
-        religion = orthodox
-        size = 200
-    }
-
-    clergymen = {
-        culture = greek
-        religion = orthodox
-        size = 120
-    }
-
-    artisans = {
-        culture = greek
-        religion = orthodox
-        size = 350
-    }
-
-    zbankers = {
-        culture = greek
-        religion = orthodox
-        size = 7375
-    }
-
-    aristocrats = {
-        culture = armenian
-        religion = coptic
-        size = 120
-    }
-
-    officers = {
-        culture = armenian
-        religion = coptic
-        size = 120
-    }
-
-    soldiers = {
-        culture = armenian
-        religion = coptic
-        size = 200
-    }
-
-    clergymen = {
-        culture = armenian
-        religion = coptic
-        size = 120
-    }
-
-    artisans = {
-        culture = armenian
-        religion = coptic
-        size = 150
-    }
-
-    zbankers = {
-        culture = armenian
-        religion = coptic
-        size = 930
-    }
-
-    slaves = {
-        culture = armenian
-        religion = coptic
-        size = 2000
-    }
-}
-#Burdur (200000/50000 POPS)
-874 = {
-    aristocrats = {
-        culture = turkish
-        religion = sunni
-        size = 650
-    }
-
-    clergymen = {
-        culture = turkish
-        religion = sunni
-        size = 475
-    }
-
-    artisans = {
-        culture = turkish
-        religion = sunni
-        size = 2350
-    }
-
-    soldiers = {
-        culture = turkish
-        religion = sunni
-        size = 500
-    }
-
-    zbankers = {
-        culture = turkish
-        religion = sunni
-        size = 42025
+        size = 12000
     }
 
     soldiers = {
@@ -1595,13 +1341,267 @@
     artisans = {
         culture = greek
         religion = orthodox
-        size = 250
+        size = 19250
     }
 
     zbankers = {
         culture = greek
         religion = orthodox
-        size = 2805
+        size = 8000
+    }
+}
+#Mugla (96000/24000 POPS)
+872 = {
+    aristocrats = {
+        culture = turkish
+        religion = sunni
+        size = 550
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = sunni
+        size = 240
+    }
+
+    artisans = {
+        culture = turkish
+        religion = sunni
+        size = 20000
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = sunni
+        size = 760
+    }
+
+    zbankers = {
+        culture = turkish
+        religion = sunni
+        size = 12000
+    }
+
+    soldiers = {
+        culture = greek
+        religion = orthodox
+        size = 400
+    }
+
+    clergymen = {
+        culture = greek
+        religion = orthodox
+        size = 240
+    }
+
+    artisans = {
+        culture = greek
+        religion = orthodox
+        size = 6450
+    }
+
+    zbankers = {
+        culture = greek
+        religion = orthodox
+        size = 8000
+    }
+}
+#Karaman Region (820000)
+#under the rule of Ottoman Empire in 1836
+#Konya (416000/104000 POPS)
+873 = {
+    aristocrats = {
+        culture = turkish
+        religion = sunni
+        size = 2300
+    }
+
+    bureaucrats = {
+        culture = turkish
+        religion = sunni
+        size = 4400
+    }
+
+    officers = {
+        culture = turkish
+        religion = sunni
+        size = 250
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = sunni
+        size = 1900
+    }
+
+    artisans = {
+        culture = turkish
+        religion = sunni
+        size = 6100
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = sunni
+        size = 2100
+    }
+
+    zbankers = {
+        culture = turkish
+        religion = sunni
+        size = 160000
+    }
+
+    clergymen = {
+        culture = kurdish
+        religion = sunni
+        size = 400
+    }
+
+    artisans = {
+        culture = kurdish
+        religion = sunni
+        size = 600
+    }
+
+    zbankers = {
+        culture = kurdish
+        religion = sunni
+        size = 16050
+    }
+
+    aristocrats = {
+        culture = greek
+        religion = orthodox
+        size = 240
+    }
+
+    officers = {
+        culture = greek
+        religion = orthodox
+        size = 240
+    }
+
+    soldiers = {
+        culture = greek
+        religion = orthodox
+        size = 400
+    }
+
+    clergymen = {
+        culture = greek
+        religion = orthodox
+        size = 240
+    }
+
+    artisans = {
+        culture = greek
+        religion = orthodox
+        size = 700
+    }
+
+    zbankers = {
+        culture = greek
+        religion = orthodox
+        size = 14750
+    }
+
+    aristocrats = {
+        culture = armenian
+        religion = coptic
+        size = 240
+    }
+
+    officers = {
+        culture = armenian
+        religion = coptic
+        size = 240
+    }
+
+    soldiers = {
+        culture = armenian
+        religion = coptic
+        size = 400
+    }
+
+    clergymen = {
+        culture = armenian
+        religion = coptic
+        size = 240
+    }
+
+    artisans = {
+        culture = armenian
+        religion = coptic
+        size = 300
+    }
+
+    zbankers = {
+        culture = armenian
+        religion = coptic
+        size = 1860
+    }
+
+    slaves = {
+        culture = armenian
+        religion = coptic
+        size = 4000
+    }
+}
+#Burdur (200000/50000 POPS)
+874 = {
+    aristocrats = {
+        culture = turkish
+        religion = sunni
+        size = 1300
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = sunni
+        size = 950
+    }
+
+    artisans = {
+        culture = turkish
+        religion = sunni
+        size = 4700
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = sunni
+        size = 1000
+    }
+
+    zbankers = {
+        culture = turkish
+        religion = sunni
+        size = 84050
+    }
+
+    soldiers = {
+        culture = greek
+        religion = orthodox
+        size = 800
+    }
+
+    clergymen = {
+        culture = greek
+        religion = orthodox
+        size = 480
+    }
+
+    artisans = {
+        culture = greek
+        religion = orthodox
+        size = 500
+    }
+
+    zbankers = {
+        culture = greek
+        religion = orthodox
+        size = 5610
     }
 }
 #Antalya (204000/51000 POPS)
@@ -1609,61 +1609,61 @@
     aristocrats = {
         culture = turkish
         religion = sunni
-        size = 575
+        size = 1150
     }
 
     clergymen = {
         culture = turkish
         religion = sunni
-        size = 475
+        size = 950
     }
 
     artisans = {
         culture = turkish
         religion = sunni
-        size = 2400
+        size = 4800
     }
 
     soldiers = {
         culture = turkish
         religion = sunni
-        size = 525
+        size = 1050
     }
 
     zbankers = {
         culture = turkish
         religion = sunni
-        size = 39525
+        size = 79050
     }
 
     zbankers = {
         culture = turkish
         religion = sunni
-        size = 500
+        size = 1000
     }
 
     soldiers = {
         culture = greek
         religion = orthodox
-        size = 200
+        size = 400
     }
 
     clergymen = {
         culture = greek
         religion = orthodox
-        size = 120
+        size = 240
     }
 
     artisans = {
         culture = greek
         religion = orthodox
-        size = 150
+        size = 300
     }
 
     zbankers = {
         culture = greek
         religion = orthodox
-        size = 6800
+        size = 13600
     }
 }
 #Central Anatolia Region (692000)
@@ -1673,79 +1673,79 @@
     aristocrats = {
         culture = turkish
         religion = sunni
-        size = 700
+        size = 1400
     }
 
     bureaucrats = {
         culture = turkish
         religion = sunni
-        size = 3000
+        size = 6000
     }
 
     officers = {
         culture = turkish
         religion = sunni
-        size = 100
+        size = 200
     }
 
     clergymen = {
         culture = turkish
         religion = sunni
-        size = 525
+        size = 1050
     }
 
     artisans = {
         culture = turkish
         religion = sunni
-        size = 2200
+        size = 4400
     }
 
     soldiers = {
         culture = turkish
         religion = sunni
-        size = 1000
+        size = 2000
     }
 
     zbankers = {
         culture = turkish
         religion = sunni
-        size = 46875
+        size = 93750
     }
 
     clergymen = {
         culture = greek
         religion = orthodox
-        size = 120
+        size = 240
     }
 
     artisans = {
         culture = greek
         religion = orthodox
-        size = 150
+        size = 300
     }
 
     zbankers = {
         culture = greek
         religion = orthodox
-        size = 1365
+        size = 2730
     }
 
     clergymen = {
         culture = armenian
         religion = coptic
-        size = 120
+        size = 240
     }
 
     artisans = {
         culture = armenian
         religion = coptic
-        size = 250
+        size = 500
     }
 
     zbankers = {
         culture = armenian
         religion = coptic
-        size = 5140
+        size = 10280
     }
 }
 #Amasya (132000/33000 POPS)
@@ -1753,79 +1753,79 @@
     aristocrats = {
         culture = turkish
         religion = sunni
-        size = 675
+        size = 1350
     }
 
     clergymen = {
         culture = turkish
         religion = sunni
-        size = 290
+        size = 580
     }
 
     artisans = {
         culture = turkish
         religion = sunni
-        size = 1500
+        size = 3000
     }
 
     soldiers = {
         culture = turkish
         religion = sunni
-        size = 325
+        size = 650
     }
 
     zbankers = {
         culture = turkish
         religion = sunni
-        size = 19200
+        size = 38400
     }
 
     soldiers = {
         culture = greek
         religion = orthodox
+        size = 400
+    }
+
+    clergymen = {
+        culture = greek
+        religion = orthodox
+        size = 240
+    }
+
+    artisans = {
+        culture = greek
+        religion = orthodox
+        size = 300
+    }
+
+    zbankers = {
+        culture = greek
+        religion = orthodox
+        size = 1850
+    }
+
+    soldiers = {
+        culture = armenian
+        religion = coptic
+        size = 400
+    }
+
+    clergymen = {
+        culture = armenian
+        religion = coptic
+        size = 240
+    }
+
+    artisans = {
+        culture = armenian
+        religion = coptic
         size = 200
     }
 
-    clergymen = {
-        culture = greek
-        religion = orthodox
-        size = 120
-    }
-
-    artisans = {
-        culture = greek
-        religion = orthodox
-        size = 150
-    }
-
-    zbankers = {
-        culture = greek
-        religion = orthodox
-        size = 925
-    }
-
-    soldiers = {
-        culture = armenian
-        religion = coptic
-        size = 200
-    }
-
-    clergymen = {
-        culture = armenian
-        religion = coptic
-        size = 120
-    }
-
-    artisans = {
-        culture = armenian
-        religion = coptic
-        size = 100
-    }
-
     zbankers = {
         culture = armenian
         religion = coptic
-        size = 8875
+        size = 17750
     }
 }
 #Kayseri (96000/24000 POPS)
@@ -1833,91 +1833,91 @@
     aristocrats = {
         culture = turkish
         religion = sunni
-        size = 475
+        size = 950
     }
 
     clergymen = {
         culture = turkish
         religion = sunni
-        size = 275
+        size = 550
     }
 
     artisans = {
         culture = turkish
         religion = sunni
-        size = 950
+        size = 1900
     }
 
     soldiers = {
         culture = turkish
         religion = sunni
-        size = 850
+        size = 1700
     }
 
     zbankers = {
         culture = turkish
         religion = sunni
-        size = 31650
+        size = 63300
     }
 
     aristocrats = {
         culture = greek
         religion = orthodox
-        size = 125
+        size = 250
     }
 
     soldiers = {
         culture = greek
         religion = orthodox
-        size = 225
+        size = 450
     }
 
     clergymen = {
         culture = greek
         religion = orthodox
-        size = 245
+        size = 490
     }
 
     artisans = {
         culture = greek
         religion = orthodox
-        size = 525
+        size = 1050
     }
 
     zbankers = {
         culture = greek
         religion = orthodox
-        size = 21650
+        size = 43300
     }
 
     soldiers = {
         culture = armenian
         religion = coptic
-        size = 200
+        size = 400
     }
 
     clergymen = {
         culture = armenian
         religion = coptic
-        size = 120
+        size = 240
     }
 
     artisans = {
         culture = armenian
         religion = coptic
-        size = 350
+        size = 700
     }
 
     zbankers = {
         culture = armenian
         religion = coptic
-        size = 1575
+        size = 3150
     }
 
     slaves = {
         culture = armenian
         religion = coptic
-        size = 1000
+        size = 2000
     }
 }
 #Sivas (224000/56000 POPS)
@@ -1925,109 +1925,109 @@
     aristocrats = {
         culture = turkish
         religion = sunni
-        size = 675
+        size = 1350
     }
 
     clergymen = {
         culture = turkish
         religion = sunni
-        size = 470
+        size = 940
     }
 
     artisans = {
         culture = turkish
         religion = sunni
-        size = 1550
+        size = 3100
     }
 
     soldiers = {
         culture = turkish
         religion = sunni
-        size = 1225
+        size = 2450
     }
 
     zbankers = {
         culture = turkish
         religion = sunni
-        size = 29900
+        size = 59800
     }
 
     soldiers = {
         culture = greek
         religion = orthodox
-        size = 320
+        size = 640
     }
 
     clergymen = {
         culture = greek
         religion = orthodox
-        size = 330
+        size = 660
     }
 
     artisans = {
         culture = greek
         religion = orthodox
-        size = 250
+        size = 500
     }
 
     zbankers = {
         culture = greek
         religion = orthodox
-        size = 1600
+        size = 3200
     }
 
     soldiers = {
         culture = armenian
         religion = coptic
-        size = 130
+        size = 260
     }
 
     clergymen = {
         culture = armenian
         religion = coptic
-        size = 130
+        size = 260
     }
 
     artisans = {
         culture = armenian
         religion = coptic
-        size = 1550
+        size = 3100
     }
 
     zbankers = {
         culture = armenian
         religion = coptic
-        size = 19800
+        size = 39600
     }
 
     aristocrats = {
         culture = kurdish
         religion = sunni
-        size = 600
+        size = 1200
     }
 
     clergymen = {
         culture = kurdish
         religion = sunni
-        size = 270
+        size = 540
     }
 
     artisans = {
         culture = kurdish
         religion = sunni
-        size = 1300
+        size = 2600
     }
 
     soldiers = {
         culture = kurdish
         religion = sunni
-        size = 1300
+        size = 2600
     }
 
     zbankers = {
         culture = kurdish
         religion = sunni
-        size = 10475
+        size = 20950
     }
 }
 #Kastamonu Region (392000)
@@ -2037,109 +2037,109 @@
     aristocrats = {
         culture = turkish
         religion = sunni
-        size = 825
+        size = 1650
     }
 
     bureaucrats = {
         culture = turkish
         religion = sunni
-        size = 250
+        size = 500
     }
 
     officers = {
         culture = turkish
         religion = sunni
-        size = 100
+        size = 200
     }
 
     clergymen = {
         culture = turkish
         religion = sunni
-        size = 725
+        size = 1450
     }
 
     artisans = {
         culture = turkish
         religion = sunni
-        size = 10000
+        size = 20000
     }
 
     artisans = {
         culture = turkish
         religion = sunni
-        size = 10000
+        size = 20000
     }
 
     artisans = {
         culture = turkish
         religion = sunni
-        size = 10000
+        size = 20000
     }
 
     artisans = {
         culture = turkish
         religion = sunni
-        size = 10000
+        size = 20000
     }
 
     artisans = {
         culture = turkish
         religion = sunni
-        size = 10000
+        size = 20000
     }
 
     artisans = {
         culture = turkish
         religion = sunni
-        size = 6475
+        size = 12950
     }
 
     soldiers = {
         culture = turkish
         religion = sunni
-        size = 750
+        size = 1500
     }
 
     zbankers = {
         culture = turkish
         religion = sunni
-        size = 8000
+        size = 16000
     }
 
     aristocrats = {
         culture = greek
         religion = orthodox
-        size = 120
+        size = 240
     }
 
     officers = {
         culture = greek
         religion = orthodox
-        size = 120
+        size = 240
     }
 
     soldiers = {
         culture = greek
         religion = orthodox
-        size = 200
+        size = 400
     }
 
     clergymen = {
         culture = greek
         religion = orthodox
-        size = 120
+        size = 240
     }
 
     artisans = {
         culture = greek
         religion = orthodox
-        size = 5575
+        size = 11150
     }
 
     zbankers = {
         culture = greek
         religion = orthodox
-        size = 2000
+        size = 4000
     }
 }
 #Bolu (96000/24000 POPS)
@@ -2147,61 +2147,61 @@
     aristocrats = {
         culture = turkish
         religion = sunni
-        size = 250
+        size = 500
     }
 
     clergymen = {
         culture = turkish
         religion = sunni
-        size = 225
+        size = 450
     }
 
     artisans = {
         culture = turkish
         religion = sunni
-        size = 10000
+        size = 20000
     }
 
     artisans = {
         culture = turkish
         religion = sunni
-        size = 2275
+        size = 4550
     }
 
     soldiers = {
         culture = turkish
         religion = sunni
-        size = 250
+        size = 500
     }
 
     zbankers = {
         culture = turkish
         religion = sunni
-        size = 9000
+        size = 18000
     }
 
     soldiers = {
         culture = greek
         religion = orthodox
-        size = 200
+        size = 400
     }
 
     clergymen = {
         culture = greek
         religion = orthodox
-        size = 120
+        size = 240
     }
 
     artisans = {
         culture = greek
         religion = orthodox
-        size = 1475
+        size = 2950
     }
 
     zbankers = {
         culture = greek
         religion = orthodox
-        size = 1000
+        size = 2000
     }
 }
 #Trebizonde Region (540000)
@@ -2211,145 +2211,145 @@
     aristocrats = {
         culture = turkish
         religion = sunni
-        size = 600
+        size = 1200
     }
 
     soldiers = {
         culture = turkish
         religion = sunni
-        size = 1210
+        size = 2420
     }
 
     bureaucrats = {
         culture = turkish
         religion = sunni
-        size = 2350
+        size = 4700
     }
 
     officers = {
         culture = turkish
         religion = sunni
-        size = 150
+        size = 300
     }
 
     clergymen = {
         culture = turkish
+        religion = sunni
+        size = 800
+    }
+
+    artisans = {
+        culture = turkish
+        religion = sunni
+        size = 2200
+    }
+
+    zbankers = {
+        culture = turkish
+        religion = sunni
+        size = 52000
+    }
+
+    aristocrats = {
+        culture = georgian
+        religion = orthodox
+        size = 220
+    }
+
+    clergymen = {
+        culture = georgian
+        religion = orthodox
+        size = 550
+    }
+
+    artisans = {
+        culture = georgian
+        religion = orthodox
+        size = 1800
+    }
+
+    soldiers = {
+        culture = georgian
         religion = sunni
         size = 400
     }
 
-    artisans = {
-        culture = turkish
-        religion = sunni
-        size = 1100
-    }
-
-    zbankers = {
-        culture = turkish
-        religion = sunni
-        size = 26000
-    }
-
-    aristocrats = {
-        culture = georgian
-        religion = orthodox
-        size = 110
-    }
-
-    clergymen = {
-        culture = georgian
-        religion = orthodox
-        size = 275
-    }
-
-    artisans = {
-        culture = georgian
-        religion = orthodox
-        size = 900
-    }
-
-    soldiers = {
-        culture = georgian
-        religion = sunni
-        size = 200
-    }
-
     zbankers = {
         culture = georgian
         religion = orthodox
-        size = 20250
+        size = 40500
     }
 
     aristocrats = {
         culture = greek
         religion = orthodox
-        size = 110
+        size = 220
     }
 
     officers = {
         culture = greek
         religion = orthodox
-        size = 110
+        size = 220
     }
 
     soldiers = {
         culture = greek
         religion = orthodox
-        size = 200
+        size = 400
     }
 
     clergymen = {
         culture = greek
         religion = orthodox
-        size = 125
+        size = 250
     }
 
     artisans = {
         culture = greek
         religion = orthodox
-        size = 650
+        size = 1300
     }
 
     zbankers = {
         culture = greek
         religion = orthodox
-        size = 27225
+        size = 54450
     }
 
     aristocrats = {
+        culture = armenian
+        religion = coptic
+        size = 440
+    }
+
+    officers = {
         culture = armenian
         religion = coptic
         size = 220
     }
 
-    officers = {
-        culture = armenian
-        religion = coptic
-        size = 110
-    }
-
     soldiers = {
         culture = armenian
         religion = coptic
-        size = 400
+        size = 800
     }
 
     clergymen = {
         culture = armenian
         religion = coptic
-        size = 220
+        size = 440
     }
 
     artisans = {
         culture = armenian
         religion = coptic
-        size = 500
+        size = 1000
     }
 
     zbankers = {
         culture = armenian
         religion = coptic
-        size = 12550
+        size = 25100
     }
 }
 #Sinop (192000/48000 POPS)
@@ -2357,715 +2357,13 @@
     aristocrats = {
         culture = turkish
         religion = sunni
-        size = 525
-    }
-
-    clergymen = {
-        culture = turkish
-        religion = sunni
-        size = 425
-    }
-
-    artisans = {
-        culture = turkish
-        religion = sunni
-        size = 2150
-    }
-
-    soldiers = {
-        culture = turkish
-        religion = sunni
-        size = 1000
-    }
-
-    zbankers = {
-        culture = turkish
-        religion = sunni
-        size = 24000
-    }
-
-    zbankers = {
-        culture = turkish
-        religion = sunni
         size = 1050
     }
 
-    soldiers = {
-        culture = greek
-        religion = orthodox
-        size = 200
-    }
-
-    clergymen = {
-        culture = greek
-        religion = orthodox
-        size = 120
-    }
-
-    artisans = {
-        culture = greek
-        religion = orthodox
-        size = 8250
-    }
-
-    zbankers = {
-        culture = greek
-        religion = orthodox
-        size = 9900
-    }
-}
-#Giresun (140000/35000 POPS)
-884 = {
-    aristocrats = {
-        culture = turkish
-        religion = sunni
-        size = 400
-    }
-
     clergymen = {
         culture = turkish
         religion = sunni
-        size = 250
-    }
-
-    artisans = {
-        culture = turkish
-        religion = sunni
-        size = 1250
-    }
-
-    soldiers = {
-        culture = turkish
-        religion = sunni
-        size = 1100
-    }
-
-    zbankers = {
-        culture = turkish
-        religion = sunni
-        size = 22000
-    }
-
-    clergymen = {
-        culture = greek
-        religion = orthodox
-        size = 110
-    }
-
-    artisans = {
-        culture = greek
-        religion = orthodox
-        size = 400
-    }
-
-    zbankers = {
-        culture = greek
-        religion = orthodox
-        size = 7635
-    }
-
-    clergymen = {
-        culture = armenian
-        religion = coptic
-        size = 110
-    }
-
-    artisans = {
-        culture = armenian
-        religion = coptic
-        size = 100
-    }
-
-    zbankers = {
-        culture = armenian
-        religion = coptic
-        size = 1985
-    }
-}
-#Kars Region (856000) #see Georgia.txt for balance of region
-#under the rule of Ottoman Empire in 1836
-#Kars (408000/102000 POPS)
-885 = {
-    aristocrats = {
-        culture = turkish
-        religion = sunni
-        size = 600
-    }
-
-    bureaucrats = {
-        culture = turkish
-        religion = sunni
-        size = 400
-    }
-
-    officers = {
-        culture = turkish
-        religion = sunni
-        size = 150
-    }
-
-    clergymen = {
-        culture = turkish
-        religion = sunni
-        size = 500
-    }
-
-    artisans = {
-        culture = turkish
-        religion = sunni
-        size = 7500
-    }
-
-    soldiers = {
-        culture = turkish
-        religion = sunni
-        size = 700
-    }
-
-    zbankers = {
-        culture = turkish
-        religion = sunni
-        size = 2000
-    }
-
-    clergymen = {
-        culture = persian
-        religion = sunni
-        size = 250
-    }
-
-    artisans = {
-        culture = persian
-        religion = sunni
-        size = 10000
-    }
-
-    artisans = {
-        culture = persian
-        religion = sunni
-        size = 3400
-    }
-
-    soldiers = {
-        culture = persian
-        religion = sunni
-        size = 900
-    }
-
-    zbankers = {
-        culture = persian
-        religion = sunni
-        size = 2000
-    }
-
-    aristocrats = {
-        culture = armenian
-        religion = coptic
-        size = 110
-    }
-
-    officers = {
-        culture = armenian
-        religion = coptic
-        size = 110
-    }
-
-    soldiers = {
-        culture = armenian
-        religion = coptic
-        size = 110
-    }
-
-    clergymen = {
-        culture = armenian
-        religion = coptic
-        size = 300
-    }
-
-    artisans = {
-        culture = armenian
-        religion = coptic
-        size = 10000
-    }
-
-    artisans = {
-        culture = armenian
-        religion = coptic
-        size = 10000
-    }
-
-    artisans = {
-        culture = armenian
-        religion = coptic
-        size = 2500
-    }
-
-    zbankers = {
-        culture = armenian
-        religion = coptic
-        size = 2000
-    }
-
-    artisans = {
-        culture = sephardic
-        religion = jewish
-        size = 300
-    }
-
-    aristocrats = {
-        culture = greek
-        religion = orthodox
-        size = 110
-    }
-
-    officers = {
-        culture = greek
-        religion = orthodox
-        size = 110
-    }
-
-    soldiers = {
-        culture = greek
-        religion = orthodox
-        size = 110
-    }
-
-    clergymen = {
-        culture = greek
-        religion = orthodox
-        size = 250
-    }
-
-    artisans = {
-        culture = greek
-        religion = orthodox
-        size = 6210
-    }
-
-    zbankers = {
-        culture = greek
-        religion = orthodox
-        size = 2000
-    }
-
-    aristocrats = {
-        culture = kurdish
-        religion = sunni
-        size = 600
-    }
-
-    officers = {
-        culture = kurdish
-        religion = sunni
-        size = 130
-    }
-
-    clergymen = {
-        culture = kurdish
-        religion = sunni
-        size = 300
-    }
-
-    artisans = {
-        culture = kurdish
-        religion = sunni
-        size = 10000
-    }
-
-    artisans = {
-        culture = kurdish
-        religion = sunni
-        size = 10000
-    }
-
-    artisans = {
-        culture = kurdish
-        religion = sunni
-        size = 3400
-    }
-
-    soldiers = {
-        culture = kurdish
-        religion = sunni
-        size = 550
-    }
-
-    zbankers = {
-        culture = kurdish
-        religion = sunni
-        size = 2000
-    }
-}
-#Ardahan (448000/112000 POPS)
-#Ardahan (448000/112000 POPS)
-886 = {
-    aristocrats = {
-        culture = turkish
-        religion = sunni
-        size = 650
-    }
-
-    clergymen = {
-        culture = turkish
-        religion = sunni
-        size = 425
-    }
-
-    artisans = {
-        culture = turkish
-        religion = sunni
-        size = 2150
-    }
-
-    soldiers = {
-        culture = turkish
-        religion = sunni
-        size = 575
-    }
-
-    zbankers = {
-        culture = turkish
-        religion = sunni
-        size = 10000
-    }
-
-    aristocrats = {
-        culture = persian
-        religion = sunni
-        size = 550
-    }
-
-    clergymen = {
-        culture = persian
-        religion = sunni
-        size = 25
-    }
-
-    artisans = {
-        culture = persian
-        religion = sunni
-        size = 150
-    }
-
-    soldiers = {
-        culture = persian
-        religion = sunni
-        size = 175
-    }
-
-    zbankers = {
-        culture = persian
-        religion = sunni
-        size = 9250
-    }
-
-    soldiers = {
-        culture = armenian
-        religion = coptic
-        size = 150
-    }
-
-    clergymen = {
-        culture = armenian
-        religion = coptic
-        size = 300
-    }
-
-    artisans = {
-        culture = armenian
-        religion = coptic
-        size = 1500
-    }
-
-    zbankers = {
-        culture = armenian
-        religion = coptic
-        size = 16800
-    }
-
-    soldiers = {
-        culture = greek
-        religion = orthodox
-        size = 150
-    }
-
-    clergymen = {
-        culture = greek
-        religion = orthodox
-        size = 20
-    }
-
-    artisans = {
-        culture = greek
-        religion = orthodox
-        size = 210
-    }
-
-    zbankers = {
-        culture = greek
-        religion = orthodox
-        size = 2400
-    }
-
-    slaves = {
-        culture = armenian
-        religion = orthodox
-        size = 1500
-    }
-}
-#Eastern Anatolia Region (676000)
-#under the rule of Ottoman Empire in 1836
-#Erzurum (168000/42000 POPS)
-887 = {
-    aristocrats = {
-        culture = turkish
-        religion = sunni
-        size = 200
-    }
-
-    bureaucrats = {
-        culture = turkish
-        religion = sunni
-        size = 300
-    }
-
-    officers = {
-        culture = turkish
-        religion = sunni
-        size = 100
-    }
-
-    clergymen = {
-        culture = turkish
-        religion = sunni
-        size = 125
-    }
-
-    artisans = {
-        culture = turkish
-        religion = sunni
-        size = 650
-    }
-
-    soldiers = {
-        culture = turkish
-        religion = sunni
-        size = 1000
-    }
-
-    zbankers = {
-        culture = turkish
-        religion = sunni
-        size = 19875
-    }
-
-    soldiers = {
-        culture = armenian
-        religion = coptic
-        size = 110
-    }
-
-    clergymen = {
-        culture = armenian
-        religion = coptic
-        size = 110
-    }
-
-    artisans = {
-        culture = armenian
-        religion = coptic
-        size = 450
-    }
-
-    zbankers = {
-        culture = armenian
-        religion = coptic
-        size = 26775
-    }
-
-    aristocrats = {
-        culture = kurdish
-        religion = sunni
-        size = 300
-    }
-
-    bureaucrats = {
-        culture = kurdish
-        religion = sunni
-        size = 100
-    }
-
-    officers = {
-        culture = kurdish
-        religion = sunni
-        size = 100
-    }
-
-    clergymen = {
-        culture = kurdish
-        religion = sunni
-        size = 200
-    }
-
-    artisans = {
-        culture = kurdish
-        religion = sunni
-        size = 400
-    }
-
-    soldiers = {
-        culture = kurdish
-        religion = sunni
-        size = 1100
-    }
-
-    zbankers = {
-        culture = kurdish
-        religion = sunni
-        size = 7350
-    }
-}
-#Erzincan (312000/78000 POPS)
-#Erzincan (312000/78000 POPS)
-888 = {
-    aristocrats = {
-        culture = turkish
-        religion = sunni
-        size = 900
-    }
-
-    clergymen = {
-        culture = turkish
-        religion = sunni
-        size = 450
-    }
-
-    artisans = {
-        culture = turkish
-        religion = sunni
-        size = 10000
-    }
-
-    artisans = {
-        culture = turkish
-        religion = sunni
-        size = 10000
-    }
-
-    artisans = {
-        culture = turkish
-        religion = sunni
-        size = 9650
-    }
-
-    soldiers = {
-        culture = turkish
-        religion = sunni
-        size = 200
-    }
-
-    zbankers = {
-        culture = turkish
-        religion = sunni
-        size = 3000
-    }
-
-    soldiers = {
-        culture = armenian
-        religion = coptic
-        size = 220
-    }
-
-    clergymen = {
-        culture = armenian
-        religion = coptic
-        size = 400
-    }
-
-    artisans = {
-        culture = armenian
-        religion = coptic
-        size = 10000
-    }
-
-    artisans = {
-        culture = armenian
-        religion = coptic
-        size = 10000
-    }
-
-    artisans = {
-        culture = armenian
-        religion = coptic
-        size = 10000
-    }
-
-    artisans = {
-        culture = armenian
-        religion = coptic
-        size = 2700
-    }
-
-    zbankers = {
-        culture = armenian
-        religion = coptic
-        size = 4000
-    }
-
-    aristocrats = {
-        culture = kurdish
-        religion = sunni
-        size = 800
-    }
-
-    clergymen = {
-        culture = kurdish
-        religion = sunni
-        size = 400
-    }
-
-    artisans = {
-        culture = kurdish
-        religion = sunni
-        size = 10000
-    }
-
-    artisans = {
-        culture = kurdish
-        religion = sunni
-        size = 10000
-    }
-
-    artisans = {
-        culture = kurdish
-        religion = sunni
-        size = 5800
-    }
-
-    soldiers = {
-        culture = kurdish
-        religion = sunni
-        size = 1200
-    }
-
-    zbankers = {
-        culture = kurdish
-        religion = sunni
-        size = 3000
-    }
-}
-#Malatya (196000/49000 POPS) #mashriqi catholic = Assyrians
-889 = {
-    aristocrats = {
-        culture = turkish
-        religion = sunni
-        size = 175
-    }
-
-    clergymen = {
-        culture = turkish
-        religion = sunni
-        size = 100
+        size = 850
     }
 
     artisans = {
@@ -3077,79 +2375,781 @@
     soldiers = {
         culture = turkish
         religion = sunni
-        size = 150
+        size = 2000
     }
 
     zbankers = {
         culture = turkish
         religion = sunni
-        size = 2000
+        size = 48000
+    }
+
+    zbankers = {
+        culture = turkish
+        religion = sunni
+        size = 2100
     }
 
     soldiers = {
-        culture = armenian
-        religion = coptic
-        size = 200
+        culture = greek
+        religion = orthodox
+        size = 400
+    }
+
+    clergymen = {
+        culture = greek
+        religion = orthodox
+        size = 240
+    }
+
+    artisans = {
+        culture = greek
+        religion = orthodox
+        size = 16500
+    }
+
+    zbankers = {
+        culture = greek
+        religion = orthodox
+        size = 19800
+    }
+}
+#Giresun (140000/35000 POPS)
+884 = {
+    aristocrats = {
+        culture = turkish
+        religion = sunni
+        size = 800
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = sunni
+        size = 500
+    }
+
+    artisans = {
+        culture = turkish
+        religion = sunni
+        size = 2500
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = sunni
+        size = 2200
+    }
+
+    zbankers = {
+        culture = turkish
+        religion = sunni
+        size = 44000
+    }
+
+    clergymen = {
+        culture = greek
+        religion = orthodox
+        size = 220
+    }
+
+    artisans = {
+        culture = greek
+        religion = orthodox
+        size = 800
+    }
+
+    zbankers = {
+        culture = greek
+        religion = orthodox
+        size = 15270
     }
 
     clergymen = {
         culture = armenian
         religion = coptic
+        size = 220
+    }
+
+    artisans = {
+        culture = armenian
+        religion = coptic
         size = 200
-    }
-
-    artisans = {
-        culture = armenian
-        religion = coptic
-        size = 10000
-    }
-
-    artisans = {
-        culture = armenian
-        religion = coptic
-        size = 8600
     }
 
     zbankers = {
         culture = armenian
         religion = coptic
+        size = 3970
+    }
+}
+#Kars Region (856000) #see Georgia.txt for balance of region
+#under the rule of Ottoman Empire in 1836
+#Kars (408000/102000 POPS)
+885 = {
+    aristocrats = {
+        culture = turkish
+        religion = sunni
+        size = 1200
+    }
+
+    bureaucrats = {
+        culture = turkish
+        religion = sunni
+        size = 800
+    }
+
+    officers = {
+        culture = turkish
+        religion = sunni
+        size = 300
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = sunni
+        size = 1000
+    }
+
+    artisans = {
+        culture = turkish
+        religion = sunni
+        size = 15000
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = sunni
+        size = 1400
+    }
+
+    zbankers = {
+        culture = turkish
+        religion = sunni
+        size = 4000
+    }
+
+    clergymen = {
+        culture = persian
+        religion = sunni
+        size = 500
+    }
+
+    artisans = {
+        culture = persian
+        religion = sunni
+        size = 20000
+    }
+
+    artisans = {
+        culture = persian
+        religion = sunni
+        size = 6800
+    }
+
+    soldiers = {
+        culture = persian
+        religion = sunni
+        size = 1800
+    }
+
+    zbankers = {
+        culture = persian
+        religion = sunni
+        size = 4000
+    }
+
+    aristocrats = {
+        culture = armenian
+        religion = coptic
+        size = 220
+    }
+
+    officers = {
+        culture = armenian
+        religion = coptic
+        size = 220
+    }
+
+    soldiers = {
+        culture = armenian
+        religion = coptic
+        size = 220
+    }
+
+    clergymen = {
+        culture = armenian
+        religion = coptic
+        size = 600
+    }
+
+    artisans = {
+        culture = armenian
+        religion = coptic
+        size = 20000
+    }
+
+    artisans = {
+        culture = armenian
+        religion = coptic
+        size = 20000
+    }
+
+    artisans = {
+        culture = armenian
+        religion = coptic
+        size = 5000
+    }
+
+    zbankers = {
+        culture = armenian
+        religion = coptic
+        size = 4000
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 600
+    }
+
+    aristocrats = {
+        culture = greek
+        religion = orthodox
+        size = 220
+    }
+
+    officers = {
+        culture = greek
+        religion = orthodox
+        size = 220
+    }
+
+    soldiers = {
+        culture = greek
+        religion = orthodox
+        size = 220
+    }
+
+    clergymen = {
+        culture = greek
+        religion = orthodox
+        size = 500
+    }
+
+    artisans = {
+        culture = greek
+        religion = orthodox
+        size = 12420
+    }
+
+    zbankers = {
+        culture = greek
+        religion = orthodox
         size = 4000
     }
 
     aristocrats = {
         culture = kurdish
         religion = sunni
-        size = 375
+        size = 1200
+    }
+
+    officers = {
+        culture = kurdish
+        religion = sunni
+        size = 260
     }
 
     clergymen = {
         culture = kurdish
         religion = sunni
-        size = 100
+        size = 600
     }
 
     artisans = {
         culture = kurdish
         religion = sunni
-        size = 10000
+        size = 20000
     }
 
     artisans = {
         culture = kurdish
         religion = sunni
-        size = 8000
+        size = 20000
+    }
+
+    artisans = {
+        culture = kurdish
+        religion = sunni
+        size = 6800
     }
 
     soldiers = {
         culture = kurdish
         religion = sunni
-        size = 400
+        size = 1100
     }
 
     zbankers = {
         culture = kurdish
         religion = sunni
         size = 4000
+    }
+}
+#Ardahan (448000/112000 POPS)
+#Ardahan (448000/112000 POPS)
+886 = {
+    aristocrats = {
+        culture = turkish
+        religion = sunni
+        size = 1300
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = sunni
+        size = 850
+    }
+
+    artisans = {
+        culture = turkish
+        religion = sunni
+        size = 4300
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = sunni
+        size = 1150
+    }
+
+    zbankers = {
+        culture = turkish
+        religion = sunni
+        size = 20000
+    }
+
+    aristocrats = {
+        culture = persian
+        religion = sunni
+        size = 1100
+    }
+
+    clergymen = {
+        culture = persian
+        religion = sunni
+        size = 50
+    }
+
+    artisans = {
+        culture = persian
+        religion = sunni
+        size = 300
+    }
+
+    soldiers = {
+        culture = persian
+        religion = sunni
+        size = 350
+    }
+
+    zbankers = {
+        culture = persian
+        religion = sunni
+        size = 18500
+    }
+
+    soldiers = {
+        culture = armenian
+        religion = coptic
+        size = 300
+    }
+
+    clergymen = {
+        culture = armenian
+        religion = coptic
+        size = 600
+    }
+
+    artisans = {
+        culture = armenian
+        religion = coptic
+        size = 3000
+    }
+
+    zbankers = {
+        culture = armenian
+        religion = coptic
+        size = 33600
+    }
+
+    soldiers = {
+        culture = greek
+        religion = orthodox
+        size = 300
+    }
+
+    clergymen = {
+        culture = greek
+        religion = orthodox
+        size = 40
+    }
+
+    artisans = {
+        culture = greek
+        religion = orthodox
+        size = 420
+    }
+
+    zbankers = {
+        culture = greek
+        religion = orthodox
+        size = 4800
+    }
+
+    slaves = {
+        culture = armenian
+        religion = orthodox
+        size = 3000
+    }
+}
+#Eastern Anatolia Region (676000)
+#under the rule of Ottoman Empire in 1836
+#Erzurum (168000/42000 POPS)
+887 = {
+    aristocrats = {
+        culture = turkish
+        religion = sunni
+        size = 400
+    }
+
+    bureaucrats = {
+        culture = turkish
+        religion = sunni
+        size = 600
+    }
+
+    officers = {
+        culture = turkish
+        religion = sunni
+        size = 200
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = sunni
+        size = 250
+    }
+
+    artisans = {
+        culture = turkish
+        religion = sunni
+        size = 1300
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = sunni
+        size = 2000
+    }
+
+    zbankers = {
+        culture = turkish
+        religion = sunni
+        size = 39750
+    }
+
+    soldiers = {
+        culture = armenian
+        religion = coptic
+        size = 220
+    }
+
+    clergymen = {
+        culture = armenian
+        religion = coptic
+        size = 220
+    }
+
+    artisans = {
+        culture = armenian
+        religion = coptic
+        size = 900
+    }
+
+    zbankers = {
+        culture = armenian
+        religion = coptic
+        size = 53550
+    }
+
+    aristocrats = {
+        culture = kurdish
+        religion = sunni
+        size = 600
+    }
+
+    bureaucrats = {
+        culture = kurdish
+        religion = sunni
+        size = 200
+    }
+
+    officers = {
+        culture = kurdish
+        religion = sunni
+        size = 200
+    }
+
+    clergymen = {
+        culture = kurdish
+        religion = sunni
+        size = 400
+    }
+
+    artisans = {
+        culture = kurdish
+        religion = sunni
+        size = 800
+    }
+
+    soldiers = {
+        culture = kurdish
+        religion = sunni
+        size = 2200
+    }
+
+    zbankers = {
+        culture = kurdish
+        religion = sunni
+        size = 14700
+    }
+}
+#Erzincan (312000/78000 POPS)
+#Erzincan (312000/78000 POPS)
+888 = {
+    aristocrats = {
+        culture = turkish
+        religion = sunni
+        size = 1800
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = sunni
+        size = 900
+    }
+
+    artisans = {
+        culture = turkish
+        religion = sunni
+        size = 20000
+    }
+
+    artisans = {
+        culture = turkish
+        religion = sunni
+        size = 20000
+    }
+
+    artisans = {
+        culture = turkish
+        religion = sunni
+        size = 19300
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = sunni
+        size = 400
+    }
+
+    zbankers = {
+        culture = turkish
+        religion = sunni
+        size = 6000
+    }
+
+    soldiers = {
+        culture = armenian
+        religion = coptic
+        size = 440
+    }
+
+    clergymen = {
+        culture = armenian
+        religion = coptic
+        size = 800
+    }
+
+    artisans = {
+        culture = armenian
+        religion = coptic
+        size = 20000
+    }
+
+    artisans = {
+        culture = armenian
+        religion = coptic
+        size = 20000
+    }
+
+    artisans = {
+        culture = armenian
+        religion = coptic
+        size = 20000
+    }
+
+    artisans = {
+        culture = armenian
+        religion = coptic
+        size = 5400
+    }
+
+    zbankers = {
+        culture = armenian
+        religion = coptic
+        size = 8000
+    }
+
+    aristocrats = {
+        culture = kurdish
+        religion = sunni
+        size = 1600
+    }
+
+    clergymen = {
+        culture = kurdish
+        religion = sunni
+        size = 800
+    }
+
+    artisans = {
+        culture = kurdish
+        religion = sunni
+        size = 20000
+    }
+
+    artisans = {
+        culture = kurdish
+        religion = sunni
+        size = 20000
+    }
+
+    artisans = {
+        culture = kurdish
+        religion = sunni
+        size = 11600
+    }
+
+    soldiers = {
+        culture = kurdish
+        religion = sunni
+        size = 2400
+    }
+
+    zbankers = {
+        culture = kurdish
+        religion = sunni
+        size = 6000
+    }
+}
+#Malatya (196000/49000 POPS) #mashriqi catholic = Assyrians
+889 = {
+    aristocrats = {
+        culture = turkish
+        religion = sunni
+        size = 350
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = sunni
+        size = 200
+    }
+
+    artisans = {
+        culture = turkish
+        religion = sunni
+        size = 8600
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = sunni
+        size = 300
+    }
+
+    zbankers = {
+        culture = turkish
+        religion = sunni
+        size = 4000
+    }
+
+    soldiers = {
+        culture = armenian
+        religion = coptic
+        size = 400
+    }
+
+    clergymen = {
+        culture = armenian
+        religion = coptic
+        size = 400
+    }
+
+    artisans = {
+        culture = armenian
+        religion = coptic
+        size = 20000
+    }
+
+    artisans = {
+        culture = armenian
+        religion = coptic
+        size = 17200
+    }
+
+    zbankers = {
+        culture = armenian
+        religion = coptic
+        size = 8000
+    }
+
+    aristocrats = {
+        culture = kurdish
+        religion = sunni
+        size = 750
+    }
+
+    clergymen = {
+        culture = kurdish
+        religion = sunni
+        size = 200
+    }
+
+    artisans = {
+        culture = kurdish
+        religion = sunni
+        size = 20000
+    }
+
+    artisans = {
+        culture = kurdish
+        religion = sunni
+        size = 16000
+    }
+
+    soldiers = {
+        culture = kurdish
+        religion = sunni
+        size = 800
+    }
+
+    zbankers = {
+        culture = kurdish
+        religion = sunni
+        size = 8000
     }
 }
 #Kurdistan Region (720000)
@@ -3159,16 +3159,284 @@
     aristocrats = {
         culture = turkish
         religion = sunni
-        size = 22
+        size = 44
     }
 
     bureaucrats = {
         culture = turkish
         religion = sunni
-        size = 12
+        size = 24
     }
 
     officers = {
+        culture = turkish
+        religion = sunni
+        size = 20
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = sunni
+        size = 40
+    }
+
+    artisans = {
+        culture = turkish
+        religion = sunni
+        size = 1910
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = sunni
+        size = 160
+    }
+
+    aristocrats = {
+        culture = armenian
+        religion = coptic
+        size = 420
+    }
+
+    officers = {
+        culture = armenian
+        religion = coptic
+        size = 200
+    }
+
+    soldiers = {
+        culture = armenian
+        religion = coptic
+        size = 840
+    }
+
+    clergymen = {
+        culture = armenian
+        religion = coptic
+        size = 500
+    }
+
+    artisans = {
+        culture = armenian
+        religion = coptic
+        size = 20000
+    }
+
+    artisans = {
+        culture = armenian
+        religion = coptic
+        size = 20000
+    }
+
+    artisans = {
+        culture = armenian
+        religion = coptic
+        size = 20000
+    }
+
+    artisans = {
+        culture = armenian
+        religion = coptic
+        size = 12900
+    }
+
+    zbankers = {
+        culture = armenian
+        religion = coptic
+        size = 10000
+    }
+
+    aristocrats = {
+        culture = kurdish
+        religion = sunni
+        size = 2200
+    }
+
+    bureaucrats = {
+        culture = kurdish
+        religion = sunni
+        size = 2600
+    }
+
+    officers = {
+        culture = kurdish
+        religion = sunni
+        size = 300
+    }
+
+    clergymen = {
+        culture = kurdish
+        religion = sunni
+        size = 400
+    }
+
+    artisans = {
+        culture = kurdish
+        religion = sunni
+        size = 20000
+    }
+
+    artisans = {
+        culture = kurdish
+        religion = sunni
+        size = 20000
+    }
+
+    artisans = {
+        culture = kurdish
+        religion = sunni
+        size = 20000
+    }
+
+    artisans = {
+        culture = kurdish
+        religion = sunni
+        size = 16100
+    }
+
+    soldiers = {
+        culture = kurdish
+        religion = sunni
+        size = 11400
+    }
+
+    zbankers = {
+        culture = kurdish
+        religion = sunni
+        size = 10000
+    }
+
+    slaves = {
+        culture = armenian
+        religion = coptic
+        size = 4000
+    }
+}
+#Bitlis (76000/19000 POPS)
+891 = {
+    aristocrats = {
+        culture = turkish
+        religion = sunni
+        size = 240
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = sunni
+        size = 200
+    }
+
+    artisans = {
+        culture = turkish
+        religion = sunni
+        size = 10650
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = sunni
+        size = 350
+    }
+
+    zbankers = {
+        culture = turkish
+        religion = sunni
+        size = 2000
+    }
+
+    clergymen = {
+        culture = armenian
+        religion = coptic
+        size = 300
+    }
+
+    artisans = {
+        culture = armenian
+        religion = coptic
+        size = 20000
+    }
+
+    artisans = {
+        culture = armenian
+        religion = coptic
+        size = 6350
+    }
+
+    soldiers = {
+        culture = armenian
+        religion = coptic
+        size = 220
+    }
+
+    zbankers = {
+        culture = armenian
+        religion = coptic
+        size = 10000
+    }
+
+    clergymen = {
+        culture = mashriqi
+        religion = sunni
+        size = 50
+    }
+
+    artisans = {
+        culture = mashriqi
+        religion = sunni
+        size = 1950
+    }
+
+    zbankers = {
+        culture = mashriqi
+        religion = sunni
+        size = 2000
+    }
+
+    aristocrats = {
+        culture = kurdish
+        religion = sunni
+        size = 850
+    }
+
+    bureaucrats = {
+        culture = kurdish
+        religion = sunni
+        size = 200
+    }
+
+    officers = {
+        culture = kurdish
+        religion = sunni
+        size = 200
+    }
+
+    clergymen = {
+        culture = kurdish
+        religion = sunni
+        size = 500
+    }
+
+    artisans = {
+        culture = kurdish
+        religion = sunni
+        size = 20000
+    }
+
+    soldiers = {
+        culture = kurdish
+        religion = sunni
+        size = 3350
+    }
+
+    zbankers = {
+        culture = kurdish
+        religion = sunni
+        size = 6000
+    }
+}
+#Hakkari (92000/23000 POPS)
+892 = {
+    aristocrats = {
         culture = turkish
         religion = sunni
         size = 10
@@ -3183,341 +3451,73 @@
     artisans = {
         culture = turkish
         religion = sunni
-        size = 955
+        size = 30
     }
 
     soldiers = {
         culture = turkish
         religion = sunni
-        size = 80
+        size = 134
     }
 
-    aristocrats = {
-        culture = armenian
-        religion = coptic
-        size = 210
-    }
-
-    officers = {
-        culture = armenian
-        religion = coptic
-        size = 100
+    zbankers = {
+        culture = turkish
+        religion = sunni
+        size = 500
     }
 
     soldiers = {
         culture = armenian
         religion = coptic
-        size = 420
+        size = 400
     }
 
     clergymen = {
         culture = armenian
         religion = coptic
-        size = 250
+        size = 400
     }
 
     artisans = {
         culture = armenian
         religion = coptic
-        size = 10000
-    }
-
-    artisans = {
-        culture = armenian
-        religion = coptic
-        size = 10000
-    }
-
-    artisans = {
-        culture = armenian
-        religion = coptic
-        size = 10000
-    }
-
-    artisans = {
-        culture = armenian
-        religion = coptic
-        size = 6450
+        size = 2900
     }
 
     zbankers = {
         culture = armenian
         religion = coptic
-        size = 5000
+        size = 28750
     }
 
     aristocrats = {
+        culture = kurdish
+        religion = sunni
+        size = 300
+    }
+
+    clergymen = {
+        culture = kurdish
+        religion = sunni
+        size = 200
+    }
+
+    artisans = {
         culture = kurdish
         religion = sunni
         size = 1100
     }
 
-    bureaucrats = {
-        culture = kurdish
-        religion = sunni
-        size = 1300
-    }
-
-    officers = {
-        culture = kurdish
-        religion = sunni
-        size = 150
-    }
-
-    clergymen = {
-        culture = kurdish
-        religion = sunni
-        size = 200
-    }
-
-    artisans = {
-        culture = kurdish
-        religion = sunni
-        size = 10000
-    }
-
-    artisans = {
-        culture = kurdish
-        religion = sunni
-        size = 10000
-    }
-
-    artisans = {
-        culture = kurdish
-        religion = sunni
-        size = 10000
-    }
-
-    artisans = {
-        culture = kurdish
-        religion = sunni
-        size = 8050
-    }
-
     soldiers = {
         culture = kurdish
         religion = sunni
-        size = 5700
+        size = 2350
     }
 
     zbankers = {
         culture = kurdish
         religion = sunni
-        size = 5000
-    }
-
-    slaves = {
-        culture = armenian
-        religion = coptic
-        size = 2000
-    }
-}
-#Bitlis (76000/19000 POPS)
-891 = {
-    aristocrats = {
-        culture = turkish
-        religion = sunni
-        size = 120
-    }
-
-    clergymen = {
-        culture = turkish
-        religion = sunni
-        size = 100
-    }
-
-    artisans = {
-        culture = turkish
-        religion = sunni
-        size = 5325
-    }
-
-    soldiers = {
-        culture = turkish
-        religion = sunni
-        size = 175
-    }
-
-    zbankers = {
-        culture = turkish
-        religion = sunni
-        size = 1000
-    }
-
-    clergymen = {
-        culture = armenian
-        religion = coptic
-        size = 150
-    }
-
-    artisans = {
-        culture = armenian
-        religion = coptic
-        size = 10000
-    }
-
-    artisans = {
-        culture = armenian
-        religion = coptic
-        size = 3175
-    }
-
-    soldiers = {
-        culture = armenian
-        religion = coptic
-        size = 110
-    }
-
-    zbankers = {
-        culture = armenian
-        religion = coptic
-        size = 5000
-    }
-
-    clergymen = {
-        culture = mashriqi
-        religion = sunni
-        size = 25
-    }
-
-    artisans = {
-        culture = mashriqi
-        religion = sunni
-        size = 975
-    }
-
-    zbankers = {
-        culture = mashriqi
-        religion = sunni
-        size = 1000
-    }
-
-    aristocrats = {
-        culture = kurdish
-        religion = sunni
-        size = 425
-    }
-
-    bureaucrats = {
-        culture = kurdish
-        religion = sunni
-        size = 100
-    }
-
-    officers = {
-        culture = kurdish
-        religion = sunni
-        size = 100
-    }
-
-    clergymen = {
-        culture = kurdish
-        religion = sunni
-        size = 250
-    }
-
-    artisans = {
-        culture = kurdish
-        religion = sunni
-        size = 10000
-    }
-
-    soldiers = {
-        culture = kurdish
-        religion = sunni
-        size = 1675
-    }
-
-    zbankers = {
-        culture = kurdish
-        religion = sunni
-        size = 3000
-    }
-}
-#Hakkari (92000/23000 POPS)
-892 = {
-    aristocrats = {
-        culture = turkish
-        religion = sunni
-        size = 5
-    }
-
-    clergymen = {
-        culture = turkish
-        religion = sunni
-        size = 10
-    }
-
-    artisans = {
-        culture = turkish
-        religion = sunni
-        size = 15
-    }
-
-    soldiers = {
-        culture = turkish
-        religion = sunni
-        size = 67
-    }
-
-    zbankers = {
-        culture = turkish
-        religion = sunni
-        size = 250
-    }
-
-    soldiers = {
-        culture = armenian
-        religion = coptic
-        size = 200
-    }
-
-    clergymen = {
-        culture = armenian
-        religion = coptic
-        size = 200
-    }
-
-    artisans = {
-        culture = armenian
-        religion = coptic
-        size = 1450
-    }
-
-    zbankers = {
-        culture = armenian
-        religion = coptic
-        size = 14375
-    }
-
-    aristocrats = {
-        culture = kurdish
-        religion = sunni
-        size = 150
-    }
-
-    clergymen = {
-        culture = kurdish
-        religion = sunni
-        size = 100
-    }
-
-    artisans = {
-        culture = kurdish
-        religion = sunni
-        size = 550
-    }
-
-    soldiers = {
-        culture = kurdish
-        religion = sunni
-        size = 1175
-    }
-
-    zbankers = {
-        culture = kurdish
-        religion = sunni
-        size = 10400
+        size = 20800
     }
 }
 #Diyarbakir (264000/66000 POPS)
@@ -3525,109 +3525,109 @@
     aristocrats = {
         culture = turkish
         religion = sunni
-        size = 25
+        size = 50
     }
 
     clergymen = {
-        culture = turkish
-        religion = sunni
-        size = 200
-    }
-
-    artisans = {
-        culture = turkish
-        religion = sunni
-        size = 500
-    }
-
-    soldiers = {
         culture = turkish
         religion = sunni
         size = 400
     }
 
+    artisans = {
+        culture = turkish
+        religion = sunni
+        size = 1000
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = sunni
+        size = 800
+    }
+
     zbankers = {
         culture = turkish
         religion = sunni
-        size = 7900
+        size = 15800
     }
 
     aristocrats = {
         culture = armenian
         religion = coptic
-        size = 310
+        size = 620
     }
 
     officers = {
-        culture = armenian
-        religion = coptic
-        size = 300
-    }
-
-    soldiers = {
         culture = armenian
         religion = coptic
         size = 600
     }
 
+    soldiers = {
+        culture = armenian
+        religion = coptic
+        size = 1200
+    }
+
     clergymen = {
         culture = armenian
         religion = coptic
-        size = 410
+        size = 820
     }
 
     artisans = {
         culture = armenian
         religion = coptic
-        size = 3000
+        size = 6000
     }
 
     zbankers = {
         culture = armenian
         religion = coptic
-        size = 38475
+        size = 76950
     }
 
     aristocrats = {
         culture = kurdish
         religion = sunni
-        size = 1500
+        size = 3000
     }
 
     bureaucrats = {
         culture = kurdish
         religion = sunni
-        size = 350
+        size = 700
     }
 
     officers = {
         culture = kurdish
         religion = sunni
-        size = 200
+        size = 400
     }
 
     clergymen = {
         culture = kurdish
         religion = sunni
-        size = 300
+        size = 600
     }
 
     artisans = {
         culture = kurdish
         religion = sunni
-        size = 5000
+        size = 10000
     }
 
     soldiers = {
         culture = kurdish
         religion = sunni
-        size = 1500
+        size = 3000
     }
 
     zbankers = {
         culture = kurdish
         religion = sunni
-        size = 48775
+        size = 97550
     }
 }
 #Cilicia Region (540000)
@@ -3637,103 +3637,103 @@
     aristocrats = {
         culture = turkish
         religion = sunni
-        size = 650
+        size = 1300
     }
 
     bureaucrats = {
         culture = turkish
         religion = sunni
-        size = 300
+        size = 600
     }
 
     officers = {
         culture = turkish
         religion = sunni
-        size = 100
+        size = 200
     }
 
     clergymen = {
         culture = turkish
         religion = sunni
-        size = 500
+        size = 1000
     }
 
     artisans = {
         culture = turkish
         religion = sunni
-        size = 2550
+        size = 5100
     }
 
     soldiers = {
         culture = turkish
         religion = sunni
-        size = 2625
+        size = 5250
     }
 
     zbankers = {
         culture = turkish
         religion = sunni
-        size = 34375
+        size = 68750
     }
 
     soldiers = {
         culture = greek
         religion = orthodox
-        size = 110
+        size = 220
     }
 
     clergymen = {
         culture = greek
         religion = orthodox
-        size = 110
+        size = 220
     }
 
     artisans = {
         culture = greek
         religion = orthodox
-        size = 150
+        size = 300
     }
 
     zbankers = {
         culture = greek
         religion = orthodox
-        size = 5600
+        size = 11200
     }
 
     aristocrats = {
         culture = armenian
         religion = coptic
-        size = 110
+        size = 220
     }
 
     officers = {
         culture = armenian
         religion = coptic
-        size = 110
+        size = 220
     }
 
     soldiers = {
         culture = armenian
         religion = coptic
-        size = 110
+        size = 220
     }
 
     clergymen = {
         culture = armenian
         religion = coptic
-        size = 110
+        size = 220
     }
 
     artisans = {
         culture = armenian
         religion = coptic
-        size = 450
+        size = 900
     }
 
     zbankers = {
         culture = armenian
         religion = coptic
-        size = 15075
+        size = 30150
     }
 }
 #Mersin (96000/24000 POPS)
@@ -3742,73 +3742,73 @@
     aristocrats = {
         culture = turkish
         religion = sunni
-        size = 275
+        size = 550
     }
 
     officers = {
         culture = turkish
         religion = sunni
-        size = 110
+        size = 220
     }
 
     clergymen = {
         culture = turkish
         religion = sunni
-        size = 225
+        size = 450
     }
 
     artisans = {
         culture = turkish
         religion = sunni
-        size = 1100
+        size = 2200
     }
 
     soldiers = {
         culture = turkish
         religion = sunni
-        size = 225
+        size = 450
     }
 
     zbankers = {
         culture = turkish
         religion = sunni
-        size = 18175
+        size = 36350
     }
 
     aristocrats = {
         culture = greek
         religion = orthodox
-        size = 110
+        size = 220
     }
 
     officers = {
         culture = greek
         religion = orthodox
-        size = 110
+        size = 220
     }
 
     soldiers = {
         culture = greek
         religion = orthodox
-        size = 150
+        size = 300
     }
 
     clergymen = {
         culture = greek
         religion = orthodox
-        size = 110
+        size = 220
     }
 
     artisans = {
         culture = greek
         religion = orthodox
-        size = 100
+        size = 200
     }
 
     zbankers = {
         culture = greek
         religion = orthodox
-        size = 3575
+        size = 7150
     }
 }
 #Marash (192000/48000 POPS)
@@ -3816,49 +3816,49 @@
     aristocrats = {
         culture = turkish
         religion = sunni
-        size = 525
+        size = 1050
     }
 
     clergymen = {
         culture = turkish
         religion = sunni
-        size = 425
+        size = 850
     }
 
     artisans = {
         culture = turkish
         religion = sunni
-        size = 2100
+        size = 4200
     }
 
     soldiers = {
         culture = turkish
         religion = sunni
-        size = 425
+        size = 850
     }
 
     zbankers = {
         culture = turkish
         religion = sunni
-        size = 38525
+        size = 77050
     }
 
     clergymen = {
         culture = armenian
         religion = coptic
-        size = 50
+        size = 100
     }
 
     artisans = {
         culture = armenian
         religion = coptic
-        size = 300
+        size = 600
     }
 
     zbankers = {
         culture = armenian
         religion = coptic
-        size = 5650
+        size = 11300
     }
 }
 #Halab Region (756000) #see Syria.txt for balance of region
@@ -3868,91 +3868,91 @@
     aristocrats = {
         culture = turkish
         religion = sunni
-        size = 450
+        size = 900
     }
 
     clergymen = {
         culture = turkish
         religion = sunni
-        size = 350
+        size = 700
     }
 
     artisans = {
         culture = turkish
         religion = sunni
-        size = 1750
+        size = 3500
     }
 
     soldiers = {
         culture = turkish
         religion = sunni
-        size = 3000
+        size = 6000
     }
 
     soldiers = {
         culture = turkish
         religion = sunni
-        size = 425
+        size = 850
     }
 
     zbankers = {
         culture = turkish
         religion = sunni
-        size = 14025
+        size = 28050
     }
 
     aristocrats = {
         culture = kurdish
         religion = sunni
-        size = 250
-    }
-
-    clergymen = {
-        culture = kurdish
-        religion = sunni
-        size = 175
-    }
-
-    artisans = {
-        culture = kurdish
-        religion = sunni
-        size = 850
-    }
-
-    soldiers = {
-        culture = kurdish
-        religion = sunni
-        size = 200
-    }
-
-    zbankers = {
-        culture = kurdish
-        religion = sunni
-        size = 10525
-    }
-
-    soldiers = {
-        culture = armenian
-        religion = coptic
-        size = 110
-    }
-
-    clergymen = {
-        culture = armenian
-        religion = coptic
-        size = 110
-    }
-
-    artisans = {
-        culture = armenian
-        religion = coptic
         size = 500
     }
 
+    clergymen = {
+        culture = kurdish
+        religion = sunni
+        size = 350
+    }
+
+    artisans = {
+        culture = kurdish
+        religion = sunni
+        size = 1700
+    }
+
+    soldiers = {
+        culture = kurdish
+        religion = sunni
+        size = 400
+    }
+
+    zbankers = {
+        culture = kurdish
+        religion = sunni
+        size = 21050
+    }
+
+    soldiers = {
+        culture = armenian
+        religion = coptic
+        size = 220
+    }
+
+    clergymen = {
+        culture = armenian
+        religion = coptic
+        size = 220
+    }
+
+    artisans = {
+        culture = armenian
+        religion = coptic
+        size = 1000
+    }
+
     zbankers = {
         culture = armenian
         religion = coptic
-        size = 4425
+        size = 8850
     }
 }
 #Urfa (348000/87000 POPS)
@@ -3960,61 +3960,141 @@
     aristocrats = {
         culture = turkish
         religion = sunni
-        size = 250
+        size = 500
     }
 
     clergymen = {
         culture = turkish
         religion = sunni
-        size = 175
+        size = 350
     }
 
     artisans = {
         culture = turkish
         religion = sunni
-        size = 900
+        size = 1800
     }
 
     soldiers = {
         culture = turkish
         religion = sunni
-        size = 175
+        size = 350
     }
 
     zbankers = {
         culture = turkish
         religion = sunni
-        size = 16500
+        size = 33000
     }
 
     aristocrats = {
         culture = kurdish
         religion = sunni
-        size = 350
+        size = 700
     }
 
     clergymen = {
         culture = kurdish
         religion = sunni
-        size = 275
+        size = 550
     }
 
     artisans = {
         culture = kurdish
         religion = sunni
-        size = 1400
+        size = 2800
     }
 
     soldiers = {
         culture = kurdish
         religion = sunni
-        size = 325
+        size = 650
     }
 
     zbankers = {
         culture = kurdish
         religion = sunni
-        size = 25650
+        size = 51300
+    }
+
+    aristocrats = {
+        culture = mashriqi
+        religion = sunni
+        size = 800
+    }
+
+    clergymen = {
+        culture = mashriqi
+        religion = sunni
+        size = 550
+    }
+
+    artisans = {
+        culture = mashriqi
+        religion = sunni
+        size = 3400
+    }
+
+    soldiers = {
+        culture = mashriqi
+        religion = sunni
+        size = 750
+    }
+
+    zbankers = {
+        culture = mashriqi
+        religion = sunni
+        size = 66300
+    }
+
+    clergymen = {
+        culture = armenian
+        religion = coptic
+        size = 100
+    }
+
+    artisans = {
+        culture = armenian
+        religion = coptic
+        size = 700
+    }
+
+    zbankers = {
+        culture = armenian
+        religion = coptic
+        size = 13200
+    }
+}
+#Antioch (160000/40000 POPS)
+900 = {
+    aristocrats = {
+        culture = turkish
+        religion = sunni
+        size = 600
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = sunni
+        size = 300
+    }
+
+    artisans = {
+        culture = turkish
+        religion = sunni
+        size = 1600
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = sunni
+        size = 450
+    }
+
+    zbankers = {
+        culture = turkish
+        religion = sunni
+        size = 29050
     }
 
     aristocrats = {
@@ -4026,123 +4106,43 @@
     clergymen = {
         culture = mashriqi
         religion = sunni
-        size = 275
+        size = 350
     }
 
     artisans = {
         culture = mashriqi
         religion = sunni
-        size = 1700
+        size = 2000
     }
 
     soldiers = {
         culture = mashriqi
         religion = sunni
-        size = 375
-    }
-
-    zbankers = {
-        culture = mashriqi
-        religion = sunni
-        size = 33150
-    }
-
-    clergymen = {
-        culture = armenian
-        religion = coptic
-        size = 50
-    }
-
-    artisans = {
-        culture = armenian
-        religion = coptic
         size = 350
     }
 
     zbankers = {
-        culture = armenian
-        religion = coptic
-        size = 6600
-    }
-}
-#Antioch (160000/40000 POPS)
-900 = {
-    aristocrats = {
-        culture = turkish
+        culture = mashriqi
         religion = sunni
-        size = 300
+        size = 36900
     }
 
     clergymen = {
-        culture = turkish
-        religion = sunni
+        culture = armenian
+        religion = coptic
         size = 150
     }
 
     artisans = {
-        culture = turkish
-        religion = sunni
-        size = 800
-    }
-
-    soldiers = {
-        culture = turkish
-        religion = sunni
-        size = 225
-    }
-
-    zbankers = {
-        culture = turkish
-        religion = sunni
-        size = 14525
-    }
-
-    aristocrats = {
-        culture = mashriqi
-        religion = sunni
-        size = 200
-    }
-
-    clergymen = {
-        culture = mashriqi
-        religion = sunni
-        size = 175
-    }
-
-    artisans = {
-        culture = mashriqi
-        religion = sunni
-        size = 1000
-    }
-
-    soldiers = {
-        culture = mashriqi
-        religion = sunni
-        size = 175
-    }
-
-    zbankers = {
-        culture = mashriqi
-        religion = sunni
-        size = 18450
-    }
-
-    clergymen = {
         culture = armenian
         religion = coptic
-        size = 75
-    }
-
-    artisans = {
-        culture = armenian
-        religion = coptic
-        size = 200
+        size = 400
     }
 
     zbankers = {
         culture = armenian
         religion = coptic
-        size = 3725
+        size = 7450
     }
 }
 #Kozen
@@ -4150,103 +4150,103 @@
     aristocrats = {
         culture = turkish
         religion = sunni
-        size = 650
+        size = 1300
     }
 
     bureaucrats = {
         culture = turkish
         religion = sunni
-        size = 300
+        size = 600
     }
 
     officers = {
         culture = turkish
         religion = sunni
-        size = 100
+        size = 200
     }
 
     clergymen = {
         culture = turkish
         religion = sunni
-        size = 500
+        size = 1000
     }
 
     artisans = {
         culture = turkish
         religion = sunni
-        size = 2550
+        size = 5100
     }
 
     soldiers = {
         culture = turkish
         religion = sunni
-        size = 2625
+        size = 5250
     }
 
     zbankers = {
         culture = turkish
         religion = sunni
-        size = 34375
+        size = 68750
     }
 
     soldiers = {
         culture = greek
         religion = orthodox
-        size = 110
+        size = 220
     }
 
     clergymen = {
         culture = greek
         religion = orthodox
-        size = 110
+        size = 220
     }
 
     artisans = {
         culture = greek
         religion = orthodox
-        size = 150
+        size = 300
     }
 
     zbankers = {
         culture = greek
         religion = orthodox
-        size = 1600
+        size = 3200
     }
 
     aristocrats = {
         culture = armenian
         religion = coptic
-        size = 110
+        size = 220
     }
 
     officers = {
         culture = armenian
         religion = coptic
-        size = 110
+        size = 220
     }
 
     soldiers = {
         culture = armenian
         religion = coptic
-        size = 110
+        size = 220
     }
 
     clergymen = {
         culture = armenian
         religion = coptic
-        size = 110
+        size = 220
     }
 
     artisans = {
         culture = armenian
         religion = coptic
-        size = 450
+        size = 900
     }
 
     zbankers = {
         culture = armenian
         religion = coptic
-        size = 2075
+        size = 4150
     }
 }
 #Weranshahir
@@ -4254,103 +4254,103 @@
     aristocrats = {
         culture = turkish
         religion = sunni
-        size = 5
+        size = 10
     }
 
     clergymen = {
         culture = turkish
         religion = sunni
-        size = 2
+        size = 4
     }
 
     artisans = {
         culture = turkish
         religion = sunni
-        size = 5
+        size = 10
     }
 
     soldiers = {
         culture = turkish
         religion = sunni
-        size = 7
+        size = 14
     }
 
     zbankers = {
         culture = turkish
         religion = sunni
-        size = 55
+        size = 110
     }
 
     clergymen = {
         culture = armenian
         religion = coptic
-        size = 120
+        size = 240
     }
 
     artisans = {
         culture = armenian
         religion = coptic
-        size = 1000
+        size = 2000
     }
 
     zbankers = {
         culture = armenian
         religion = coptic
-        size = 13200
+        size = 26400
     }
 
     aristocrats = {
         culture = kurdish
         religion = sunni
-        size = 100
+        size = 200
     }
 
     clergymen = {
         culture = kurdish
         religion = sunni
-        size = 100
+        size = 200
     }
 
     artisans = {
         culture = kurdish
         religion = sunni
-        size = 250
+        size = 500
     }
 
     soldiers = {
         culture = kurdish
         religion = sunni
-        size = 1725
+        size = 3450
     }
 
     zbankers = {
         culture = kurdish
         religion = sunni
-        size = 25950
+        size = 51900
     }
 
     aristocrats = {
         culture = mashriqi
         religion = sunni
-        size = 50
+        size = 100
     }
 
     clergymen = {
         culture = mashriqi
         religion = sunni
-        size = 50
+        size = 100
     }
 
     artisans = {
         culture = mashriqi
         religion = sunni
-        size = 50
+        size = 100
     }
 
     zbankers = {
         culture = mashriqi
         religion = sunni
-        size = 4100
+        size = 8200
     }
 }
 #Bayburt
@@ -4358,97 +4358,97 @@
     aristocrats = {
         culture = turkish
         religion = sunni
-        size = 550
+        size = 1100
     }
 
     soldiers = {
         culture = turkish
         religion = sunni
-        size = 1100
+        size = 2200
     }
 
     bureaucrats = {
         culture = turkish
         religion = sunni
-        size = 350
+        size = 700
     }
 
     officers = {
         culture = turkish
         religion = sunni
-        size = 150
+        size = 300
     }
 
     clergymen = {
         culture = turkish
         religion = sunni
-        size = 350
+        size = 700
     }
 
     artisans = {
         culture = turkish
         religion = sunni
-        size = 1750
+        size = 3500
     }
 
     zbankers = {
         culture = turkish
         religion = sunni
-        size = 16000
+        size = 32000
     }
 
     clergymen = {
-        culture = greek
-        religion = orthodox
-        size = 125
-    }
-
-    artisans = {
         culture = greek
         religion = orthodox
         size = 250
     }
 
+    artisans = {
+        culture = greek
+        religion = orthodox
+        size = 500
+    }
+
     zbankers = {
         culture = greek
         religion = orthodox
-        size = 1150
+        size = 2300
     }
 
     aristocrats = {
         culture = armenian
         religion = coptic
-        size = 110
+        size = 220
     }
 
     officers = {
         culture = armenian
         religion = coptic
-        size = 110
+        size = 220
     }
 
     soldiers = {
         culture = armenian
         religion = coptic
-        size = 200
+        size = 400
     }
 
     clergymen = {
         culture = armenian
         religion = coptic
-        size = 110
+        size = 220
     }
 
     artisans = {
         culture = armenian
         religion = coptic
-        size = 250
+        size = 500
     }
 
     zbankers = {
         culture = armenian
         religion = coptic
-        size = 19000
+        size = 38000
     }
 }
 #Yozgart
@@ -4456,84 +4456,84 @@
     aristocrats = {
         culture = turkish
         religion = sunni
-        size = 100
-    }
-
-    clergymen = {
-        culture = turkish
-        religion = sunni
-        size = 125
-    }
-
-    artisans = {
-        culture = turkish
-        religion = sunni
-        size = 600
-    }
-
-    soldiers = {
-        culture = turkish
-        religion = sunni
-        size = 250
-    }
-
-    zbankers = {
-        culture = turkish
-        religion = sunni
-        size = 27225
-    }
-
-    soldiers = {
-        culture = greek
-        religion = orthodox
-        size = 20
-    }
-
-    clergymen = {
-        culture = greek
-        religion = orthodox
-        size = 20
-    }
-
-    artisans = {
-        culture = greek
-        religion = orthodox
-        size = 250
-    }
-
-    zbankers = {
-        culture = greek
-        religion = orthodox
-        size = 1700
-    }
-
-    soldiers = {
-        culture = armenian
-        religion = coptic
         size = 200
     }
 
     clergymen = {
+        culture = turkish
+        religion = sunni
+        size = 250
+    }
+
+    artisans = {
+        culture = turkish
+        religion = sunni
+        size = 1200
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = sunni
+        size = 500
+    }
+
+    zbankers = {
+        culture = turkish
+        religion = sunni
+        size = 54450
+    }
+
+    soldiers = {
+        culture = greek
+        religion = orthodox
+        size = 40
+    }
+
+    clergymen = {
+        culture = greek
+        religion = orthodox
+        size = 40
+    }
+
+    artisans = {
+        culture = greek
+        religion = orthodox
+        size = 500
+    }
+
+    zbankers = {
+        culture = greek
+        religion = orthodox
+        size = 3400
+    }
+
+    soldiers = {
         culture = armenian
         religion = coptic
-        size = 120
+        size = 400
+    }
+
+    clergymen = {
+        culture = armenian
+        religion = coptic
+        size = 240
     }
 
     artisans = {
         culture = armenian
         religion = coptic
-        size = 350
+        size = 700
     }
 
     zbankers = {
         culture = armenian
         religion = coptic
-        size = 1575
+        size = 3150
     }
 
     slaves = {
         culture = armenian
         religion = coptic
-        size = 100
+        size = 200
     }
 }

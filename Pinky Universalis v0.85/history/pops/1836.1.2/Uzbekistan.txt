@@ -5,55 +5,55 @@
 	aristocrats = {
 		culture = turkmen
 		religion = sunni
-		size = 950
+		size = 1900
 	}
 
 	bureaucrats = {
 		culture = turkmen
 		religion = sunni
-		size = 570
+		size = 1140
 	}
 
 	officers = {
 		culture = turkmen
 		religion = sunni
-		size = 125
+		size = 250
 	}
 
 	clergymen = {
 		culture = turkmen
 		religion = sunni
-		size = 450
+		size = 900
 	}
 
 	artisans = {
 		culture = turkmen
 		religion = sunni
-		size = 2300
+		size = 4600
 	}
 
 	soldiers = {
 		culture = turkmen
 		religion = sunni
-		size = 4000
+		size = 8000
 	}
 
 	zbankers = {
 		culture = turkmen
 		religion = sunni
-		size = 37605
+		size = 75210
 	}
 
 	slaves = {
 		culture = persian
 		religion = sunni
-		size = 2000
+		size = 4000
 	}
 
 	slaves = {
 		culture = russian
 		religion = orthodox
-		size = 2000
+		size = 4000
 	}
 }
 #Nukus (180000/45000 POPS) #now part of Uzbekistan  
@@ -61,43 +61,43 @@
 	aristocrats = {
 		culture = turkmen
 		religion = sunni
-		size = 850
+		size = 1700
 	}
 
 	clergymen = {
 		culture = turkmen
 		religion = sunni
-		size = 425
+		size = 850
 	}
 
 	artisans = {
 		culture = turkmen
 		religion = sunni
-		size = 2025
+		size = 4050
 	}
 
 	soldiers = {
 		culture = turkmen
 		religion = sunni
-		size = 4150
+		size = 8300
 	}
 
 	zbankers = {
 		culture = turkmen
 		religion = sunni
-		size = 34875
+		size = 69750
 	}
 
 	slaves = {
 		culture = persian
 		religion = sunni
-		size = 2000
+		size = 4000
 	}
 
 	slaves = {
 		culture = russian
 		religion = orthodox
-		size = 1100
+		size = 2200
 	}
 }
 #Mawarannahr Region (524000) #see Kazakhstan.txt, Tajikistan.txt, Kirghizstan.txt for balance of region 
@@ -107,37 +107,37 @@
 	aristocrats = {
 		culture = turkmen
 		religion = sunni
-		size = 1075
+		size = 2150
 	}
 
 	bureaucrats = {
 		culture = turkmen
 		religion = sunni
-		size = 540
+		size = 1080
 	}
 
 	clergymen = {
 		culture = turkmen
 		religion = sunni
-		size = 525
+		size = 1050
 	}
 
 	artisans = {
 		culture = turkmen
 		religion = sunni
-		size = 2750
+		size = 5500
 	}
 
 	soldiers = {
 		culture = turkmen
 		religion = sunni
-		size = 4075
+		size = 8150
 	}
 
 	zbankers = {
 		culture = turkmen
 		religion = sunni
-		size = 47535
+		size = 95070
 	}
 }
 #Kokand (300000/75000 POPS)   
@@ -145,85 +145,85 @@
     aristocrats = {
         culture = turkmen
         religion = sunni
-        size = 1450
+        size = 2900
     }
 
     bureaucrats = {
         culture = turkmen
         religion = sunni
-        size = 2000
+        size = 4000
     }
 
     officers = {
         culture = turkmen
         religion = sunni
-        size = 225
+        size = 450
     }
 
     clergymen = {
         culture = turkmen
         religion = sunni
-        size = 750
+        size = 1500
     }
 
     artisans = {
         culture = turkmen
         religion = sunni
-        size = 10000
+        size = 20000
     }
 
     artisans = {
         culture = turkmen
         religion = sunni
-        size = 10000
+        size = 20000
     }
 
     artisans = {
         culture = turkmen
         religion = sunni
-        size = 10000
+        size = 20000
     }
 
     artisans = {
         culture = turkmen
         religion = sunni
-        size = 10000
+        size = 20000
     }
 
     artisans = {
         culture = turkmen
         religion = sunni
-        size = 10000
+        size = 20000
     }
 
     artisans = {
         culture = turkmen
         religion = sunni
-        size = 7375
+        size = 14750
     }
 
     soldiers = {
         culture = turkmen
         religion = sunni
-        size = 3150
+        size = 6300
     }
 
     zbankers = {
         culture = turkmen
         religion = sunni
-        size = 10000
+        size = 20000
     }
 
     slaves = {
         culture = uighur
         religion = sunni
-        size = 8000
+        size = 16000
     }
 
     slaves = {
         culture = russian
         religion = orthodox
-        size = 5000
+        size = 10000
     }
 }
 #under the rule of Bukhara in 1836  
@@ -232,61 +232,61 @@
     aristocrats = {
         culture = turkmen
         religion = sunni
-        size = 4050
+        size = 8100
     }
 
     bureaucrats = {
         culture = turkmen
         religion = sunni
-        size = 3800
+        size = 7600
     }
 
     officers = {
         culture = turkmen
         religion = sunni
-        size = 475
+        size = 950
     }
 
     clergymen = {
         culture = turkmen
         religion = sunni
-        size = 2175
+        size = 4350
     }
 
     artisans = {
         culture = turkmen
         religion = sunni
-        size = 6500
+        size = 13000
     }
 
     soldiers = {
         culture = turkmen
         religion = sunni
-        size = 16175
+        size = 32350
     }
 
     zbankers = {
         culture = turkmen
         religion = sunni
-        size = 153825
+        size = 307650
     }
 
     clergymen = {
         culture = sephardic
         religion = jewish
-        size = 50
+        size = 100
     }
 
     artisans = {
         culture = sephardic
         religion = jewish
-        size = 1950
+        size = 3900
     }
 
     slaves = {
         culture = turkmen
         religion = sunni
-        size = 38000
+        size = 76000
     }
 }
 #Samarkand (544000/136000 POPS)   
@@ -294,37 +294,37 @@
     aristocrats = {
         culture = turkmen
         religion = sunni
-        size = 2375
+        size = 4750
     }
 
     clergymen = {
         culture = turkmen
         religion = sunni
-        size = 1350
+        size = 2700
     }
 
     artisans = {
         culture = turkmen
         religion = sunni
-        size = 6500
+        size = 13000
     }
 
     soldiers = {
         culture = turkmen
         religion = sunni
-        size = 7100
+        size = 14200
     }
 
     zbankers = {
         culture = turkmen
         religion = sunni
-        size = 108725
+        size = 217450
     }
 
     slaves = {
         culture = uighur
         religion = sunni
-        size = 20000
+        size = 40000
     }
 }
 #Qarshi (280000/70000 POPS)   
@@ -332,37 +332,37 @@
     aristocrats = {
         culture = turkmen
         religion = sunni
-        size = 1475
+        size = 2950
     }
 
     clergymen = {
         culture = turkmen
         religion = sunni
-        size = 650
+        size = 1300
     }
 
     artisans = {
         culture = turkmen
         religion = sunni
-        size = 3350
+        size = 6700
     }
 
     soldiers = {
         culture = turkmen
         religion = sunni
-        size = 1100
+        size = 2200
     }
 
     zbankers = {
         culture = turkmen
         religion = sunni
-        size = 63525
+        size = 127050
     }
 
     slaves = {
         culture = uighur
         religion = sunni
-        size = 8000
+        size = 16000
     }
 
 }
@@ -372,12 +372,12 @@
     clergymen = {
         culture = turkmen
         religion = sunni
-        size = 30
+        size = 60
     }
 
     zbankers = {
         culture = turkmen
         religion = sunni
-        size = 750
+        size = 1500
     }
 }

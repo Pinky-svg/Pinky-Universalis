@@ -5,67 +5,67 @@
 	aristocrats = {
 		culture = romanian
 		religion = orthodox
-		size = 1400  
+		size = 2800
 	}
 
 	bureaucrats = {
 		culture = romanian
 		religion = orthodox
-		size = 1125 
+		size = 2250
 	}
 
 	officers = {
 		culture = romanian
 		religion = orthodox
-		size = 175 
+		size = 350
 	}
 
 	clergymen = {
 		culture = romanian
 		religion = orthodox
-		size = 775 
+		size = 1550
 	}
 
 	artisans = {
 		culture = romanian
 		religion = orthodox
-		size = 10250
+		size = 20500
 	}
 
 	soldiers = {
 		culture = romanian
 		religion = orthodox
-		size = 800
-	}
-
-	zbankers = {
-		culture = romanian
-		religion = orthodox
-		size = 61375
-	}
-
-	clergymen = {
-		culture = ashkenazi
-		religion = jewish
-		size = 75     
-	}
-
-	artisans = {
-		culture = ashkenazi
-		religion = jewish
 		size = 1600
 	}
 
+	zbankers = {
+		culture = romanian
+		religion = orthodox
+		size = 122750
+	}
+
+	clergymen = {
+		culture = ashkenazi
+		religion = jewish
+		size = 150
+	}
+
+	artisans = {
+		culture = ashkenazi
+		religion = jewish
+		size = 3200
+	}
+
 	soldiers = {
 		culture = ashkenazi
 		religion = jewish
-		size = 75  
+		size = 150
 	}
 
 	zbankers = {
 		culture = ashkenazi
 		religion = jewish
-		size = 6250    
+		size = 12500
 	}
 }
 #Balti (320000/80000 POPS)  
@@ -73,54 +73,54 @@
 	aristocrats = {
 		culture = romanian
 		religion = orthodox
-		size = 1300 
+		size = 2600
 	}
 
 	clergymen = {
 		culture = romanian
 		religion = orthodox
-		size = 700  
+		size = 1400
 	}
 
 	artisans = {
 		culture = romanian
 		religion = orthodox
+		size = 7200
+	}
+
+	soldiers = {
+		culture = romanian
+		religion = orthodox
+		size = 1450
+	}
+
+	zbankers = {
+		culture = romanian
+		religion = orthodox
+		size = 131350
+	}
+
+	clergymen = {
+		culture = ashkenazi
+		religion = jewish
+		size = 150
+	}
+
+	artisans = {
+		culture = ashkenazi
+		religion = jewish
 		size = 3600
 	}
 
 	soldiers = {
-		culture = romanian
-		religion = orthodox
-		size = 725 
-	}
-
-	zbankers = {
-		culture = romanian
-		religion = orthodox
-		size = 65675
-	}
-
-	clergymen = {
 		culture = ashkenazi
 		religion = jewish
-		size = 75     
-	}
-
-	artisans = {
-		culture = ashkenazi
-		religion = jewish
-		size = 1800
-	}
-
-	soldiers = {
-		culture = ashkenazi
-		religion = jewish
-		size = 75  
+		size = 150
 	}
 
 	zbankers = {
 		culture = ashkenazi
 		religion = jewish
-		size = 7050   
+		size = 14100
 	}
 }

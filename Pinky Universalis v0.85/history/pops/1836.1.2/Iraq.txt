@@ -5,16 +5,272 @@
     aristocrats = {
         culture = mashriqi
         religion = sunni
-        size = 725
+        size = 1450
     }
 
     bureaucrats = {
         culture = mashriqi
         religion = sunni
-        size = 1250
+        size = 2500
     }
 
     officers = {
+        culture = mashriqi
+        religion = sunni
+        size = 300
+    }
+
+    clergymen = {
+        culture = mashriqi
+        religion = sunni
+        size = 500
+    }
+
+    artisans = {
+        culture = mashriqi
+        religion = sunni
+        size = 20000
+    }
+
+    artisans = {
+        culture = mashriqi
+        religion = sunni
+        size = 6100
+    }
+
+    soldiers = {
+        culture = mashriqi
+        religion = sunni
+        size = 4400
+    }
+
+    zbankers = {
+        culture = mashriqi
+        religion = sunni
+        size = 8000
+    }
+
+    aristocrats = {
+        culture = mashriqi
+        religion = coptic
+        size = 200
+    }
+
+    officers = {
+        culture = mashriqi
+        religion = coptic
+        size = 200
+    }
+
+    soldiers = {
+        culture = mashriqi
+        religion = coptic
+        size = 200
+    }
+
+    clergymen = {
+        culture = mashriqi
+        religion = coptic
+        size = 200
+    }
+
+    artisans = {
+        culture = mashriqi
+        religion = coptic
+        size = 20000
+    }
+
+    artisans = {
+        culture = mashriqi
+        religion = coptic
+        size = 20000
+    }
+
+    artisans = {
+        culture = mashriqi
+        religion = coptic
+        size = 4850
+    }
+
+    zbankers = {
+        culture = mashriqi
+        religion = coptic
+        size = 8000
+    }
+
+    aristocrats = {
+        culture = kurdish
+        religion = sunni
+        size = 600
+    }
+
+    officers = {
+        culture = kurdish
+        religion = sunni
+        size = 200
+    }
+
+    clergymen = {
+        culture = kurdish
+        religion = sunni
+        size = 200
+    }
+
+    artisans = {
+        culture = kurdish
+        religion = sunni
+        size = 20000
+    }
+
+    artisans = {
+        culture = kurdish
+        religion = sunni
+        size = 20000
+    }
+
+    artisans = {
+        culture = kurdish
+        religion = sunni
+        size = 10500
+    }
+
+    soldiers = {
+        culture = kurdish
+        religion = sunni
+        size = 2200
+    }
+
+    zbankers = {
+        culture = kurdish
+        religion = sunni
+        size = 4000
+    }
+
+    slaves = {
+        culture = mashriqi
+        religion = coptic
+        size = 1000
+    }
+}
+#Arbil (104000/26000 POPS)
+924 = {
+    aristocrats = {
+        culture = mashriqi
+        religion = sunni
+        size = 280
+    }
+
+    clergymen = {
+        culture = mashriqi
+        religion = sunni
+        size = 200
+    }
+
+    artisans = {
+        culture = mashriqi
+        religion = sunni
+        size = 1000
+    }
+
+    soldiers = {
+        culture = mashriqi
+        religion = sunni
+        size = 520
+    }
+
+    zbankers = {
+        culture = mashriqi
+        religion = sunni
+        size = 11950
+    }
+
+    aristocrats = {
+        culture = kurdish
+        religion = sunni
+        size = 700
+    }
+
+    officers = {
+        culture = kurdish
+        religion = sunni
+        size = 20
+    }
+
+    clergymen = {
+        culture = kurdish
+        religion = sunni
+        size = 400
+    }
+
+    artisans = {
+        culture = kurdish
+        religion = sunni
+        size = 2100
+    }
+
+    soldiers = {
+        culture = kurdish
+        religion = sunni
+        size = 2800
+    }
+
+    zbankers = {
+        culture = kurdish
+        religion = sunni
+        size = 25600
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = sunni
+        size = 20
+    }
+
+    artisans = {
+        culture = turkish
+        religion = sunni
+        size = 80
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = sunni
+        size = 120
+    }
+
+    zbankers = {
+        culture = turkish
+        religion = sunni
+        size = 200
+    }
+
+    aristocrats = {
+        culture = armenian
+        religion = coptic
+        size = 200
+    }
+
+    clergymen = {
+        culture = armenian
+        religion = coptic
+        size = 220
+    }
+
+    artisans = {
+        culture = armenian
+        religion = coptic
+        size = 420
+    }
+
+    zbankers = {
+        culture = armenian
+        religion = coptic
+        size = 27250
+    }
+}
+#Kirkuk (160000/40000 POPS)
+925 = {
+    aristocrats = {
         culture = mashriqi
         religion = sunni
         size = 150
@@ -23,311 +279,55 @@
     clergymen = {
         culture = mashriqi
         religion = sunni
-        size = 250
+        size = 450
     }
 
     artisans = {
         culture = mashriqi
         religion = sunni
-        size = 10000
-    }
-
-    artisans = {
-        culture = mashriqi
-        religion = sunni
-        size = 3050
+        size = 3850
     }
 
     soldiers = {
         culture = mashriqi
+        religion = sunni
+        size = 2550
+    }
+
+    zbankers = {
+        culture = mashriqi
+        religion = sunni
+        size = 19650
+    }
+
+    aristocrats = {
+        culture = kurdish
+        religion = sunni
+        size = 650
+    }
+
+    clergymen = {
+        culture = kurdish
+        religion = sunni
+        size = 400
+    }
+
+    artisans = {
+        culture = kurdish
+        religion = sunni
+        size = 3200
+    }
+
+    soldiers = {
+        culture = kurdish
         religion = sunni
         size = 2200
     }
 
     zbankers = {
-        culture = mashriqi
-        religion = sunni
-        size = 4000
-    }
-
-    aristocrats = {
-        culture = mashriqi
-        religion = coptic
-        size = 100
-    }
-
-    officers = {
-        culture = mashriqi
-        religion = coptic
-        size = 100
-    }
-
-    soldiers = {
-        culture = mashriqi
-        religion = coptic
-        size = 100
-    }
-
-    clergymen = {
-        culture = mashriqi
-        religion = coptic
-        size = 100
-    }
-
-    artisans = {
-        culture = mashriqi
-        religion = coptic
-        size = 10000
-    }
-
-    artisans = {
-        culture = mashriqi
-        religion = coptic
-        size = 10000
-    }
-
-    artisans = {
-        culture = mashriqi
-        religion = coptic
-        size = 2425
-    }
-
-    zbankers = {
-        culture = mashriqi
-        religion = coptic
-        size = 4000
-    }
-
-    aristocrats = {
         culture = kurdish
         religion = sunni
-        size = 300
-    }
-
-    officers = {
-        culture = kurdish
-        religion = sunni
-        size = 100
-    }
-
-    clergymen = {
-        culture = kurdish
-        religion = sunni
-        size = 100
-    }
-
-    artisans = {
-        culture = kurdish
-        religion = sunni
-        size = 10000
-    }
-
-    artisans = {
-        culture = kurdish
-        religion = sunni
-        size = 10000
-    }
-
-    artisans = {
-        culture = kurdish
-        religion = sunni
-        size = 5250
-    }
-
-    soldiers = {
-        culture = kurdish
-        religion = sunni
-        size = 1100
-    }
-
-    zbankers = {
-        culture = kurdish
-        religion = sunni
-        size = 2000
-    }
-
-    slaves = {
-        culture = mashriqi
-        religion = coptic
-        size = 500
-    }
-}
-#Arbil (104000/26000 POPS)
-924 = {
-    aristocrats = {
-        culture = mashriqi
-        religion = sunni
-        size = 140
-    }
-
-    clergymen = {
-        culture = mashriqi
-        religion = sunni
-        size = 100
-    }
-
-    artisans = {
-        culture = mashriqi
-        religion = sunni
-        size = 500
-    }
-
-    soldiers = {
-        culture = mashriqi
-        religion = sunni
-        size = 260
-    }
-
-    zbankers = {
-        culture = mashriqi
-        religion = sunni
-        size = 5975
-    }
-
-    aristocrats = {
-        culture = kurdish
-        religion = sunni
-        size = 350
-    }
-
-    officers = {
-        culture = kurdish
-        religion = sunni
-        size = 10
-    }
-
-    clergymen = {
-        culture = kurdish
-        religion = sunni
-        size = 200
-    }
-
-    artisans = {
-        culture = kurdish
-        religion = sunni
-        size = 1050
-    }
-
-    soldiers = {
-        culture = kurdish
-        religion = sunni
-        size = 1400
-    }
-
-    zbankers = {
-        culture = kurdish
-        religion = sunni
-        size = 12800
-    }
-
-    clergymen = {
-        culture = turkish
-        religion = sunni
-        size = 10
-    }
-
-    artisans = {
-        culture = turkish
-        religion = sunni
-        size = 40
-    }
-
-    soldiers = {
-        culture = turkish
-        religion = sunni
-        size = 60
-    }
-
-    zbankers = {
-        culture = turkish
-        religion = sunni
-        size = 100
-    }
-
-    aristocrats = {
-        culture = armenian
-        religion = coptic
-        size = 100
-    }
-
-    clergymen = {
-        culture = armenian
-        religion = coptic
-        size = 110
-    }
-
-    artisans = {
-        culture = armenian
-        religion = coptic
-        size = 210
-    }
-
-    zbankers = {
-        culture = armenian
-        religion = coptic
-        size = 13625
-    }
-}
-#Kirkuk (160000/40000 POPS)
-925 = {
-    aristocrats = {
-        culture = mashriqi
-        religion = sunni
-        size = 75
-    }
-
-    clergymen = {
-        culture = mashriqi
-        religion = sunni
-        size = 225
-    }
-
-    artisans = {
-        culture = mashriqi
-        religion = sunni
-        size = 1925
-    }
-
-    soldiers = {
-        culture = mashriqi
-        religion = sunni
-        size = 1275
-    }
-
-    zbankers = {
-        culture = mashriqi
-        religion = sunni
-        size = 9825
-    }
-
-    aristocrats = {
-        culture = kurdish
-        religion = sunni
-        size = 325
-    }
-
-    clergymen = {
-        culture = kurdish
-        religion = sunni
-        size = 200
-    }
-
-    artisans = {
-        culture = kurdish
-        religion = sunni
-        size = 1600
-    }
-
-    soldiers = {
-        culture = kurdish
-        religion = sunni
-        size = 1100
-    }
-
-    zbankers = {
-        culture = kurdish
-        religion = sunni
-        size = 26625
+        size = 53250
     }
 }
 #Iraq Region (644000)
@@ -337,181 +337,181 @@
     aristocrats = {
         culture = mashriqi
         religion = sunni
-        size = 500
+        size = 1000
     }
 
     bureaucrats = {
+        culture = mashriqi
+        religion = sunni
+        size = 920
+    }
+
+    clergymen = {
         culture = mashriqi
         religion = sunni
         size = 460
     }
 
-    clergymen = {
-        culture = mashriqi
-        religion = sunni
-        size = 230
-    }
-
     artisans = {
         culture = mashriqi
         religion = sunni
-        size = 3950
+        size = 7900
     }
 
     soldiers = {
         culture = mashriqi
         religion = sunni
-        size = 600
+        size = 1200
     }
 
     zbankers = {
         culture = mashriqi
         religion = sunni
-        size = 12000
+        size = 24000
     }
 
     aristocrats = {
         culture = mashriqi
         religion = sunni
-        size = 600
+        size = 1200
     }
 
     bureaucrats = {
         culture = mashriqi
         religion = sunni
-        size = 440
+        size = 880
     }
 
     clergymen = {
         culture = mashriqi
         religion = sunni
-        size = 270
+        size = 540
     }
 
     artisans = {
         culture = mashriqi
         religion = sunni
-        size = 4000
+        size = 8000
     }
 
     soldiers = {
         culture = mashriqi
         religion = sunni
-        size = 625
+        size = 1250
     }
 
     zbankers = {
         culture = mashriqi
         religion = sunni
-        size = 18525
+        size = 37050
     }
 
     aristocrats = {
-        culture = mashriqi
-        religion = coptic
-        size = 100
-    }
-
-    officers = {
-        culture = mashriqi
-        religion = coptic
-        size = 100
-    }
-
-    soldiers = {
-        culture = mashriqi
-        religion = coptic
-        size = 100
-    }
-
-    clergymen = {
         culture = mashriqi
         religion = coptic
         size = 200
     }
 
-    artisans = {
+    officers = {
         culture = mashriqi
         religion = coptic
-        size = 500
+        size = 200
     }
 
-    zbankers = {
+    soldiers = {
         culture = mashriqi
         religion = coptic
-        size = 9075
-    }
-
-    aristocrats = {
-        culture = persian
-        religion = sunni
-        size = 100
+        size = 200
     }
 
     clergymen = {
-        culture = persian
-        religion = sunni
-        size = 100
-    }
-
-    artisans = {
-        culture = persian
-        religion = sunni
-        size = 150
-    }
-
-    zbankers = {
-        culture = persian
-        religion = sunni
-        size = 2850
-    }
-
-    clergymen = {
-        culture = sephardic
-        religion = jewish
-        size = 100
-    }
-
-    zbankers = {
-        culture = sephardic
-        religion = jewish
-        size = 3925
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 100
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 100
-    }
-
-    artisans = {
-        culture = bedouin
-        religion = sunni
+        culture = mashriqi
+        religion = coptic
         size = 400
+    }
+
+    artisans = {
+        culture = mashriqi
+        religion = coptic
+        size = 1000
+    }
+
+    zbankers = {
+        culture = mashriqi
+        religion = coptic
+        size = 18150
+    }
+
+    aristocrats = {
+        culture = persian
+        religion = sunni
+        size = 200
+    }
+
+    clergymen = {
+        culture = persian
+        religion = sunni
+        size = 200
+    }
+
+    artisans = {
+        culture = persian
+        religion = sunni
+        size = 300
+    }
+
+    zbankers = {
+        culture = persian
+        religion = sunni
+        size = 5700
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 200
+    }
+
+    zbankers = {
+        culture = sephardic
+        religion = jewish
+        size = 7850
+    }
+
+    aristocrats = {
+        culture = bedouin
+        religion = sunni
+        size = 200
+    }
+
+    clergymen = {
+        culture = bedouin
+        religion = sunni
+        size = 200
+    }
+
+    artisans = {
+        culture = bedouin
+        religion = sunni
+        size = 800
     }
 
     soldiers = {
         culture = bedouin
         religion = sunni
-        size = 100
+        size = 200
     }
 
     zbankers = {
         culture = bedouin
         religion = sunni
-        size = 7350
+        size = 14700
     }
 
     slaves = {
         culture = mashriqi
         religion = coptic
-        size = 1000
+        size = 2000
     }
 }
 #Samarra (92000/23000 POPS)
@@ -519,61 +519,61 @@
     aristocrats = {
         culture = mashriqi
         religion = sunni
-        size = 325
+        size = 650
     }
 
     clergymen = {
         culture = mashriqi
         religion = sunni
-        size = 175
+        size = 350
     }
 
     artisans = {
         culture = mashriqi
         religion = sunni
-        size = 850
+        size = 1700
     }
 
     soldiers = {
         culture = mashriqi
         religion = sunni
-        size = 175
+        size = 350
     }
 
     zbankers = {
         culture = mashriqi
         religion = sunni
-        size = 15475
+        size = 30950
     }
 
     aristocrats = {
         culture = bedouin
         religion = sunni
-        size = 100
+        size = 200
     }
 
     clergymen = {
         culture = bedouin
         religion = sunni
-        size = 50
+        size = 100
     }
 
     artisans = {
         culture = bedouin
         religion = sunni
-        size = 250
+        size = 500
     }
 
     soldiers = {
         culture = bedouin
         religion = sunni
-        size = 75
+        size = 150
     }
 
     zbankers = {
         culture = bedouin
         religion = sunni
-        size = 5525
+        size = 11050
     }
 }
 #Mendeli (84000/21000 POPS)
@@ -581,79 +581,79 @@
     aristocrats = {
         culture = mashriqi
         religion = sunni
-        size = 175
+        size = 350
     }
 
     clergymen = {
         culture = mashriqi
         religion = sunni
-        size = 125
+        size = 250
     }
 
     artisans = {
         culture = mashriqi
         religion = sunni
-        size = 400
+        size = 800
     }
 
     soldiers = {
         culture = mashriqi
         religion = sunni
-        size = 175
+        size = 350
     }
 
     zbankers = {
         culture = mashriqi
         religion = sunni
-        size = 5125
+        size = 10250
     }
 
     aristocrats = {
         culture = kurdish
         religion = sunni
-        size = 75
+        size = 150
     }
 
     clergymen = {
         culture = kurdish
         religion = sunni
-        size = 75
+        size = 150
     }
 
     artisans = {
         culture = kurdish
         religion = sunni
-        size = 200
+        size = 400
     }
 
     soldiers = {
         culture = kurdish
         religion = sunni
-        size = 1050
+        size = 2100
     }
 
     zbankers = {
         culture = kurdish
         religion = sunni
-        size = 8600
+        size = 17200
     }
 
     clergymen = {
         culture = armenian
         religion = coptic
-        size = 25
+        size = 50
     }
 
     artisans = {
         culture = armenian
         religion = coptic
-        size = 50
+        size = 100
     }
 
     zbankers = {
         culture = armenian
         religion = coptic
-        size = 3925
+        size = 7850
     }
 }
 #Karbala (100000/25000 POPS)
@@ -661,61 +661,61 @@
     aristocrats = {
         culture = bedouin
         religion = sunni
-        size = 300
+        size = 600
     }
 
     clergymen = {
         culture = bedouin
         religion = sunni
-        size = 200
+        size = 400
     }
 
     artisans = {
         culture = bedouin
         religion = sunni
-        size = 950
+        size = 1900
     }
 
     soldiers = {
         culture = bedouin
         religion = sunni
-        size = 200
+        size = 400
     }
 
     zbankers = {
         culture = bedouin
         religion = sunni
-        size = 18350
+        size = 36700
     }
 
     aristocrats = {
         culture = mashriqi
         religion = sunni
-        size = 700
+        size = 1400
     }
 
     clergymen = {
         culture = mashriqi
         religion = sunni
-        size = 875
+        size = 1750
     }
 
     artisans = {
         culture = mashriqi
         religion = sunni
-        size = 1800
+        size = 3600
     }
 
     soldiers = {
         culture = mashriqi
         religion = sunni
-        size = 200
+        size = 400
     }
 
     zbankers = {
         culture = mashriqi
         religion = sunni
-        size = 26725
+        size = 53450
     }
 }
 #Najaf
@@ -723,22 +723,22 @@
 	aristocrats = {
 		culture = bedouin
 		religion = sunni
-		size = 15
+		size = 30
 	}
 	clergymen = {
 		culture = bedouin
 		religion = sunni
-		size = 25
+		size = 50
 	}
 	artisans = {
 		culture = bedouin
 		religion = sunni
-		size = 75
+		size = 150
 	}
 	zbankers = {
 		culture = bedouin
 		religion = sunni
-		size = 1100
+		size = 2200
 	}
 }
 #Kut (100000/25000 POPS)
@@ -746,61 +746,61 @@
     aristocrats = {
         culture = bedouin
         religion = sunni
-        size = 100
+        size = 200
     }
 
     clergymen = {
         culture = bedouin
         religion = sunni
-        size = 125
+        size = 250
     }
 
     artisans = {
         culture = bedouin
         religion = sunni
-        size = 300
+        size = 600
     }
 
     soldiers = {
         culture = bedouin
         religion = sunni
-        size = 75
+        size = 150
     }
 
     zbankers = {
         culture = bedouin
         religion = sunni
-        size = 5400
+        size = 10800
     }
 
     aristocrats = {
         culture = mashriqi
         religion = sunni
-        size = 590
+        size = 1180
     }
 
     clergymen = {
         culture = mashriqi
         religion = sunni
-        size = 625
+        size = 1250
     }
 
     artisans = {
         culture = mashriqi
         religion = sunni
-        size = 2150
+        size = 4300
     }
 
     soldiers = {
         culture = mashriqi
         religion = sunni
-        size = 1175
+        size = 2350
     }
 
     zbankers = {
         culture = mashriqi
         religion = sunni
-        size = 29525
+        size = 59050
     }
 }
 #Badiyat al-Sham Region (8000)  #see Jordan.txt, Syria.txt & Saudi Arabia.txt for balance of region
@@ -810,25 +810,25 @@
     aristocrats = {
         culture = bedouin
         religion = sunni
-        size = 25
+        size = 50
     }
 
     clergymen = {
         culture = bedouin
         religion = sunni
-        size = 50
+        size = 100
     }
 
     soldiers = {
         culture = bedouin
         religion = sunni
-        size = 25
+        size = 50
     }
 
     zbankers = {
         culture = bedouin
         religion = sunni
-        size = 2900
+        size = 5800
     }
 }
 #Basra Region (388000) #see Gulf States.txt for balance of region
@@ -838,73 +838,73 @@
     aristocrats = {
         culture = mashriqi
         religion = sunni
-        size = 375
+        size = 750
     }
 
     bureaucrats = {
         culture = mashriqi
         religion = sunni
-        size = 1500
+        size = 3000
     }
 
     officers = {
         culture = mashriqi
         religion = sunni
-        size = 25
+        size = 50
     }
 
     clergymen = {
         culture = mashriqi
         religion = sunni
-        size = 275
+        size = 550
     }
 
     artisans = {
         culture = mashriqi
         religion = sunni
-        size = 1200
+        size = 2400
     }
 
     soldiers = {
         culture = mashriqi
         religion = sunni
-        size = 50
+        size = 100
     }
 
     zbankers = {
         culture = mashriqi
         religion = sunni
-        size = 21675
+        size = 43350
     }
 
     aristocrats = {
         culture = bedouin
         religion = sunni
-        size = 175
+        size = 350
     }
 
     clergymen = {
         culture = bedouin
         religion = sunni
-        size = 125
+        size = 250
     }
 
     artisans = {
         culture = bedouin
         religion = sunni
-        size = 600
+        size = 1200
     }
 
     soldiers = {
         culture = bedouin
         religion = sunni
-        size = 125
+        size = 250
     }
 
     zbankers = {
         culture = bedouin
         religion = sunni
-        size = 10975
+        size = 21950
     }
 }
 #Nasiriyya (152000/38000 POPS)
@@ -912,55 +912,55 @@
     aristocrats = {
         culture = bedouin
         religion = sunni
-        size = 175
+        size = 350
     }
 
     clergymen = {
         culture = bedouin
         religion = sunni
-        size = 125
+        size = 250
     }
 
     artisans = {
         culture = bedouin
         religion = sunni
-        size = 500
+        size = 1000
     }
 
     soldiers = {
         culture = bedouin
         religion = sunni
-        size = 100
+        size = 200
     }
 
     zbankers = {
         culture = bedouin
         religion = sunni
-        size = 9100
+        size = 18200
     }
 
     aristocrats = {
         culture = mashriqi
         religion = sunni
-        size = 500
+        size = 1000
     }
 
     clergymen = {
         culture = mashriqi
         religion = sunni
-        size = 275
+        size = 550
     }
 
     artisans = {
         culture = mashriqi
         religion = sunni
-        size = 1400
+        size = 2800
     }
 
     zbankers = {
         culture = mashriqi
         religion = sunni
-        size = 25825
+        size = 51650
     }
 }
 #Najaf (96000/24000 POPS)
@@ -968,22 +968,72 @@
     aristocrats = {
         culture = bedouin
         religion = sunni
-        size = 175
+        size = 350
     }
 
     clergymen = {
         culture = bedouin
         religion = sunni
-        size = 125
+        size = 250
     }
 
     artisans = {
         culture = bedouin
         religion = sunni
-        size = 550
+        size = 1100
     }
 
     soldiers = {
+        culture = bedouin
+        religion = sunni
+        size = 200
+    }
+
+    zbankers = {
+        culture = bedouin
+        religion = sunni
+        size = 20100
+    }
+
+    aristocrats = {
+        culture = mashriqi
+        religion = sunni
+        size = 400
+    }
+
+    clergymen = {
+        culture = mashriqi
+        religion = sunni
+        size = 250
+    }
+
+    artisans = {
+        culture = mashriqi
+        religion = sunni
+        size = 1300
+    }
+
+    zbankers = {
+        culture = mashriqi
+        religion = sunni
+        size = 24050
+    }
+}
+#Al-Salman
+2683 = {
+    aristocrats = {
+        culture = bedouin
+        religion = sunni
+        size = 30
+    }
+
+    clergymen = {
+        culture = bedouin
+        religion = sunni
+        size = 50
+    }
+
+    artisans = {
         culture = bedouin
         religion = sunni
         size = 100
@@ -992,57 +1042,7 @@
     zbankers = {
         culture = bedouin
         religion = sunni
-        size = 10050
-    }
-
-    aristocrats = {
-        culture = mashriqi
-        religion = sunni
-        size = 200
-    }
-
-    clergymen = {
-        culture = mashriqi
-        religion = sunni
-        size = 125
-    }
-
-    artisans = {
-        culture = mashriqi
-        religion = sunni
-        size = 650
-    }
-
-    zbankers = {
-        culture = mashriqi
-        religion = sunni
-        size = 12025
-    }
-}
-#Al-Salman
-2683 = {
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 15
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 25
-    }
-
-    artisans = {
-        culture = bedouin
-        religion = sunni
-        size = 50
-    }
-
-    zbankers = {
-        culture = bedouin
-        religion = sunni
-        size = 600
+        size = 1200
     }
 }
 #al-Qa'im
@@ -1050,30 +1050,30 @@
     aristocrats = {
         culture = bedouin
         religion = sunni
-        size = 90
+        size = 180
     }
 
     clergymen = {
         culture = bedouin
         religion = sunni
-        size = 50
+        size = 100
     }
 
     artisans = {
         culture = bedouin
         religion = sunni
-        size = 240
+        size = 480
     }
 
     soldiers = {
         culture = bedouin
         religion = sunni
-        size = 650
+        size = 1300
     }
 
     zbankers = {
         culture = bedouin
         religion = sunni
-        size = 4950
+        size = 9900
     }
 }
