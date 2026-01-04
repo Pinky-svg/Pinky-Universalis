@@ -434,14 +434,14 @@ political_decisions = {
 						NOT = { type = slaves }
 						has_pop_culture = armenian
 					}
-					literacy = 0.07
+					literacy = 0.17
 				}
 				any_pop = {
 					limit = {
 						NOT = { type = slaves }
 						has_pop_culture = georgian
 					}
-					literacy = 0.03
+					literacy = 0.13
 				}
 				any_pop = {
 					limit = {
@@ -458,14 +458,14 @@ political_decisions = {
 							has_pop_culture = azerbaijani
 						}
 					}
-					literacy = 0.02
+					literacy = 0.12
 				}
 				any_pop = {
 					limit = {
 						NOT = { type = slaves }
 						has_pop_culture = north_caucasian
 					}
-					literacy = 0.01
+					literacy = 0.11
 				}
 				any_pop = {
 					limit = {
@@ -514,14 +514,14 @@ political_decisions = {
 						NOT = { type = slaves }
 						is_culture_group = iranian_turanian
 					}
-					literacy = 0.01
+					literacy = 0.11
 				}
 				any_pop = {
 					limit = {
 						NOT = { type = slaves }
 						has_pop_culture = persian
 					}
-					literacy = 0.03
+					literacy = 0.13
 				}
 				any_pop = {
 					limit = {
@@ -910,25 +910,25 @@ political_decisions = {
 					limit = {
 						has_pop_culture = albanian
 					}
-					literacy = 0.02
+					literacy = 0.12
 				}
 				any_pop = {
 					limit = {
 						has_pop_culture = croat
 					}
-					literacy = 0.05
+					literacy = 0.15
 				}
 				any_pop = {
 					limit = {
 						has_pop_culture = romanian
 					}
-					literacy = 0.09
+					literacy = 0.19
 				}
 				any_pop = {
 					limit = {
 						has_pop_culture = hungarian
 					}
-					literacy = 0.14
+					literacy = 0.24
 				}
 				any_pop = {
 					limit = {
@@ -946,7 +946,7 @@ political_decisions = {
 					limit = {
 						is_culture_group = east_slavic
 					}
-					literacy = 0.04
+					literacy = 0.14
 				}
 				any_pop = {
 					limit = {
@@ -964,7 +964,7 @@ political_decisions = {
 					limit = {
 						has_pop_culture = armenian
 					}
-					literacy = 0.07
+					literacy = 0.17
 				}
 				any_pop = {
 					limit = {
@@ -976,13 +976,13 @@ political_decisions = {
 					limit = {
 						has_pop_culture = turkish
 					}
-					literacy = 0.02
+					literacy = 0.12
 				}
 				any_pop = {
 					limit = {
 						has_pop_culture = north_caucasian
 					}
-					literacy = 0.01
+					literacy = 0.11
 				}
 				any_pop = {
 					limit = {
@@ -1018,25 +1018,25 @@ political_decisions = {
 					limit = {
 						has_pop_culture = persian
 					}
-					literacy = 0.03
+					literacy = 0.13
 				}
 				any_pop = {
 					limit = {
 						has_pop_culture = pashtun
 					}
-					literacy = 0.01
+					literacy = 0.11
 				}
 				any_pop = {
 					limit = {
 						has_pop_culture = turkmen
 					}
-					literacy = 0.01
+					literacy = 0.11
 				}
 				any_pop = {
 					limit = {
 						has_pop_culture = uighur
 					}
-					literacy = 0.01
+					literacy = 0.11
 				}
 				any_pop = {
 					limit = {

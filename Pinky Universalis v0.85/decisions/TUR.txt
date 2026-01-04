@@ -95,10 +95,94 @@ political_decisions = {
 		
 		effect = {
 			remove_country_modifier = christian_subjugation
+			add_accepted_culture = armenian
+			RUS_1102 = { add_core = THIS }
+			RUS_1098 = { add_core = THIS }
+			RUS_1090 = { add_core = THIS }
 		}
 		ai_will_do = {
 			factor = 1
 		}		
+	}
+	
+	reclaim_circassia = {
+		picture = caucasus
+		potential = {
+			tag = TUR
+			NOT = {
+				has_country_flag = reclaim_circassia
+			}
+		}
+		allow = {
+			owns = 1090
+		}
+		effect = {
+			set_country_flag = reclaim_circassia
+			RUS_1048 = { add_core = THIS }
+			RUS_1052 = { add_core = THIS }
+			RUS_964 = { add_core = THIS }
+			add_accepted_culture = north_caucasian
+		}
+		
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				OR = {
+					relation = { who = RUS value = 100 }
+					in_sphere = RUS
+					alliance_with = RUS
+				}
+			}
+		}
+	}
+	
+	accepted_mashriqi = {
+		picture = egyptian_sultanate
+		potential = {
+			tag = TUR
+			NOT = {
+				has_country_flag = accepted_mashriqi
+			}
+		}
+		allow = {
+			owns = 1745
+			owns = 902
+			owns = 926
+			revolution_n_counterrevolution = 1
+		}
+		effect = {
+			set_country_flag = accepted_mashriqi
+			add_accepted_culture = mashriqi
+		}
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	
+	accepted_turkmen = {
+		picture = baloch_khans
+		potential = {
+			tag = TUR
+			NOT = {
+				has_country_flag = accepted_turkmen
+			}
+		}
+		allow = {
+			revolution_n_counterrevolution = 1
+		}
+		effect = {
+			set_country_flag = accepted_turkmen
+			add_accepted_culture = turkmen
+			add_accepted_culture = uighur
+			
+		}
+		
+		ai_will_do = {
+			factor = 1
+		}
 	}
 	
 	kanun_i_esasi = {

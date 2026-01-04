@@ -7,7 +7,7 @@ political_decisions = {
 			}
 		}
 		allow = {
-			literacy = 0.1
+			literacy = 0.20
 			money = 30000
 		}
 		effect = {
@@ -45,6 +45,53 @@ political_decisions = {
 				name = dar_al_funun
 				duration = 14600
 			}
+		}
+	}
+
+	reclaim_kurdistan = {
+		picture = old_kurdistan_map
+		potential = {
+			tag = PER
+			NOT = {
+				has_country_flag = reclaim_kurdistan
+			}
+		}
+		allow = {
+			nationalism_n_imperialism = 1
+		}
+		effect = {
+			set_country_flag = reclaim_kurdistan
+			TUR_890 = { add_core = THIS }
+			TUR_889 = { add_core = THIS }
+			TUR_923 = { add_core = THIS }
+		}
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	accepted_pashtun = {
+		picture = herat
+		potential = {
+			tag = PER
+			NOT = {
+				has_country_flag = accepted_pashtun
+			}
+		}
+		allow = {
+			owns = 1212
+			owns = 1213
+			owns = 1209
+			revolution_n_counterrevolution = 1
+		}
+		effect = {
+			set_country_flag = accepted_pashtun
+			add_accepted_culture = pashtun
+		}
+		
+		ai_will_do = {
+			factor = 1
 		}
 	}
 
@@ -422,7 +469,6 @@ political_decisions = {
 
 		allow = {
 			OR = {
-				civilization_progress = 0.5
 				civilized = yes
 			}
 			war = no
@@ -459,7 +505,6 @@ political_decisions = {
 		}
 		allow = {
 			civilized = yes
-			rank = 10
 			romanticism = 1
 		}
 		effect = {
@@ -530,32 +575,6 @@ political_decisions = {
         ai_will_do = { factor = 1 }
     }
 
-	jezail_gunsmiths = {
-		picture = afghan_jezail
-		potential = {
-			OR = {
-				tag = AFG
-				tag = KAL
-				tag = MAK
-				tag = BDK
-				tag = HRT
-			}
-			NOT = { firearms_production = yes_firearms_production }
-			civilized = no
-		}
-		allow = {
-			foreign_weapons = yes_foreign_weapons
-			military_constructions = yes_military_constructions
-			civilized = no
-			money = 10000
-		}
-		effect = {
-			treasury = -10000
-			economic_reform = yes_firearms_production
-			build_factory_in_capital_state = small_arms_factory
-			activate_technology = mechanized_mining
-		}
-	}
 
 	embrace_the_baloch = {
 		picture = baloch_khans
