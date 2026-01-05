@@ -23,24 +23,16 @@ political_decisions = {
 			add_accepted_culture = hausa
 			add_accepted_culture = yoruba
 			1923 = {
-				add_core = BEN
-				add_core = ARO
-				add_core = WRI
+				add_core = THIS
 			}
 			1941 = {
-				add_core = BEN
-				add_core = ARO
-				add_core = WRI
+				add_core = THIS
 			}
 			1943 = {
-				add_core = BEN
-				add_core = ARO
-				add_core = WRI
+				add_core = THIS
 			}
 			1957 = {
-				add_core = BEN
-				add_core = ARO
-				add_core = WRI
+				add_core = THIS
 			}
 		}
 	}

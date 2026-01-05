@@ -63,7 +63,24 @@ political_decisions = {
 			set_country_flag = reclaim_kurdistan
 			TUR_890 = { add_core = THIS }
 			TUR_889 = { add_core = THIS }
-			TUR_923 = { add_core = THIS }
+			1781 = {
+				add_core = SOK
+			}
+			924 = {
+				add_core = SOK
+			}
+			928 = {
+				add_core = SOK
+			}
+			923 = {
+				add_core = SOK
+			}
+			925 = {
+				add_core = SOK
+			}
+			885 = {
+				add_core = SOK
+			}
 		}
 		
 		ai_will_do = {
@@ -505,7 +522,7 @@ political_decisions = {
 		}
 		allow = {
 			civilized = yes
-			romanticism = 1
+			state_n_government = 1
 		}
 		effect = {
 			set_country_flag = reclaimed_transcaucasia
@@ -756,7 +773,6 @@ political_decisions = {
 			BUK_1207 = { owned_by = THIS }
 			KOK_1190 = { owned_by = THIS }
 			RUS_1185 = { owned_by = THIS }
-			RUS_2611 = { owned_by = THIS }
 		}
 		effect = {
 			set_global_flag = turkestan

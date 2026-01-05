@@ -95,7 +95,6 @@ political_decisions = {
 		
 		effect = {
 			remove_country_modifier = christian_subjugation
-			add_accepted_culture = armenian
 			RUS_1102 = { add_core = THIS }
 			RUS_1098 = { add_core = THIS }
 			RUS_1090 = { add_core = THIS }
@@ -121,7 +120,6 @@ political_decisions = {
 			RUS_1048 = { add_core = THIS }
 			RUS_1052 = { add_core = THIS }
 			RUS_964 = { add_core = THIS }
-			add_accepted_culture = north_caucasian
 		}
 		
 		ai_will_do = {
@@ -136,54 +134,8 @@ political_decisions = {
 			}
 		}
 	}
-	
-	accepted_mashriqi = {
-		picture = egyptian_sultanate
-		potential = {
-			tag = TUR
-			NOT = {
-				has_country_flag = accepted_mashriqi
-			}
-		}
-		allow = {
-			owns = 1745
-			owns = 902
-			owns = 926
-			revolution_n_counterrevolution = 1
-		}
-		effect = {
-			set_country_flag = accepted_mashriqi
-			add_accepted_culture = mashriqi
-		}
 		
-		ai_will_do = {
-			factor = 1
-		}
-	}
 	
-	
-	accepted_turkmen = {
-		picture = baloch_khans
-		potential = {
-			tag = TUR
-			NOT = {
-				has_country_flag = accepted_turkmen
-			}
-		}
-		allow = {
-			revolution_n_counterrevolution = 1
-		}
-		effect = {
-			set_country_flag = accepted_turkmen
-			add_accepted_culture = turkmen
-			add_accepted_culture = uighur
-			
-		}
-		
-		ai_will_do = {
-			factor = 1
-		}
-	}
 	
 	kanun_i_esasi = {
 		potential = {
@@ -226,7 +178,6 @@ political_decisions = {
 			NOT = { has_global_flag = 1913_bookmark }
 		}
 		allow = {
-			NOT = { average_militancy = 2 }
 			NOT = { has_country_modifier = christian_subjugation }
 			revolution_n_counterrevolution = 1
 		}
@@ -380,4 +331,42 @@ political_decisions = {
 			}
 		}
 	}
+	
+	free_transcaucasusia = {
+		picture = transcaucasia
+		potential = {
+			OR = {
+				tag = TUR
+				tag = PER
+				}
+			exists = TCA
+			NOT = {
+				has_country_flag = free_transcaucasusia_flag
+			}
+		}
+		allow = {
+			TCA = {
+				in_sphere = THIS
+			}
+		}
+		effect = {
+			set_country_flag = free_transcaucasusia_flag
+			release_vassal = TCA
+		}
+		
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				OR = {
+					relation = { who = RUS value = 100 }
+					in_sphere = RUS
+					alliance_with = RUS
+				}
+			}
+		}
+	}
+	
+	
+	
 }
