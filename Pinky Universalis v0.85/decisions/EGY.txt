@@ -1,35 +1,35 @@
 political_decisions = {
-	peace_ottomans = {
-		picture = egypt_surrenders
-		potential = {
-			tag = EGY
-			has_global_flag = oriental_crisis
-			NOT = { has_global_flag = oriental_crisis_ended }
-			NOT = { has_country_flag = sued_for_peace }
-			war_with = TUR
-		}
-
-		allow = {
-		}
-
-		effect = {
-			set_country_flag = sued_for_peace
-			TUR = {
-				country_event = { id = 31103 days = 0 }
-			}
-		}
-
-		ai_will_do = {
-			factor = 1
-			modifier = {
-				factor = 0
-				NOT = {
-					national_provinces_occupied = 0.3
-					TUR = { brigades_compare = 3 }
-				}
-			}
-		}
-	}
+	#peace_ottomans = {
+	#	picture = egypt_surrenders
+	#	potential = {
+	#		tag = EGY
+	#		has_global_flag = oriental_crisis
+	#		NOT = { has_global_flag = oriental_crisis_ended }
+	#		NOT = { has_country_flag = sued_for_peace }
+	#		war_with = TUR
+	#	}
+#
+#		allow = {
+#		}
+#
+#		effect = {
+#			set_country_flag = sued_for_peace
+#			TUR = {
+#				country_event = { id = 31103 days = 0 }
+#			}
+#		}
+#
+#		ai_will_do = {
+#			factor = 1
+#			modifier = {
+#				factor = 0
+#				NOT = {
+#					national_provinces_occupied = 0.3
+#					TUR = { brigades_compare = 3 }
+#				}
+#			}
+#		}
+#	}
 
 	enact_muhammad_alis_reforms = {
 		potential = {
@@ -56,146 +56,9 @@ political_decisions = {
 		}
 	}
 
-	request_foreign_loans = {
-		picture = muhammad_alis_palace
-		potential = {
-			tag = EGY
-			NOT = {
-				OR = {
-					has_country_flag = foreign_loan_taken
-					has_global_flag = egyptian_loan_requested
-				}
-			}
-		}
+	
 
-		allow = {
-			NOT = { in_sphere = TUR }
-			is_vassal = no
-		}
-
-		effect = {
-			set_global_flag = egyptian_loan_requested
-			any_country = {
-				limit = {
-					ai = no
-					civilized = yes
-					NOT = {
-						OR = {
-							tag = EGY
-							tag = TUR
-							tag = JAN
-							tag = GHO
-							tag = CIV
-						}
-					}
-				}
-				country_event = {
-					id = 44461
-					days = 0
-				}
-			}
-		}
-		ai_will_do = {
-			factor = 1
-			modifier = {
-				factor = 0
-				OR = {
-					war = yes
-					NOT = { year = 1840 }
-				}
-			}
-		}
-	}
-
-	lend_egypt = {
-		picture = bank_loan
-		potential = {
-			EGY = {
-				exists = yes
-			}
-			has_global_flag = egyptian_loan_requested
-			civilized = yes
-			NOT = {
-				OR = {
-					tag = EGY
-					tag = TUR
-					tag = JAN
-					tag = GHO
-					tag = CIV
-				}
-			}
-		}
-
-		allow = {
-			OR = {
-				money = 500000
-				AND = {
-					ai = yes
-					tag = ENG
-				}
-			}
-		}
-
-		effect = {
-			treasury = -500000
-			clr_global_flag = egyptian_loan_requested
-			EGY = {
-				country_event = { id = 44462 days = 0 }
-				set_country_flag = foreign_loan_taken
-			}
-			set_country_flag = lent_egypt
-			any_greater_power = {
-				limit = {
-					NOT = { tag = THIS }
-				}
-				diplomatic_influence = {
-					who = EGY
-					value = -100
-				}
-			}
-			diplomatic_influence = {
-				who = EGY
-				value = 400
-			}
-			
-		}
-
-		ai_will_do = {
-			factor = 1
-			modifier = {
-				factor = 0
-				NOT = { year = 1845 }
-			}
-			modifier = {
-				factor = 0
-				NOT = { total_amount_of_ships = 50 }
-			}
-		}
-	}
-
-	pay_back_foreign_loans = {
-		picture = bank_loan
-		potential = {
-			tag = EGY
-			has_country_modifier = foreign_debt_timer
-		}
-
-		allow = {
-			money = 750000
-		}
-
-		effect = {
-			treasury = -750000
-			remove_country_modifier = foreign_debt_timer
-			any_country = {
-				limit = {
-					has_country_flag = lent_egypt
-				}
-				country_event = { id = 44463 days = 0 }
-			}
-			set_country_flag = paid_off_debt
-		}
-	}
+	
 
 	conquest_of_darfur = {
 		picture = darfur
