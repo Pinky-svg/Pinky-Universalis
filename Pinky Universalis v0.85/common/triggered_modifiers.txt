@@ -256,7 +256,7 @@ save_the_nation0.5  = {
 	
 	suppression_points_modifier = 0.10
 	
-	mobilisation_size = 0.005
+	mobilisation_size = 0.002
 	icon = 15
 }
 
@@ -269,7 +269,7 @@ save_the_nation1  = {
 	
 	suppression_points_modifier = 0.10
 	
-	mobilisation_size = 0.010
+	mobilisation_size = 0.005
 	icon = 15
 }
 
@@ -282,7 +282,7 @@ save_the_nation1.5  = {
 	
 	suppression_points_modifier = 0.10
 	
-	mobilisation_size = 0.015
+	mobilisation_size = 0.007
 	icon = 15
 }
 
@@ -295,7 +295,7 @@ save_the_nation2  = {
 	
 	suppression_points_modifier = 0.10
 	
-	mobilisation_size = 0.020
+	mobilisation_size = 0.010
 	icon = 15
 }
 
@@ -308,7 +308,7 @@ save_the_nation2.5  = {
 	
 	suppression_points_modifier = 0.10
 	
-	mobilisation_size = 0.025
+	mobilisation_size = 0.012
 	icon = 15
 }
 
@@ -321,7 +321,7 @@ save_the_nation3  = {
 	
 	suppression_points_modifier = 0.10
 	
-	mobilisation_size = 0.030
+	mobilisation_size = 0.015
 	icon = 15
 }
 
@@ -334,7 +334,7 @@ save_the_nation3.5  = {
 	
 	suppression_points_modifier = 0.10
 	
-	mobilisation_size = 0.035
+	mobilisation_size = 0.017
 	icon = 15
 }
 
@@ -347,7 +347,7 @@ save_the_nation4  = {
 	
 	suppression_points_modifier = 0.10
 	
-	mobilisation_size = 0.040
+	mobilisation_size = 0.020
 	icon = 15
 }
 
@@ -360,7 +360,7 @@ save_the_nation4.5  = {
 	
 	suppression_points_modifier = 0.10
 	
-	mobilisation_size = 0.045
+	mobilisation_size = 0.022
 	icon = 15
 }
 
@@ -372,7 +372,7 @@ save_the_nation5  = {
 	
 	suppression_points_modifier = 0.10
 	
-	mobilisation_size = 0.05
+	mobilisation_size = 0.025
 	icon = 15
 }
 
