@@ -245,23 +245,71 @@ vassal = {
 }
 
 #######################
-#       TURKEY        #
+#       Egypt       #
 #######################
 
-# Turkey-Anazah
+# Egypt-Anazah
 vassal = {
-	first = TUR
+	first = EGY
 	second = AZH
 	start_date = 1836.1.1
 	end_date = 1913.1.1
 }
 
-# Turkey-Bohtan
+# Egypt-Hedjaz
 vassal = {
-	first = TUR
-	second = BHT
+	first = EGY
+	second = HDJ
 	start_date = 1836.1.1
-	end_date = 1836.1.2
+	end_date = 1841.1.1
+}
+
+# Egypt-Hedjaz
+vassal = {
+	first = EGY
+	second = HAL
+	start_date = 1836.1.1
+	end_date = 1841.1.1
+}
+
+# Egypt-Hedjaz
+vassal = {
+	first = EGY
+	second = NEJ
+	start_date = 1836.1.1
+	end_date = 1841.1.1
+}
+
+# Egypt-Hedjaz
+vassal = {
+	first = EGY
+	second = ABU
+	start_date = 1836.1.1
+	end_date = 1841.1.1
+}
+
+# Egypt-Hedjaz
+vassal = {
+	first = EGY
+	second = OMA
+	start_date = 1836.1.1
+	end_date = 1841.1.1
+}
+
+# Egypt-Hedjaz
+vassal = {
+	first = EGY
+	second = YEM
+	start_date = 1836.1.1
+	end_date = 1841.1.1
+}
+
+# Egypt-Hedjaz
+vassal = {
+	first = EGY
+	second = NYE
+	start_date = 1836.1.1
+	end_date = 1841.1.1
 }
 
 #######################
@@ -334,14 +382,6 @@ vassal = {
 	second = LIB
 	start_date = 1822.1.1
 	end_date = 1836.1.2
-}
-
-# Egypt-Hedjaz
-vassal = {
-	first = EGY
-	second = HDJ
-	start_date = 1836.1.1
-	end_date = 1841.1.1
 }
 
 # Sokoto-Adamawa

@@ -1,763 +1,4 @@
 political_decisions = {
-#	test1 = {
-#		potential = { tag = SPC }
-#		allow = {
-#			ai = no
-#			is_cultural_union = no
-#		}
-#		effect = {
-#			create_vassal = MEX
-#			create_vassal = UCA
-#			create_vassal = ECU
-#			create_vassal = VNZ
-#			create_vassal = BOL
-#			create_vassal = PEU
-#			create_vassal = CHL
-#			create_vassal = ARC
-#			create_vassal = ENT
-#			create_vassal = CRT
-#			create_vassal = URU
-#			create_vassal = PRG
-#			create_vassal = CLM
-#			diplomatic_influence = {
-#				who = PBC
-#				value = 400
-#			}
-#		}
-#	}
-
-	reconquista_mex = {
-		picture = reconquista_mex
-		potential = {
-			OR = {
-				tag = SPC
-				AND = {
-					tag = SPA
-					has_global_flag = mp_1836_literacy_setup
-				}
-			}
-			OR = {
-				government = absolute_monarchy
-				government = prussian_constitutionalism
-				government = hms_government
-			}
-			NOT = { has_country_flag = mex_reconquista'd }
-		}
-		allow = {
-			MEX = {
-				all_core = {
-					OR = {
-						owner = {
-							war = no
-							OR = {
-								tag = THIS
-								OR = {
-									AND = {
-										in_sphere = THIS
-										ai = yes
-									}
-									vassal_of = THIS
-								}
-							}
-						}
-						is_core = TEX
-						is_core = USA
-						owned_by = TEX
-						owned_by = USA
-					}
-				}
-			}
-			UCA = {
-				all_core = {
-					OR = {
-						owner = {
-							war = no
-							OR = {
-								tag = THIS
-								OR = {
-									AND = {
-										in_sphere = THIS
-										ai = yes
-									}
-									vassal_of = THIS
-								}
-							}
-						}
-						province_id = 2190
-					}
-				}
-			}
-		}
-		effect = {
-			set_country_flag = mex_reconquista'd
-			any_country = {
-				limit = {
-					OR = {
-						in_sphere = THIS
-						vassal_of = THIS
-					}
-				}
-				any_owned = {
-					limit = {
-						OR = {
-							is_core = MEX
-							is_core = UCA
-						}
-					}
-					secede_province = THIS
-				}
-			}
-			release = MEX
-			any_country = {
-				limit = {
-					OR = {
-						in_sphere = THIS
-						vassal_of = THIS
-					}
-					OR = {
-						primary_culture = central_american
-						primary_culture = mayan
-					}
-				}
-				annex_to = THIS
-			}
-			UCA = { all_core = { add_core = MEX } }
-			## Audax Validator "." Ignore_NEXT
-			any_owned = {
-				limit = { has_building = province_selector }
-				province_selector = -1
-			}
-			any_owned = {
-				limit = { is_core = MEX }
-				secede_province = MEX
-			}
-			create_vassal = MEX
-			MEX = {
-				set_country_flag = spanish_vassal
-				government = colonial_company
-			}
-		}
-	}
-
-	reconquista_gco = {
-		picture = reconquista_gco
-		potential = {
-			OR = {
-				tag = SPC
-				AND = {
-					tag = SPA
-					has_global_flag = mp_1836_literacy_setup
-				}
-			}
-			OR = {
-				government = absolute_monarchy
-				government = prussian_constitutionalism
-				government = hms_government
-			}
-			NOT = { has_country_flag = gco_reconquista'd }
-		}
-		allow = {
-			ECU = {
-				all_core = {
-					owner = {
-						war = no
-						OR = {
-							tag = THIS
-							OR = {
-								AND = {
-									in_sphere = THIS
-									ai = yes
-								}
-								vassal_of = THIS
-							}
-						}
-					}
-				}
-			}
-			VNZ = {
-				all_core = {
-					owner = {
-						war = no
-						OR = {
-							tag = THIS
-							OR = {
-								AND = {
-									in_sphere = THIS
-									ai = yes
-								}
-								vassal_of = THIS
-							}
-						}
-					}
-				}
-			}
-			CLM = {
-				all_core = {
-					owner = {
-						war = no
-						OR = {
-							tag = THIS
-							OR = {
-								AND = {
-									in_sphere = THIS
-									ai = yes
-								}
-								vassal_of = THIS
-							}
-						}
-					}
-				}
-			}
-		}
-		effect = {
-			set_country_flag = gco_reconquista'd
-			any_country = {
-				limit = {
-					OR = {
-						in_sphere = THIS
-						vassal_of = THIS
-					}
-				}
-				any_owned = {
-					limit = {
-						OR = {
-							is_core = CLM
-							is_core = ECU
-							is_core = VNZ
-						}
-					}
-					secede_province = THIS
-				}
-			}
-			any_country = {
-				limit = {
-					OR = {
-						in_sphere = THIS
-						vassal_of = THIS
-					}
-					primary_culture = north_andean
-				}
-				annex_to = THIS
-			}
-			CLM = { all_core = { add_core = GCO } }
-			ECU = { all_core = { add_core = GCO } }
-			VNZ = { all_core = { add_core = GCO } }
-			## Audax Validator "." Ignore_NEXT
-			any_owned = {
-				limit = { has_building = province_selector }
-				province_selector = -1
-			}
-			release_vassal = GCO
-			GCO = {
-				set_country_flag = spanish_vassal
-				government = colonial_company
-			}
-		}
-	}
-
-	reconquista_pbc = {
-		picture = reconquista_pbc
-		potential = {
-			OR = {
-				tag = SPC
-				AND = {
-					tag = SPA
-					has_global_flag = mp_1836_literacy_setup
-				}
-			}
-			OR = {
-				government = absolute_monarchy
-				government = prussian_constitutionalism
-				government = hms_government
-			}
-			NOT = { has_country_flag = pbc_reconquista'd }
-		}
-		allow = {
-			PEU = {
-				all_core = {
-					owner = {
-						war = no
-						OR = {
-							tag = THIS
-							OR = {
-								AND = {
-									in_sphere = THIS
-									ai = yes
-								}
-								vassal_of = THIS
-							}
-						}
-					}
-				}
-			}
-			BOL = {
-				all_core = {
-					owner = {
-						war = no
-						OR = {
-							tag = THIS
-							OR = {
-								AND = {
-									in_sphere = THIS
-									ai = yes
-								}
-								vassal_of = THIS
-							}
-						}
-					}
-				}
-			}
-			CHL = {
-				all_core = {
-					owner = {
-						war = no
-						OR = {
-							tag = THIS
-							OR = {
-								AND = {
-									in_sphere = THIS
-									ai = yes
-								}
-								vassal_of = THIS
-							}
-						}
-					}
-				}
-			}
-		}
-		effect = {
-			set_country_flag = pbc_reconquista'd
-			any_country = {
-				limit = {
-					OR = {
-						in_sphere = THIS
-						vassal_of = THIS
-					}
-				}
-				any_owned = {
-					limit = {
-						OR = {
-							is_core = BOL
-							is_core = PEU
-							is_core = CHL
-							is_core = PBC
-						}
-						NOT = {
-							AND = {
-								owner = { tag = GCO }
-								state_id = 2288
-							}
-							AND = {
-								owner = { tag = LPL }
-								state_id = 2371
-							}
-						}
-					}
-					secede_province = THIS
-				}
-			}
-			any_country = {
-				limit = {
-					OR = {
-						in_sphere = THIS
-						vassal_of = THIS
-					}
-					primary_culture = south_andean
-				}
-				annex_to = THIS
-			}
-			BOL = { all_core = { add_core = PBC } }
-			PEU = { all_core = { add_core = PBC } }
-			CHL = { all_core = { add_core = PBC } }
-			## Audax Validator "." Ignore_NEXT
-			any_owned = {
-				limit = { has_building = province_selector }
-				province_selector = -1
-			}
-			any_owned = {
-				limit = { is_core = PBC }
-				secede_province = PBC
-			}
-			create_vassal = PBC
-			PBC = {
-				set_country_flag = spanish_vassal
-				government = colonial_company
-				inherit = PEU
-				inherit = BOL
-				inherit = CHL
-			}
-		}
-	}
-
-	reconquista_lpl = {
-		picture = reconquista_lpl
-		potential = {
-			OR = {
-				tag = SPC
-				AND = {
-					tag = SPA
-					has_global_flag = mp_1836_literacy_setup
-				}
-			}
-			OR = {
-				government = absolute_monarchy
-				government = prussian_constitutionalism
-				government = hms_government
-			}
-			NOT = { has_country_flag = lpl_reconquista'd }
-		}
-		allow = {
-			PRG = {
-				all_core = {
-					OR = {
-						owner = {
-							war = no
-							OR = {
-								tag = THIS
-								OR = {
-									AND = {
-										in_sphere = THIS
-										ai = yes
-									}
-									vassal_of = THIS
-								}
-							}
-						}
-						province_id = 2420
-					}
-				}
-			}
-			URU = {
-				all_core = {
-					owner = {
-						war = no
-						OR = {
-							tag = THIS
-							OR = {
-								AND = {
-									in_sphere = THIS
-									ai = yes
-								}
-								vassal_of = THIS
-							}
-						}
-					}
-				}
-			}
-			ARG = {
-				OR = {
-					exists = no
-					all_core = {
-						OR = {
-							owner = {
-								war = no
-								OR = {
-									tag = THIS
-									OR = {
-										AND = {
-											in_sphere = THIS
-											ai = yes
-										}
-										vassal_of = THIS
-									}
-								}
-							}
-							province_id = 2131
-						}
-					}
-				}
-			}
-			ARC = {
-				OR = {
-					exists = no
-					all_core = {
-						OR = {
-							owner = {
-								war = no
-								OR = {
-									tag = THIS
-									OR = {
-										AND = {
-											in_sphere = THIS
-											ai = yes
-										}
-										vassal_of = THIS
-									}
-								}
-							}
-							province_id = 2131
-						}
-					}
-				}
-			}
-			CRT = {
-				OR = {
-					exists = no
-					all_core = {
-						owner = {
-							war = no
-							OR = {
-								tag = THIS
-								OR = {
-									AND = {
-										in_sphere = THIS
-										ai = yes
-									}
-									vassal_of = THIS
-								}
-							}
-						}
-					}
-				}
-			}
-			ENT = {
-				OR = {
-					exists = no
-					all_core = {
-						owner = {
-							war = no
-							OR = {
-								tag = THIS
-								OR = {
-									AND = {
-										in_sphere = THIS
-										ai = yes
-									}
-									vassal_of = THIS
-								}
-							}
-						}
-					}
-				}
-			}
-			SBA = {
-				OR = {
-					exists = no
-					all_core = {
-						owner = {
-							war = no
-							OR = {
-								tag = THIS
-								OR = {
-									AND = {
-										in_sphere = THIS
-										ai = yes
-									}
-									vassal_of = THIS
-								}
-							}
-						}
-					}
-				}
-			}
-		}
-		effect = {
-			set_country_flag = lpl_reconquista'd
-			any_country = {
-				limit = {
-					OR = {
-						in_sphere = THIS
-						vassal_of = THIS
-					}
-				}
-				any_owned = {
-					limit = {
-						OR = {
-							is_core = ARC
-							is_core = ARG
-							is_core = CRT
-							is_core = ENT
-							is_core = PRG
-							is_core = SBA
-							is_core = URU
-						}
-						NOT = {
-							AND = {
-								owner = { tag = PBC }
-								state_id = 2315
-							}
-						}
-					}
-					secede_province = THIS
-				}
-			}
-			any_country = {
-				limit = {
-					OR = {
-						in_sphere = THIS
-						vassal_of = THIS
-					}
-					primary_culture = platinean
-				}
-				annex_to = THIS
-			}
-			ARC = { all_core = { add_core = LPL } }
-			ARG = { all_core = { add_core = LPL } }
-			CRT = { all_core = { add_core = LPL } }
-			ENT = { all_core = { add_core = LPL } }
-			PRG = { all_core = { add_core = LPL } }
-			SBA = { all_core = { add_core = LPL } }
-			URU = { all_core = { add_core = LPL } }
-			## Audax Validator "." Ignore_NEXT
-			any_owned = {
-				limit = { has_building = province_selector }
-				province_selector = -1
-			}
-			release_vassal = LPL
-			LPL = {
-				set_country_flag = spanish_vassal
-				government = colonial_company
-			}
-		}
-	}
-	
-	integrate_viceroyalty = {
-		picture = cross_of_burgundy
-		potential = {
-			OR = {
-				tag = SPC
-				AND = {
-					tag = SPA
-					has_global_flag = mp_1836_literacy_setup
-				}
-			}
-			OR = {
-				government = absolute_monarchy
-				government = prussian_constitutionalism
-				government = hms_government
-			}
-			OR = {
-				LPL = {
-					exists = yes
-					has_country_flag = spanish_vassal
-					government = colonial_company
-					all_core = {
-						owner = {
-							OR = {
-								vassal_of = THIS
-								tag = THIS
-							}
-						}
-					}
-				}
-				GCO = {
-					exists = yes
-					has_country_flag = spanish_vassal
-					government = colonial_company
-					all_core = {
-						owner = {
-							OR = {
-								vassal_of = THIS
-								tag = THIS
-							}
-						}
-					}
-				}
-				PBC = {
-					exists = yes
-					has_country_flag = spanish_vassal
-					government = colonial_company
-					all_core = {
-						owner = {
-							OR = {
-								vassal_of = THIS
-								tag = THIS
-							}
-						}
-					}
-				}
-				MEX = {
-					exists = yes
-					has_country_flag = spanish_vassal
-					government = colonial_company
-					all_core = {
-						owner = {
-							OR = {
-								vassal_of = THIS
-								tag = THIS
-							}
-						}
-					}
-				}
-			}
-		}
-		allow = {
-			revolution_n_counterrevolution = 1
-			OR = {
-				government = absolute_monarchy
-				government = prussian_constitutionalism
-				government = hms_government
-			}
-			war = no
-			OR = {
-				LPL = {
-					has_country_flag = spanish_vassal
-					government = colonial_company
-					all_core = {
-						owner = {
-							OR = {
-								vassal_of = THIS
-								tag = THIS
-							}
-						}
-					}
-				}
-				GCO = {
-					has_country_flag = spanish_vassal
-					government = colonial_company
-					all_core = {
-						owner = {
-							OR = {
-								vassal_of = THIS
-								tag = THIS
-							}
-						}
-					}
-				}
-				PBC = {
-					has_country_flag = spanish_vassal
-					government = colonial_company
-					all_core = {
-						owner = {
-							OR = {
-								vassal_of = THIS
-								tag = THIS
-							}
-						}
-					}
-				}
-				MEX = {
-					has_country_flag = spanish_vassal
-					government = colonial_company
-					all_core = {
-						owner = {
-							OR = {
-								vassal_of = THIS
-								tag = THIS
-							}
-						}
-					}
-				}
-			}
-		}
-		effect = {
-			any_country = {
-				limit = {
-					has_country_flag = spanish_vassal
-					vassal_of = THIS
-					government = colonial_company
-				}
-				all_core = { add_core = THIS }
-				annex_to = THIS
-			}
-			## Audax Validator "." Ignore_NEXT
-			any_owned = {
-				limit = { has_building = province_selector }
-				province_selector = -1
-			}
-		}
-	}
-
 	confiscations_of_mendizabal = {
 		potential = {
 			tag = SPA
@@ -1007,49 +248,49 @@ political_decisions = {
 		}
 	}
 
-	rif_war = {
-		picture = morocco
-		potential = {
-			owns = 1689
-			civilized = yes
-			MOR = {
-				owns = 1688
-				NOT = { owns = 1680 }
-			}
-			NOT = { tag = MOR }
-			NOT = { has_global_flag = rif_war }
-		}
-		allow = {
-			invention = colonial_negotiations
-			NOT = { truce_with = MOR }
-			war = no
-		}
-		effect = {
-			set_global_flag = rif_war
-			badboy = 1
-			any_greater_power = {
-				diplomatic_influence = {
-					who = MOR
-					value = -200
-				}
-				leave_alliance = MOR
-			}
-			war = {
-				target = MOR
-				attacker_goal = { casus_belli = acquire_state_free state_province_id = 1688 }
-			}
-			MOR = {
-				country_event = { id = 37722 days = 0 }
-			}
-		}
-		ai_will_do = {
-			factor = 1
-			modifier = {
-				factor = 0
-				badboy = 0.96
-			}
-		}
-	}
+#	rif_war = {
+#		picture = morocco
+#		potential = {
+#			owns = 1689
+#			civilized = yes
+#			MOR = {
+#				owns = 1688
+#				NOT = { owns = 1680 }
+#			}
+#			NOT = { tag = MOR }
+#			NOT = { has_global_flag = rif_war }
+#		}
+#		allow = {
+#			invention = colonial_negotiations
+#			NOT = { truce_with = MOR }
+#			war = no
+#		}
+#		effect = {
+#			set_global_flag = rif_war
+#			badboy = 1
+#			any_greater_power = {
+#				diplomatic_influence = {
+#					who = MOR
+#					value = -200
+#				}
+#				leave_alliance = MOR
+#			}
+#			war = {
+#				target = MOR
+#				attacker_goal = { casus_belli = acquire_state_free state_province_id = 1688 }
+#			}
+#			MOR = {
+#				country_event = { id = 37722 days = 0 }
+#			}
+#		}
+#		ai_will_do = {
+#			factor = 1
+#			modifier = {
+#				factor = 0
+#				badboy = 0.96
+#			}
+#		}
+#	}
 #Pinky
 	tetuan_war = {
 		picture = morocco
@@ -1060,6 +301,7 @@ political_decisions = {
 			MOR = {
 				owns = 1680
 			}
+			NOT = { year = 1840 }
 			NOT = { tag = MOR }
 			NOT = { has_global_flag = tetuan_war }
 		}
@@ -1108,112 +350,66 @@ political_decisions = {
             add_accepted_culture = berber
 			1680 = {
 				add_core = SPA
-				remove_core = ALD
-				remove_core = MOR
 			}
 			1681 = {
 				add_core = SPA
-				remove_core = ALD
-				remove_core = MOR
 			}
 			1682 = {
 				add_core = SPA
-				remove_core = ALD
-				remove_core = MOR
 			}
 			1683 = {
 				add_core = SPA
-				remove_core = ALD
-				remove_core = MOR
 			}
 			1684 = {
 				add_core = SPA
-				remove_core = ALD
-				remove_core = MOR
 			}
 			1685 = {
 				add_core = SPA
-				remove_core = ALD
-				remove_core = MOR
 			}
 			1686 = {
 				add_core = SPA
-				remove_core = ALD
-				remove_core = MOR
 			}
 			1687 = {
 				add_core = SPA
-				remove_core = ALD
-				remove_core = MOR
 			}
 			1688 = {
 				add_core = SPA
-				remove_core = ALD
-				remove_core = MOR
-			}
-			1689 = {
-				remove_core = ALD
-				remove_core = MOR
 			}
 			1690 = {
 				add_core = SPA
-				remove_core = ALD
-				remove_core = MOR
 			}
 			1691 = {
 				add_core = SPA
-				remove_core = ALD
-				remove_core = MOR
 			}
 			1692 = {
 				add_core = SPA
-				remove_core = ALD
-				remove_core = MOR
 			}
 			1693 = {
 				add_core = SPA
-				remove_core = ALD
-				remove_core = MOR
 			}
 			1694 = {
 				add_core = SPA
-				remove_core = ALD
-				remove_core = MOR
 			}
 			1695 = {
 				add_core = SPA
-				remove_core = ALD
-				remove_core = MOR
 			}
 			1696 = {
 				add_core = SPA
-				remove_core = ALD
-				remove_core = MOR
 			}
 			1697 = {
 				add_core = SPA
-				remove_core = ALD
-				remove_core = MOR
 			}
 			1698 = {
 				add_core = SPA
-				remove_core = ALD
-				remove_core = MOR
 			}
 			1699 = {
 				add_core = SPA
-				remove_core = ALD
-				remove_core = MOR
 			}
 			2563 = {
 				add_core = SPA
-				remove_core = ALD
-				remove_core = MOR
 			}
 			1720 = {
 				add_core = SPA
-				remove_core = ALD
-				remove_core = MOR
 			}
 		}
 	}

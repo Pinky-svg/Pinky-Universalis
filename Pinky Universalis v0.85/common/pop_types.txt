@@ -1103,8 +1103,6 @@ assimilation_chance =
 			location = {
 				NOT = {
 					OR = {
-						continent = north_america
-						continent = south_america
 						continent = oceania
 					}
 				}
@@ -1117,8 +1115,6 @@ assimilation_chance =
 			location = {
 				NOT = {
 					OR = {
-						continent = north_america
-						continent = south_america
 						continent = oceania
 					}
 				}
@@ -1131,8 +1127,6 @@ assimilation_chance =
 			location = {
 				NOT = {
 					OR = {
-						continent = north_america
-						continent = south_america
 						continent = oceania
 					}
 				}
@@ -1145,8 +1139,6 @@ assimilation_chance =
 			location = {
 				NOT = {
 					OR = {
-						continent = north_america
-						continent = south_america
 						continent = oceania
 					}
 				}
@@ -1158,13 +1150,6 @@ assimilation_chance =
 		factor = -20
 		militancy = 7
 	}
-	modifier = {
-		factor = -20
-		OR = {
-			is_culture_group = african_diaspora_cultures
-			is_culture_group = native_american
-		}
-	}
 
 	###NEW WORLD###
 	modifier = {
@@ -1172,14 +1157,18 @@ assimilation_chance =
 		NOT = { has_culture_core = yes }
 		location = {
 			OR = {
-				continent = north_america
-				continent = south_america
 				continent = oceania
 			}
 		}
 	}
 
 	###FLAGS###
+	modifier = {
+		factor = 10
+		has_culture_core = yes
+		has_pop_culture = berber
+		country = { has_country_flag = algeria_has_been_integrated }
+	}
 	modifier = {
 		factor = 8
 		has_culture_core = yes

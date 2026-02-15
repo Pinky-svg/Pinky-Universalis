@@ -2,7 +2,7 @@ political_decisions = {
 	integrating_algeria = {
 		potential = {
 			NOT = {
-				has_global_flag = algeria_has_been_integrated
+				has_country_flag = algeria_has_been_integrated
 			}
 			tag = FRA
 		}
@@ -15,107 +15,70 @@ political_decisions = {
 		}
 		
 		effect = {
-			set_global_flag = algeria_has_been_integrated
+			set_country_flag = algeria_has_been_integrated
 			1700 = {
 				add_core = FRA
-				remove_core = ALD
-				remove_core = MOR
+				add_province_modifier = { name = algeria_assim }
 			}
 			1701 = {
 				add_core = FRA
-				remove_core = ALD
-				remove_core = MOR
+				add_province_modifier = { name = algeria_assim }
 			}
 			1702 = {
 				add_core = FRA
-				remove_core = ALD
-				remove_core = MOR
+				add_province_modifier = { name = algeria_assim }
 			}
 			1703 = {
 				add_core = FRA
-				remove_core = ALD
-				remove_core = MOR
+				add_province_modifier = { name = algeria_assim }
 			}
 			1704 = {
 				add_core = FRA
-				remove_core = ALD
-				remove_core = MOR
+				add_province_modifier = { name = algeria_assim }
 			}
 			1705 = {
 				add_core = FRA
-				remove_core = ALD
-				remove_core = MOR
+				add_province_modifier = { name = algeria_assim }
 			}
 			1706 = {
 				add_core = FRA
-				remove_core = ALD
-				remove_core = MOR
+				add_province_modifier = { name = algeria_assim }
 			}
 			1707 = {
 				add_core = FRA
-				remove_core = ALD
-				remove_core = MOR
+				add_province_modifier = { name = algeria_assim }
 			}
 			1708 = {
 				add_core = FRA
-				remove_core = ALD
-				remove_core = MOR
+				add_province_modifier = { name = algeria_assim }
 			}
 			1709 = {
 				add_core = FRA
-				remove_core = ALD
-				remove_core = MOR
+				add_province_modifier = { name = algeria_assim }
 			}
 			1710 = {
 				add_core = FRA
-				remove_core = ALD
-				remove_core = MOR
+				add_province_modifier = { name = algeria_assim }
 			}
 			1712 = {
 				add_core = FRA
-				remove_core = ALD
-				remove_core = MOR
+				add_province_modifier = { name = algeria_assim }
 			}
 			1713 = {
 				add_core = FRA
-				remove_core = ALD
-				remove_core = MOR
+				add_province_modifier = { name = algeria_assim }
 			}
 			1715 = {
 				add_core = FRA
-				remove_core = ALD
-				remove_core = MOR
+				add_province_modifier = { name = algeria_assim }
 			}
 			1717 = {
 				add_core = FRA
-				remove_core = ALD
-				remove_core = MOR
+				add_province_modifier = { name = algeria_assim }
 			}
 			1721 = {
 				add_core = FRA
-				remove_core = ALD
-				remove_core = MOR
-			}
-			1711 = {
-				remove_core = ALD
-			}
-			1714 = {
-				remove_core = ALD
-			}
-			1716 = {
-				remove_core = ALD
-			}
-			1718 = {
-				remove_core = ALD
-			}			
-			1719 = {
-				remove_core = ALD
-			}
-			1722 = {
-				remove_core = ALD
-			}			
-			1724 = {
-				remove_core = ALD
+				add_province_modifier = { name = algeria_assim }
 			}
 		}
 	}

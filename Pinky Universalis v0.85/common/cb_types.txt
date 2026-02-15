@@ -5596,11 +5596,26 @@ oriental_war = {
 		}
 		release_vassal = HDJ
 		release_vassal = HAL
-		civilized = yes
+		release_vassal = AZH
+		release_vassal = NEJ
+		release_vassal = ABU
+		release_vassal = OMA
+		release_vassal = YEM
+		release_vassal = NYE
+		THIS = {
+			create_vassal = HDJ
+			create_vassal = HAL
+			create_vassal = AZH
+			create_vassal = NEJ
+			create_vassal = ABU
+			create_vassal = OMA
+			create_vassal = YEM
+			create_vassal = NYE
+		}
 		#all_core = {
 		#	add_core = THIS
 		#}
-		#THIS = {
+		#
 		#	inherit = EGY
 		#	create_vassal = HDJ
 		#	any_owned = {

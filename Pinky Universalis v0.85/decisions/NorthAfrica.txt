@@ -65,32 +65,9 @@ political_decisions = {
 			set_global_flag = iberia_mor
 			add_accepted_culture = spanish
 			add_accepted_culture = portuguese
-			511 = {
-				remove_core = SPA
-			}
-			509 = {
-				remove_core = SPA
-			}
-			510 = {
-				remove_core = SPA
-			}
-			512 = {
-				remove_core = SPA
-			}
-			514 = {
-				remove_core = SPA
-			}
-			513 = {
-				remove_core = SPA
-			}
-			516 = {
-				remove_core = SPA
-			}
-			515 = {
-				remove_core = SPA
-			}
 		}
 	}
+	
 	accept_west_africa_ald = {
 		potential = {
 			NOT = {

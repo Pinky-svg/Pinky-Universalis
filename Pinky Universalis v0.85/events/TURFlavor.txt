@@ -266,7 +266,6 @@ country_event = {
 		HDJ = {
 			all_core = { remove_core = TUR }
 		}
-		TUR = { release_vassal = AZH }
     }
 }
 

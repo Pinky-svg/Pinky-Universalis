@@ -109,7 +109,11 @@ political_decisions = {
 			SUD = {
 				all_core = { owned_by = THIS }
 			}
-			revolution_n_counterrevolution = 1
+			OR = {
+				has_global_flag = mahdist_revolt
+				year = 1885
+			}
+			war = no
 		}
 
 		effect = {
@@ -122,42 +126,42 @@ political_decisions = {
 		}
 	}
 
-	egyptian_protectorate = {
-		picture = egyptian_sultanate
-		potential = {
-			has_country_flag = lent_egypt
-			EGY = {
-				vassal_of = THIS
-			}
-		}
-
-		allow = {
-			has_global_flag = mahdist_revolt
-			government_interventionism = 1
-			is_sphere_leader_of = EGY
-			is_our_vassal = EGY
-			war = no
-			money = 4000000
-			EGY = { ai = yes }
-			NOT = { badboy = 1 }
-		}
-		## Audax Validator "." Ignore_NEXT
-		effect = {
-			badboy = 10
-			treasury = -2000000
-			treasury = -2000000
-			inherit = EGY
-			## Audax Validator "." Ignore_NEXT
-			any_owned = {
-				limit = { has_building = province_selector }
-				province_selector = -1
-			}
-			EGY = {
-				all_core = {
-					limit = { owned_by = THIS }
-					add_province_modifier = { name = nationalist_agitation duration = 3650 }
-				}
-			}
-		}
-	}
+#	egyptian_protectorate = {
+#		picture = egyptian_sultanate
+#		potential = {
+#			has_country_flag = lent_egypt
+#			EGY = {
+#				vassal_of = THIS
+#			}
+#		}
+#
+#		allow = {
+#			has_global_flag = mahdist_revolt
+#			government_interventionism = 1
+#			is_sphere_leader_of = EGY
+#			is_our_vassal = EGY
+#			war = no
+#			money = 4000000
+#			EGY = { ai = yes }
+#			NOT = { badboy = 1 }
+#		}
+#		## Audax Validator "." Ignore_NEXT
+#		effect = {
+#			badboy = 10
+#			treasury = -2000000
+#			treasury = -2000000
+#			inherit = EGY
+#			## Audax Validator "." Ignore_NEXT
+#			any_owned = {
+#				limit = { has_building = province_selector }
+#				province_selector = -1
+#			}
+#			EGY = {
+#				all_core = {
+#					limit = { owned_by = THIS }
+#					add_province_modifier = { name = nationalist_agitation duration = 3650 }
+#				}
+#			}
+#		}
+#	}
 }

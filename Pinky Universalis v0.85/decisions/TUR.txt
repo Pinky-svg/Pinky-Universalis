@@ -9,6 +9,7 @@ political_decisions = {
 
 		allow = {
 			war = no
+			NOT = { year = 1840 }
 		}
 
 		effect = {
@@ -220,21 +221,37 @@ political_decisions = {
 	integrate_annazah = {
         picture = map_arabia
         potential = {
-			tag = TUR
+			OR = {
+				tag = TUR
+				tag = EGY
+			}
 			AZH = { vassal_of = THIS }
 			NOT = { has_country_flag = annazah_eaten }
         }
         allow = {
-			neighbour = AZH
 			inorganic_chemistry = 1
 			is_our_vassal = AZH
+			is_our_vassal = HDJ
+			is_our_vassal = HAL
+			is_our_vassal = NEJ
+			is_our_vassal = ABU
+			is_our_vassal = OMA
+			is_our_vassal = YEM
+			is_our_vassal = NYE
 			AZH = { ai = yes }
 			war = no
-			has_recently_lost_war = no
         }
         effect = {
 			set_country_flag = annazah_eaten
             inherit = AZH
+            inherit = HDJ
+            inherit = HAL
+            inherit = AZH
+            inherit = NEJ
+            inherit = ABU
+            inherit = OMA
+            inherit = YEM
+            inherit = NYE
 			## Audax Validator "." Ignore_NEXT
 			any_owned = {
 				limit = { has_building = province_selector }

@@ -1180,6 +1180,12 @@ taxing_eic = {
 
 
 #### FRA - France ####
+
+algeria_assim = {
+	assimilation_rate = 50
+	icon = 9
+}
+
 the_french_foreign_legion = {
 	prestige = 0.05
 	global_immigrant_attract = 0.01	#1%..
