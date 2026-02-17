@@ -92,6 +92,39 @@ political_decisions = {
 			badboy = 3
 		}
 	}
+	
+	conquest_of_equatoria = {
+		picture = darfur
+		potential = {
+			NOT = { has_global_flag = conquest_of_equatoria }
+			exists = SSD
+			neighbour = SSD
+			EGY_1827 = { owned_by = THIS }
+			is_vassal = no
+		}
+
+		allow = {
+			neighbour = SSD
+			OR = {
+				AND = {
+					ai = yes
+					year = 1860
+				}
+				nationalism_n_imperialism = 1
+			}
+			war = no
+		}
+
+		effect = {
+			set_global_flag = conquest_of_equatoria
+			war = {
+				target = SSD
+				attacker_goal = { casus_belli = conquest_free }
+				call_ally = yes
+			}
+			badboy = 3
+		}
+	}
 
 	embrace_sudanese_minority = {
 		picture = sudanese_merchant

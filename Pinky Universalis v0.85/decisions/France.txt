@@ -18,67 +18,67 @@ political_decisions = {
 			set_country_flag = algeria_has_been_integrated
 			1700 = {
 				add_core = FRA
-				add_province_modifier = { name = algeria_assim }
+				add_province_modifier = { name = algeria_assim duration = 36500 }
 			}
 			1701 = {
 				add_core = FRA
-				add_province_modifier = { name = algeria_assim }
+				add_province_modifier = { name = algeria_assim duration = 36500 }
 			}
 			1702 = {
 				add_core = FRA
-				add_province_modifier = { name = algeria_assim }
+				add_province_modifier = { name = algeria_assim duration = 36500 }
 			}
 			1703 = {
 				add_core = FRA
-				add_province_modifier = { name = algeria_assim }
+				add_province_modifier = { name = algeria_assim duration = 36500 }
 			}
 			1704 = {
 				add_core = FRA
-				add_province_modifier = { name = algeria_assim }
+				add_province_modifier = { name = algeria_assim duration = 36500 }
 			}
 			1705 = {
 				add_core = FRA
-				add_province_modifier = { name = algeria_assim }
+				add_province_modifier = { name = algeria_assim duration = 36500 }
 			}
 			1706 = {
 				add_core = FRA
-				add_province_modifier = { name = algeria_assim }
+				add_province_modifier = { name = algeria_assim duration = 36500 }
 			}
 			1707 = {
 				add_core = FRA
-				add_province_modifier = { name = algeria_assim }
+				add_province_modifier = { name = algeria_assim duration = 36500 }
 			}
 			1708 = {
 				add_core = FRA
-				add_province_modifier = { name = algeria_assim }
+				add_province_modifier = { name = algeria_assim duration = 36500 }
 			}
 			1709 = {
 				add_core = FRA
-				add_province_modifier = { name = algeria_assim }
+				add_province_modifier = { name = algeria_assim duration = 36500 }
 			}
 			1710 = {
 				add_core = FRA
-				add_province_modifier = { name = algeria_assim }
+				add_province_modifier = { name = algeria_assim duration = 36500 }
 			}
 			1712 = {
 				add_core = FRA
-				add_province_modifier = { name = algeria_assim }
+				add_province_modifier = { name = algeria_assim duration = 36500 }
 			}
 			1713 = {
 				add_core = FRA
-				add_province_modifier = { name = algeria_assim }
+				add_province_modifier = { name = algeria_assim duration = 36500 }
 			}
 			1715 = {
 				add_core = FRA
-				add_province_modifier = { name = algeria_assim }
+				add_province_modifier = { name = algeria_assim duration = 36500 }
 			}
 			1717 = {
 				add_core = FRA
-				add_province_modifier = { name = algeria_assim }
+				add_province_modifier = { name = algeria_assim duration = 36500 }
 			}
 			1721 = {
 				add_core = FRA
-				add_province_modifier = { name = algeria_assim }
+				add_province_modifier = { name = algeria_assim duration = 36500 }
 			}
 		}
 	}
@@ -231,44 +231,6 @@ political_decisions = {
 		}
 	}
 	
-	end_the_merina_monarchy = {
-		potential = {
-			OR = {
-				has_country_flag = lambert_has_been_chartered
-				MAD = {
-					in_sphere = FRA
-					civilized = no
-			}
-				}
-			NOT = {
-				has_country_flag = merina_monarchy_is_over
-			}
-			exists = MAD
-			MAD = { ai = yes }
-			tag = FRA
-		}
-		
-		allow = {
-			MAD = {
-				in_sphere = FRA
-				civilized = no
-				war = no
-			}
-			invention = mission_to_civilize
-			invention = manifest_destiny
-			war = no
-		}
-		
-		effect = {
-			inherit = MAD
-			## Audax Validator "." Ignore_NEXT
-			any_owned = {
-				limit = { has_building = province_selector }
-				province_selector = -1
-			}
-			set_country_flag = merina_monarchy_is_over
-		}
-	}
 	
 	brazzas_expedition = {
 		potential = {
@@ -618,128 +580,128 @@ political_decisions = {
 		}
 	}
 
-	franco_moroccan_war = {
-		picture = bombardment_of_tangiers
-		potential = {
-			tag = FRA
-			owns = 1700
-			owns = 1707
-			MOR = { owns = 1720 }
-			NOT = { has_country_flag = franco_moroccan_war }
-		}
-
-		allow = {
-			NOT = { truce_with = MOR }
-			war = no
-		}
-
-		effect = {
-			set_country_flag = franco_moroccan_war
-			badboy = 1
-			any_greater_power = {
-				diplomatic_influence = {
-					who = MOR
-					value = -200
-				}
-				leave_alliance = MOR
-			}
-			war = {
-				target = MOR
-				attacker_goal = { casus_belli = demand_concession_casus_belli_free state_province_id = 1720 }
-			}
-			MOR = {
-				country_event = { id = 37232 days = 0 }
-			}
-		}
-		ai_will_do = {
-			factor = 1
-			modifier = {
-				factor = 0
-				badboy = 0.96
-			}
-		}
-	}
-
-	conquest_of_morocco = {
-		picture = morocco
-		potential = {
-			civilized = yes
-			OR = {
-				AND = {
-					owns = 1720
-					MOR = {
-						owns = 1684
-					}
-				}
-				AND = {
-					owns = 1684
-					MOR = {
-						owns = 1680
-					}
-				}
-			}
-			NOT = { has_global_flag = conquest_of_morocco }
-			capital_scope = { continent = europe }
-		}
-
-		allow = {
-			invention = colonial_negotiations
-			NOT = { truce_with = MOR }
-			war = no
-		}
-
-		effect = {
-			set_global_flag = conquest_of_morocco
-			badboy = 5
-			any_greater_power = {
-				diplomatic_influence = {
-					who = MOR
-					value = -200
-				}
-				leave_alliance = MOR
-			}
-			random_owned = {
-				limit = {
-					owner = {
-						owns = 1720
-						NOT = { owns = 1684 }
-					}
-				}
-				owner = {
-					war = {
-						target = MOR
-						attacker_goal = { casus_belli = acquire_state_free state_province_id = 1684 }
-						attacker_goal = { casus_belli = acquire_state_free state_province_id = 1680 }
-						attacker_goal = { casus_belli = acquire_state_free state_province_id = 1690 }
-					}
-				}
-			}
-			random_owned = {
-				limit = {
-					owner = {
-						owns = 1684
-					}
-				}
-				owner = {
-					war = {
-						target = MOR
-						attacker_goal = { casus_belli = acquire_state_free state_province_id = 1680 }
-						attacker_goal = { casus_belli = acquire_state_free state_province_id = 1690 }
-						attacker_goal = { casus_belli = acquire_state_free state_province_id = 1720 }
-					}
-				}
-			}
-			MOR = {
-				country_event = { id = 37233 days = 0 }
-			}
-		}
-		ai_will_do = {
-			factor = 1
-			modifier = {
-				factor = 0
-				badboy = 0.8
-			}
-		}
-	}
+#	franco_moroccan_war = {
+#		picture = bombardment_of_tangiers
+#		potential = {
+#			tag = FRA
+#			owns = 1700
+#			owns = 1707
+#			MOR = { owns = 1720 }
+#			NOT = { has_country_flag = franco_moroccan_war }
+#		}
+#
+#		allow = {
+#			NOT = { truce_with = MOR }
+#			war = no
+#		}
+#
+#		effect = {
+#			set_country_flag = franco_moroccan_war
+#			badboy = 1
+#			any_greater_power = {
+#				diplomatic_influence = {
+#					who = MOR
+#					value = -200
+#				}
+#				leave_alliance = MOR
+#			}
+#			war = {
+#				target = MOR
+#				attacker_goal = { casus_belli = demand_concession_casus_belli_free state_province_id = 1720 }
+#			}
+#			MOR = {
+#				country_event = { id = 37232 days = 0 }
+#			}
+#		}
+#		ai_will_do = {
+#			factor = 1
+#			modifier = {
+#				factor = 0
+#				badboy = 0.96
+#			}
+#		}
+#	}
+#
+#	conquest_of_morocco = {
+#		picture = morocco
+#		potential = {
+#			civilized = yes
+#			OR = {
+#				AND = {
+#					owns = 1720
+#					MOR = {
+#						owns = 1684
+#					}
+#				}
+#				AND = {
+#					owns = 1684
+#					MOR = {
+#						owns = 1680
+#					}
+#				}
+#			}
+#			NOT = { has_global_flag = conquest_of_morocco }
+#			capital_scope = { continent = europe }
+#		}
+#
+#		allow = {
+#			invention = colonial_negotiations
+#			NOT = { truce_with = MOR }
+#			war = no
+#		}
+#
+#		effect = {
+#			set_global_flag = conquest_of_morocco
+#			badboy = 5
+#			any_greater_power = {
+#				diplomatic_influence = {
+#					who = MOR
+#					value = -200
+#				}
+#				leave_alliance = MOR
+#			}
+#			random_owned = {
+#				limit = {
+#					owner = {
+#						owns = 1720
+#						NOT = { owns = 1684 }
+#					}
+#				}
+#				owner = {
+#					war = {
+#						target = MOR
+#						attacker_goal = { casus_belli = acquire_state_free state_province_id = 1684 }
+#						attacker_goal = { casus_belli = acquire_state_free state_province_id = 1680 }
+#						attacker_goal = { casus_belli = acquire_state_free state_province_id = 1690 }
+#					}
+#				}
+#			}
+#			random_owned = {
+#				limit = {
+#					owner = {
+#						owns = 1684
+#					}
+#				}
+#				owner = {
+#					war = {
+#						target = MOR
+#						attacker_goal = { casus_belli = acquire_state_free state_province_id = 1680 }
+#						attacker_goal = { casus_belli = acquire_state_free state_province_id = 1690 }
+#						attacker_goal = { casus_belli = acquire_state_free state_province_id = 1720 }
+#					}
+#				}
+#			}
+#			MOR = {
+#				country_event = { id = 37233 days = 0 }
+#			}
+#		}
+#		ai_will_do = {
+#			factor = 1
+#			modifier = {
+#				factor = 0
+#				badboy = 0.8
+#			}
+#		}
+#	}
 
 }

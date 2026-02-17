@@ -1,0 +1,10 @@
+To Dos:
+Mine Expansion on addet Coal, Iro, Sulpher -> add "terrain = mountain_mine" und Pops zu artisans 
+zbankers = {
+		culture = french
+		religion = catholic
+		size = 10000
+	}
+remove bookmark
+remove Amarican decisions, events and stuff
+SAF 50 infamy after taking Boar states in 1880
