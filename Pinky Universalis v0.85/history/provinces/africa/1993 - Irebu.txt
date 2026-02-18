@@ -3,6 +3,7 @@ controller = KON
 add_core = KON
 trade_goods = iron
 life_rating = 35
+terrain = jungle_mine
 1913.1.1 = {
 	owner = BEL
 	controller = BEL

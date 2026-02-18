@@ -30,7 +30,7 @@
 	artisans = {
 		culture = somali
 		religion = sunni
-		size = 4350
+		size = 110350
 	}
 
 	soldiers = {
@@ -42,7 +42,7 @@
 	zbankers = {
 		culture = somali
 		religion = sunni
-		size = 116000
+		size = 10000
 	}
 
 	slaves = {

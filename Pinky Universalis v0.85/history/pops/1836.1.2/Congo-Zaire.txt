@@ -348,7 +348,7 @@
     artisans = {
         culture = forest_bantu
         religion = animist
-        size = 8540
+        size = 310472
     }
 
     soldiers = {
@@ -360,7 +360,7 @@
     zbankers = {
         culture = forest_bantu
         religion = animist
-        size = 311932
+        size = 10000
     }
 
     slaves = {
@@ -464,7 +464,7 @@
     artisans = {
         culture = forest_bantu
         religion = animist
-        size = 4364
+        size = 331194
     }
 
     soldiers = {
@@ -476,7 +476,7 @@
     zbankers = {
         culture = forest_bantu
         religion = animist
-        size = 336830
+        size = 10000
     }
 
     slaves = {

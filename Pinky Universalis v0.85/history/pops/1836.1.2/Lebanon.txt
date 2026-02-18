@@ -125,7 +125,7 @@
     artisans = {
         culture = mashriqi
         religion = sunni
-        size = 3500
+        size = 13500
     }
 
     soldiers = {
@@ -137,7 +137,7 @@
     zbankers = {
         culture = mashriqi
         religion = sunni
-        size = 20000
+        size = 10000
     }
 }
 #Sidon (84000/21000 POPS)

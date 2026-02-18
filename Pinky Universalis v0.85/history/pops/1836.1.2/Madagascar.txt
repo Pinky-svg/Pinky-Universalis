@@ -55,7 +55,7 @@
 	artisans = {
 		culture = malagasy
 		religion = animist
-		size = 20000
+		size = 30000
 	}
 
 	artisans = {
@@ -97,7 +97,7 @@
 	zbankers = {
 		culture = malagasy
 		religion = animist
-		size = 20000
+		size = 10000
 	}
 }
 #Tolanaro (176000/44000 POPS)

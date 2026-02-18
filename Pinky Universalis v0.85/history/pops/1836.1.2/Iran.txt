@@ -30,7 +30,7 @@
     artisans = {
         culture = persian
 		religion = sunni
-        size = 20000
+        size = 30000
     }
 
     artisans = {
@@ -150,7 +150,7 @@
     zbankers = {
         culture = persian
 		religion = sunni
-        size = 20000
+        size = 10000
     }
 
     clergymen = {
@@ -1198,7 +1198,7 @@
 	artisans = {
 		culture = persian
 		religion = sunni
-		size = 20000
+		size = 24000
 	}
 
 	artisans = {
@@ -1216,7 +1216,7 @@
 	zbankers = {
 		culture = persian
 		religion = sunni
-		size = 14000
+		size = 10000
 	}
 	
 	aristocrats = {
@@ -1410,7 +1410,7 @@
 	artisans = {
 		culture = persian
 		religion = sunni
-		size = 20000
+		size = 30000
 	}
 
 	artisans = {
@@ -1428,7 +1428,7 @@
 	zbankers = {
 		culture = persian
 		religion = sunni
-		size = 20000
+		size = 10000
 	}
 }
 #Isfahan Region (700000)
@@ -1548,7 +1548,7 @@
 	artisans = {
 		culture = persian
 		religion = sunni
-		size = 20000
+		size = 30000
 	}
 
 	artisans = {
@@ -1584,7 +1584,7 @@
 	zbankers = {
 		culture = persian
 		religion = sunni
-		size = 20000
+		size = 10000
 	}
 }
 #Kashan (112000/28000 POPS)
@@ -1648,7 +1648,7 @@
 	artisans = {
 		culture = persian
 		religion = sunni
-		size = 20000
+		size = 30000
 	}
 
 	artisans = {
@@ -1672,7 +1672,7 @@
 	zbankers = {
 		culture = persian
 		religion = sunni
-		size = 20000
+		size = 10000
 	}
 
 	clergymen = {
@@ -2128,7 +2128,7 @@
     artisans = {
         culture = persian
         religion = sunni
-        size = 20000
+        size = 30000
     }
 
     artisans = {
@@ -2152,7 +2152,7 @@
     zbankers = {
         culture = persian
         religion = sunni
-        size = 20000
+        size = 10000
     }
 }
 #Kangan (48000/12000 POPS)
@@ -2641,7 +2641,7 @@
 	artisans = {
 		culture = persian
 		religion = sunni
-		size = 20000
+		size = 30000
 	}
 
 	artisans = {
@@ -2689,7 +2689,7 @@
 	zbankers = {
 		culture = persian
 		religion = sunni
-		size = 20000
+		size = 10000
 	}
 
 	aristocrats = {
@@ -2795,7 +2795,7 @@
 	artisans = {
 		culture = persian
 		religion = sunni
-		size = 20000
+		size = 28000
 	}
 
 	artisans = {
@@ -2813,7 +2813,7 @@
 	zbankers = {
 		culture = persian
 		religion = sunni
-		size = 18000
+		size = 10000
 	}
 	
 	aristocrats = {
@@ -2900,7 +2900,7 @@
 	artisans = {
 		culture = turkmen
 		religion = sunni
-		size = 20000
+		size = 28000
 	}
 
 	artisans = {
@@ -2924,7 +2924,7 @@
 	zbankers = {
 		culture = turkmen
 		religion = sunni
-		size = 18000
+		size = 10000
 	}
 }
 

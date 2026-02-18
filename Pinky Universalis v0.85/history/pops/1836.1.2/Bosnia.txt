@@ -285,7 +285,7 @@
     artisans = {
         culture = serb
         religion = orthodox
-        size = 20000
+        size = 30000
     }
 
     artisans = {
@@ -303,7 +303,7 @@
     zbankers = {
         culture = serb
         religion = orthodox
-        size = 20000
+        size = 10000
     }
 }
 #Mostar (104000/26000 POPS)

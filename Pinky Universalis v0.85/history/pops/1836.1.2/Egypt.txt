@@ -869,7 +869,7 @@
 	artisans = {
 		culture = mashriqi
 		religion = sunni
-		size = 2860
+		size = 12860
 	}
 
 	soldiers = {
@@ -881,7 +881,7 @@
 	zbankers = {
 		culture = mashriqi
 		religion = sunni
-		size = 20000
+		size = 10000
 	}
 }
 #Luxor (68000/17000 POPS)

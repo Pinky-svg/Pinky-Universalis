@@ -413,7 +413,7 @@
     artisans = {
         culture = berber
         religion = sunni
-        size = 20000
+        size = 30000
     }
 
     artisans = {
@@ -443,7 +443,7 @@
     zbankers = {
         culture = berber
         religion = sunni
-        size = 20000
+        size = 10000
     }
 
     artisans = {
@@ -616,7 +616,7 @@
     artisans = {
         culture = berber
         religion = sunni
-        size = 20000
+        size = 30000
     }
 
     artisans = {
@@ -652,7 +652,7 @@
     zbankers = {
         culture = berber
         religion = sunni
-        size = 20000
+        size = 10000
     }
 
     clergymen = {
@@ -684,7 +684,7 @@
     artisans = {
         culture = berber
         religion = sunni
-        size = 20000
+        size = 30000
     }
 
     artisans = {
@@ -714,7 +714,7 @@
     zbankers = {
         culture = berber
         religion = sunni
-        size = 20000
+        size = 10000
     }
 }
 #Wargla Region (152000)

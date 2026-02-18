@@ -469,7 +469,7 @@
     artisans = {
         culture = cushitic
         religion = sunni
-        size = 1176
+        size = 12402
     }
 
     soldiers = {
@@ -481,7 +481,7 @@
     zbankers = {
         culture = cushitic
         religion = sunni
-        size = 21226
+        size = 10000
     }
 
     slaves = {
@@ -608,7 +608,7 @@
     artisans = {
         culture = cushitic
         religion = sunni
-        size = 7770
+        size = 159932
     }
 
     soldiers = {
@@ -620,7 +620,7 @@
     zbankers = {
         culture = cushitic
         religion = sunni
-        size = 162162
+        size = 10000
     }
 
     slaves = {

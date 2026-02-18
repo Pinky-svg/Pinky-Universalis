@@ -142,7 +142,7 @@
     artisans = {
         culture = amhara
         religion = coptic
-        size = 3920
+        size = 64970
     }
 
     soldiers = {
@@ -154,7 +154,7 @@
     zbankers = {
         culture = amhara
         religion = coptic
-        size = 71050
+        size = 10000
     }
 }
 #Akordat (28000/7000 POPS)

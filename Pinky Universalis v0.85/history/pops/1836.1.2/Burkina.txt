@@ -141,7 +141,7 @@
     artisans = {
         culture = mossi
         religion = animist
-        size = 5084
+        size = 87350
     }
 
     soldiers = {
@@ -153,7 +153,7 @@
     zbankers = {
         culture = mossi
         religion = animist
-        size = 92266
+        size = 10000
     }
 
     slaves = {

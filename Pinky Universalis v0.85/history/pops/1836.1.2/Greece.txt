@@ -454,7 +454,7 @@
     artisans = {
         culture = greek
         religion = orthodox
-        size = 20000
+        size = 30000
     }
 
     artisans = {
@@ -484,7 +484,7 @@
     zbankers = {
         culture = greek
         religion = orthodox
-        size = 20000
+        size = 10000
     }
 
     aristocrats = {
@@ -1385,7 +1385,7 @@
     artisans = {
         culture = greek
         religion = orthodox
-        size = 20000
+        size = 30000
     }
 
     artisans = {
@@ -1409,7 +1409,7 @@
     zbankers = {
         culture = greek
         religion = orthodox
-        size = 20000
+        size = 10000
     }
 }
 #Khalkis (68000/17000 POPS)

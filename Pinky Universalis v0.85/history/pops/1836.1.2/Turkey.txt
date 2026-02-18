@@ -1287,7 +1287,7 @@
     artisans = {
         culture = turkish
         religion = sunni
-        size = 20000
+        size = 22000
     }
 
     artisans = {
@@ -1323,7 +1323,7 @@
     zbankers = {
         culture = turkish
         religion = sunni
-        size = 12000
+        size = 10000
     }
 
     soldiers = {
@@ -1367,7 +1367,7 @@
     artisans = {
         culture = turkish
         religion = sunni
-        size = 20000
+        size = 22000
     }
 
     soldiers = {
@@ -1379,7 +1379,7 @@
     zbankers = {
         culture = turkish
         religion = sunni
-        size = 12000
+        size = 10000
     }
 
     soldiers = {
@@ -2061,7 +2061,7 @@
     artisans = {
         culture = turkish
         religion = sunni
-        size = 20000
+        size = 26000
     }
 
     artisans = {
@@ -2103,7 +2103,7 @@
     zbankers = {
         culture = turkish
         religion = sunni
-        size = 16000
+        size = 10000
     }
 
     aristocrats = {
@@ -2159,7 +2159,7 @@
     artisans = {
         culture = turkish
         religion = sunni
-        size = 20000
+        size = 28000
     }
 
     artisans = {
@@ -2177,7 +2177,7 @@
     zbankers = {
         culture = turkish
         religion = sunni
-        size = 18000
+        size = 10000
     }
 
     soldiers = {

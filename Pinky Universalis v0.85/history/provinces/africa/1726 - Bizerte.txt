@@ -5,6 +5,7 @@ add_core = ALD
 add_core = MOR
 trade_goods = sulphur
 life_rating = 35
+terrain = hills_mine
 1913.1.1 = {
 	owner = FRA
 	controller = FRA

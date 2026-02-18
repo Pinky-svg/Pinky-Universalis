@@ -481,7 +481,7 @@
     artisans = {
         culture = fulbe
         religion = sunni
-        size = 20000
+        size = 30000
     }
 
     artisans = {
@@ -517,7 +517,7 @@
     zbankers = {
         culture = fulbe
         religion = sunni
-        size = 20000
+        size = 10000
     }
 
     slaves = {

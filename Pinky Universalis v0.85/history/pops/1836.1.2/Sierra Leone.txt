@@ -57,7 +57,7 @@
 	artisans = {
 		culture = western_nigritic
 		religion = animist
-		size = 7750
+		size = 146400
 	}
 
 	soldiers = {
@@ -69,7 +69,7 @@
 	zbankers = {
 		culture = western_nigritic
 		religion = animist
-		size = 148650
+		size = 10000
 	}
 
 	slaves = {

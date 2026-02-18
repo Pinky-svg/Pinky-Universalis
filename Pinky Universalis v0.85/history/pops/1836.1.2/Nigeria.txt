@@ -596,7 +596,7 @@
     artisans = {
         culture = tiv
         religion = animist
-        size = 20000
+        size = 30000
     }
 
     artisans = {
@@ -638,7 +638,7 @@
     zbankers = {
         culture = tiv
         religion = animist
-        size = 20000
+        size = 10000
     }
 
     slaves = {
@@ -938,7 +938,7 @@
     artisans = {
         culture = tiv
         religion = animist
-        size = 940
+        size = 10940
     }
 
     soldiers = {
@@ -950,7 +950,7 @@
     zbankers = {
         culture = tiv
         religion = animist
-        size = 20000
+        size = 10000
     }
 
     slaves = {
@@ -1186,7 +1186,7 @@
     artisans = {
         culture = hausa
         religion = sunni
-        size = 20000
+        size = 30000
     }
 
     artisans = {
@@ -1324,7 +1324,7 @@
     zbankers = {
         culture = hausa
         religion = sunni
-        size = 20000
+        size = 10000
     }
 
     slaves = {

@@ -1741,7 +1741,7 @@
     artisans = {
         culture = romanian
         religion = orthodox
-        size = 20000
+        size = 30000
     }
 
     artisans = {
@@ -1777,7 +1777,7 @@
     zbankers = {
         culture = romanian
         religion = orthodox
-        size = 20000
+        size = 10000
     }
 }
 #Moldavia Region (1356000)
@@ -2069,13 +2069,13 @@
     artisans = {
         culture = romanian
         religion = orthodox
-        size = 800
+        size = 5850
     }
 
     zbankers = {
         culture = romanian
         religion = orthodox
-        size = 15050
+        size = 10000
     }
 
     aristocrats = {

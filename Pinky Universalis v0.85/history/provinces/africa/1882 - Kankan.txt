@@ -4,6 +4,7 @@ add_core = JAL
 add_core = SEG
 trade_goods = iron
 life_rating = 30
+terrain = plains_mine
 1913.1.1 = {
 owner = FRA
 controller = FRA

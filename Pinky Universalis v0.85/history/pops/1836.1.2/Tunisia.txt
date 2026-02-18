@@ -85,7 +85,7 @@
 	artisans = {
 		culture = berber
 		religion = sunni
-		size = 6450
+		size = 115025
 	}
 
 	soldiers = {
@@ -97,7 +97,7 @@
 	zbankers = {
 		culture = berber
 		religion = sunni
-		size = 118575
+		size = 10000
 	}
 
 	slaves = {

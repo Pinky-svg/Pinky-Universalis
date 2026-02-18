@@ -858,7 +858,7 @@
     artisans = {
         culture = southern_bantu
         religion = animist
-        size = 2200
+        size = 27200
     }
 
     soldiers = {
@@ -870,7 +870,7 @@
     zbankers = {
         culture = southern_bantu
         religion = animist
-        size = 35000
+        size = 10000
     }
 
     aristocrats = {
@@ -1078,7 +1078,7 @@
     artisans = {
         culture = southern_bantu
         religion = animist
-        size = 20000
+        size = 28400
     }
 
     artisans = {
@@ -1096,7 +1096,7 @@
     zbankers = {
         culture = southern_bantu
         religion = animist
-        size = 18400
+        size = 10000
     }
 
     slaves = {
@@ -1147,7 +1147,7 @@
     artisans = {
         culture = southern_bantu
         religion = animist
-        size = 20000
+        size = 28620
     }
 
     soldiers = {
@@ -1159,7 +1159,7 @@
     zbankers = {
         culture = southern_bantu
         religion = animist
-        size = 18620
+        size = 10000
     }
 
     slaves = {
@@ -1281,7 +1281,7 @@
     artisans = {
         culture = southern_bantu
         religion = animist
-        size = 20000
+        size = 26000
     }
 
     artisans = {
@@ -1305,7 +1305,7 @@
     zbankers = {
         culture = southern_bantu
         religion = animist
-        size = 16000
+        size = 10000
     }
 }
 #Johannesburg (102400/25600 POPS)
@@ -1546,7 +1546,7 @@
     artisans = {
         culture = southern_bantu
         religion = animist
-        size = 1300
+        size = 155000
     }
 
     soldiers = {
@@ -1558,7 +1558,7 @@
     zbankers = {
         culture = southern_bantu
         religion = animist
-        size = 163700
+        size = 10000
     }
 
     slaves = {
@@ -1830,7 +1830,7 @@
     artisans = {
         culture = southern_bantu
         religion = animist
-        size = 8000
+        size = 160900
     }
 
     soldiers = {
@@ -1842,7 +1842,7 @@
     zbankers = {
         culture = southern_bantu
         religion = animist
-        size = 162900
+        size = 10000
     }
 
     slaves = {
