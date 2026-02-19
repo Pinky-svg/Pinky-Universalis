@@ -58,6 +58,31 @@ political_decisions = {
 
 	
 
+	embrace_bedouin_minority = {
+		picture = map_arabia
+		potential = {
+			tag = EGY
+			NOT = { has_country_flag = bedouin_minority }
+		}
+
+		allow = {
+			is_vassal = no
+			EGY = {
+				all_core = { owned_by = THIS }
+			}
+			has_country_flag = annazah_eaten			
+			war = no
+		}
+
+		effect = {
+			set_country_flag = bedouin_minority
+			add_accepted_culture = bedouin
+			TUR_926 = { add_core = THIS }
+			TUR_923 = { add_core = THIS }
+			TUR_901 = { add_core = THIS }
+		}
+	}
+
 	
 
 	conquest_of_darfur = {

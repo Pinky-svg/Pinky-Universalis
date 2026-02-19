@@ -1,10 +1,33 @@
 To Dos:
+
+remove bookmark 1.1.36 entfernen geht nicht
+remove Amarican decisions, events and stuff
+SAF 50 infamy after taking Boar states in 1880 -> sollte gelöst sein
+unciv gebit Turkmenistan gelöst, und zanzibar ka is nur ki problem
+
+
+
+
+
+
 Mine Expansion on addet Coal, Iro, Sulpher -> add "terrain = mountain_mine" und Pops zu artisans 
 zbankers = {
 		culture = french
 		religion = catholic
 		size = 10000
 	}
-remove bookmark
-remove Amarican decisions, events and stuff
-SAF 50 infamy after taking Boar states in 1880
+terrain = arctic_mine
+terrain = farmlands_mine
+terrain = forest_mine
+terrain = hills_mine
+terrain = woods_mine
+terrain = mountain_mine
+terrain = steppe_mine
+terrain = plains_mine
+terrain = jungle_mine
+terrain = marsh_mine
+terrain = desert_mine
+terrain = coastal_desert_mine
+terrain = urban_mine
+
+absturz: 1896

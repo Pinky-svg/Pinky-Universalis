@@ -468,11 +468,11 @@ political_decisions = {
 			set_country_flag = boer_war
 			war = {
 				target = TRN
-				attacker_goal = { casus_belli = conquest }
+				attacker_goal = { casus_belli = conquest_free }
 			}
 			war = {
 				target = ORA
-				attacker_goal = { casus_belli = conquest }
+				attacker_goal = { casus_belli = conquest_free }
 			}
 			
 		}

@@ -64,22 +64,22 @@ political_decisions = {
 			TUR_890 = { add_core = THIS }
 			TUR_889 = { add_core = THIS }
 			1781 = {
-				add_core = SOK
+				add_core = THIS
 			}
 			924 = {
-				add_core = SOK
+				add_core = THIS
 			}
 			928 = {
-				add_core = SOK
+				add_core = THIS
 			}
 			923 = {
-				add_core = SOK
+				add_core = THIS
 			}
 			925 = {
-				add_core = SOK
+				add_core = THIS
 			}
 			885 = {
-				add_core = SOK
+				add_core = THIS
 			}
 		}
 		
@@ -112,53 +112,53 @@ political_decisions = {
 		}
 	}
 
-    revoke_kurdish_autonomy = {
-        picture = old_kurdistan_map
-        potential = {
-            tag = PER
-            NOT = { has_country_flag = kurdish_states_integrated }
-            is_our_vassal = MKN
-			NOT = { has_global_flag = mp_1836_literacy_setup }
-        }
-
-        allow = {
-			war = no
-            OR = {
-                civilization_progress = 0.7
-                civilized = yes
-            }
-        }
-
-        effect = {
-            set_country_flag = kurdish_states_integrated
-            prestige = 5
-            any_country = {
-                limit = {
-                    vassal_of = THIS
-                    OR = {
-                        primary_culture = kurdish
-                        primary_culture = azerbaijani
-                    }
-                    ai = yes
-                }
-                annex_to = THIS
-            }
-			## Audax Validator "." Ignore_NEXT
-			any_owned = {
-				limit = { has_building = province_selector }
-				province_selector = -1
-			}
-            random_country = {
-                limit = {
-                    vassal_of = THIS
-                    primary_culture = kurdish
-                    ai = no
-                }
-                PER = { release_vassal = THIS }
-            }
-        }
-        ai_will_do = { factor = 1 }
-    }
+#    revoke_kurdish_autonomy = {
+#        picture = old_kurdistan_map
+#        potential = {
+#            tag = PER
+#            NOT = { has_country_flag = kurdish_states_integrated }
+#            is_our_vassal = MKN
+#			NOT = { has_global_flag = mp_1836_literacy_setup }
+#        }
+#
+#        allow = {
+#			war = no
+#            OR = {
+#                civilization_progress = 0.7
+#                civilized = yes
+#            }
+#        }
+#
+#        effect = {
+#            set_country_flag = kurdish_states_integrated
+#            prestige = 5
+#            any_country = {
+#                limit = {
+#                    vassal_of = THIS
+#                    OR = {
+#                        primary_culture = kurdish
+#                        primary_culture = azerbaijani
+#                    }
+#                    ai = yes
+#                }
+#                annex_to = THIS
+#            }
+#			## Audax Validator "." Ignore_NEXT
+#			any_owned = {
+#				limit = { has_building = province_selector }
+#				province_selector = -1
+#			}
+#            random_country = {
+#                limit = {
+#                    vassal_of = THIS
+#                    primary_culture = kurdish
+#                    ai = no
+#                }
+#                PER = { release_vassal = THIS }
+#            }
+#        }
+#        ai_will_do = { factor = 1 }
+#    }
 
 	revoke_coastal_emirate_autonomy = {
 		picture = persia_map

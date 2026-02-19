@@ -8,6 +8,16 @@ political_decisions = {
 					1696 = { empty = yes }
 				}
 				AND = {
+					tag = TRK
+					owns = 1192
+					1193 = { empty = yes }
+					1081 = { empty = yes }
+					2702 = { empty = yes }
+					2695 = { empty = yes }
+					1194 = { empty = yes }
+					1205 = { empty = yes }
+				}
+				AND = {
 					tag = ALD
 					owns = 1713
 					1714 = { empty = yes }
@@ -95,6 +105,16 @@ political_decisions = {
 					owns = 2003
 					2004 = { empty = yes }
 					medicine = 1
+				}
+				AND = {
+					tag = TRK
+					owns = 1192
+					1193 = { empty = yes }
+					1081 = { empty = yes }
+					2702 = { empty = yes }
+					2695 = { empty = yes }
+					1194 = { empty = yes }
+					1205 = { empty = yes }
 				}
 				AND = {
 					owns = 2057
@@ -260,6 +280,17 @@ political_decisions = {
 				1696 = { secede_province = THIS }
 				1773 = { secede_province = THIS }
 				1774 = { secede_province = THIS }
+			}
+			random_owned = {
+				limit = {
+					owner = { owns = 1192 }
+				}
+				1193 = { secede_province = THIS }
+				1081 = { secede_province = THIS }
+				2702 = { secede_province = THIS }
+				2695 = { secede_province = THIS }
+				1194 = { secede_province = THIS }
+				1205 = { secede_province = THIS }
 			}
 			random_owned = {
 				limit = {
