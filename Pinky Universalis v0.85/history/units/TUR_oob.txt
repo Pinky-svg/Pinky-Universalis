@@ -266,7 +266,7 @@ army = {
 
 army = {
 	name = "Army of Anatolia"
-	location = 909
+	location = 875
 	regiment = {
 		name= "5. Piyade Tümeni"
 		type = infantry

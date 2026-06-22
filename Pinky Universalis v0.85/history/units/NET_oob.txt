@@ -158,7 +158,7 @@ army = {
 
 army = {
 	name = "2e Divisie"
-	location = 381
+	location = 375
 	regiment = {
 		name = "4e Infanterie Brigade"
 		type = infantry
@@ -329,7 +329,7 @@ navy = {
 
 navy = {
 	name = "Koninklijke WI Marine"
-	location = 2234 #Curacao
+	location = 375 #Amsterdam
 
 	ship = {
 		name= "Admiraal Generaal"

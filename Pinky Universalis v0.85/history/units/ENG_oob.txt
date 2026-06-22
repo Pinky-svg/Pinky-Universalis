@@ -598,8 +598,8 @@ army = {
 }
 
 army = {
-	name = "The Canada Garrison"
-	location = 46
+	name = "The Channel Garrison"
+	location = 303
 	
 	regiment = {
 		name= "Prince of Wales's Lancers"
@@ -658,8 +658,8 @@ army = {
 }
 
 army = {
-	name = "The South Africa Garrison"
-	location = 2096
+	name = "The Singapore Garrison"
+	location = 1384
 	
 	regiment = {
 		name= "The East Yorkshire Regiment"
@@ -683,7 +683,7 @@ army = {
 
 army = {
 	name = "The Australia Garrison"
-	location = 2476
+	location = 1384
 	regiment = {
 		name= "1.8th Division"
 		type = infantry
@@ -705,7 +705,7 @@ army = {
 
 army = {
     name = "The British Army in India"
-    location = 1297
+    location = 1296
     regiment = {
         name = "9th Queen's Royal Lancers"
         type = hussar
@@ -1485,8 +1485,8 @@ navy = {
 }
 
 navy = {
-	name = "North America Station"
-	location = 71 #Halifax
+	name = "Singapore Station"
+	location = 1384 #Singapore
 	ship = {
 		name= "HMS Saint Vincent"
 		type = manowar

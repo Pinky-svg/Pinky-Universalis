@@ -267,33 +267,6 @@ army = {
 	}
 }
 
-army = {
-	name = "Ejército de Cuba"
-	location = 2209
-	
-	regiment = {
-		name = "1. Brigada Colonial"
-		type = infantry
-		home = 474
-	}
-	
-	regiment = {
-		name = "2. Brigada Colonial"
-		type = infantry
-		home = 2209
-	}
-}
-
-army = {
-	name = "Ejército de Puerto Rico"
-	location = 2222
-	
-	regiment = {
-		name = "3. Brigada Colonial"
-		type = infantry
-		home = 475
-	}
-}
 
 army = {
 	name = "Ejército de Filipinas"
@@ -319,7 +292,7 @@ army = {
 
 navy = {
 	name = "Armada de Cuba"
-	location = 2212
+	location = 474
 	
 	ship = {
 		name = "Santiago"
