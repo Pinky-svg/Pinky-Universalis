@@ -306,6 +306,8 @@ political_decisions = {
 			NOT = { has_global_flag = tetuan_war }
 		}
 		allow = {
+			NOT = { year = 1840 }
+			NOT = { badboy = 0.16 }
 			owns = 513
 			owns = 509
 			war = no
