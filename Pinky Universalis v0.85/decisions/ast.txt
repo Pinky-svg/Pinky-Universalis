@@ -1,11 +1,14 @@
 political_decisions = {
     integrate_new_zealand = {
+		picture = new_zealand
         potential = {
             tag = AST
             exists = NZL
         }
         allow = {
             is_our_vassal = NZL
+			2511 = { empty = no }
+			2515 = { empty = no }
             #Add any more conditions here
         }
         effect = {
