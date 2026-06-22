@@ -1,0 +1,17 @@
+political_decisions = {
+    integrate_new_zealand = {
+        potential = {
+            tag = AST
+            exists = NZL
+        }
+        allow = {
+            is_our_vassal = NZL
+            #Add any more conditions here
+        }
+        effect = {
+            inherit = NZL
+            #Add any more effects here
+        }
+
+    }
+}
