@@ -35,46 +35,6 @@ political_decisions = {
 		}
 	}
 
-	invite_european_military_advisors = {
-		picture = marching_soldiers
-		potential = {
-			OR = {
-				capital_scope = { continent = africa }
-				capital_scope = { continent = asia }
-				capital_scope = { continent = middle_east }
-				capital_scope = { continent = east_indies }
-				capital_scope = { continent = polynesia }
-			}
-			NOT = { tag = TUR }
-			NOT = { has_country_flag = foreign_military_advisors }
-			NOT = {
-				OR = {
-					has_global_flag = 1913_bookmark
-					has_global_flag = ww1_bookmark
-				}
-			}
-			NOT = {
-				OR = {
-					primary_culture = british
-					primary_culture = boer
-				}
-			}
-		}
-
-		allow = {
-			civilized = yes
-			money = 500000
-		}
-
-		effect = {
-			set_country_flag = foreign_military_advisors
-			add_country_modifier = { name = european_military_advisors duration = 7300 }
-			money = -500000
-		}
-
-		ai_will_do = { factor = 0 }
-	}
-
 	form_somalia = {
 		picture = greater_somalia
 		potential = {
