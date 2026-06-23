@@ -650,20 +650,33 @@ disable_loans = {
 
 ########## IMMIGRATION ATTRACTION ##########
 
-great_power_immigration = {
+#great_power_immigration = {
+#	trigger = {
+#		is_greater_power = yes
+#		capital_scope = {
+#			OR = {
+#				continent = north_america
+#				continent = south_america
+#				continent = oceania
+#			}
+#		}
+#	}
+#	global_immigrant_attract = 0.25
+#	icon = 7
+#}
+
+pinky_immigration = {
 	trigger = {
-		is_greater_power = yes
-		capital_scope = {
 			OR = {
-				continent = north_america
-				continent = south_america
-				continent = oceania
+			primary_culture = australian
+			primary_culture = boer
+			accepted_culture = boer
 			}
 		}
-	}
 	global_immigrant_attract = 0.25
 	icon = 7
 }
+
 
 new_zealand_immigration = {
 	trigger = {

@@ -8,8 +8,8 @@ political_decisions = {
         allow = {
             is_our_vassal = NZL
 			2511 = { empty = no }
-			2515 = { empty = no }
-            #Add any more conditions here
+			2515 = { empty = no }            
+			nationalism_n_imperialism = 1
         }
         effect = {
             inherit = NZL
