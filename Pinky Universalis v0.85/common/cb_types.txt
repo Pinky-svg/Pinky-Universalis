@@ -5576,6 +5576,7 @@ oriental_war = {
 	}
 
 	po_remove_prestige = yes
+	po_status_quo = yes
 
 	war_name = ORIENTAL_WAR_NAME
 
