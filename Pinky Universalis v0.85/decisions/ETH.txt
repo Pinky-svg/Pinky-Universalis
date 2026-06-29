@@ -47,10 +47,6 @@ political_decisions = {
 		picture = conquest_of_the_south
 		potential = {
 			tag = ETH
-			owns = 1862
-			owns = 1860
-			owns = 1861
-			owns = 1865
 			exists = yes
 			NOT = { has_country_flag = agar_maqnat }
 			3 = { empty = yes }
@@ -59,17 +55,10 @@ political_decisions = {
 
 		allow = {
 			war = no
-			OR = {
-				land_reform = yes_land_reform
-				admin_reform = yes_admin_reform
-				AND = {
-					foreign_weapons = yes_foreign_weapons
-					foreign_officers = yes_foreign_officers
-				}
-				civilization_progress = 0.4
-				civilized = yes
-				year = 1875
-			}
+			owns = 1862
+			owns = 1860
+			owns = 1861
+			owns = 1865
 		}
 
 		effect = {
@@ -103,6 +92,145 @@ political_decisions = {
 		}
 
 	}
+	
+	kenya_expansion = {
+		picture = conquest_of_the_south
+		potential = {
+			tag = ETH
+			exists = yes
+			NOT = { has_country_flag = kenya_expan }
+			2024 = { empty = yes }
+		}
+
+		allow = {
+			war = no
+			OR = {
+				AND = {
+					owns = 1864
+					owns = 2030	
+				}
+				AND = {
+					owns = 1864
+					inorganic_chemistry = 1
+				}
+			}
+		}
+
+		effect = {
+			set_country_flag = kenya_expan
+			2031 = {
+				add_core = THIS
+				secede_province = THIS
+				life_rating = 20
+			}
+			2025 = {
+				add_core = THIS
+				secede_province = THIS
+				life_rating = 20
+			}
+			2024 = {
+				add_core = THIS
+				secede_province = THIS
+				life_rating = 20
+			}
+			2032 = {
+				add_core = THIS
+				secede_province = THIS
+				life_rating = 20
+			}
+			2027 = {
+				add_core = THIS
+				secede_province = THIS
+				life_rating = 20
+			}
+		}
+
+	}
+	
+	zanzibar_expansion = {
+		picture = conquest_of_the_south
+		potential = {
+			tag = ETH
+			exists = yes
+			NOT = { has_country_flag = zanzibar_expan }
+			2045 = { empty = yes }
+		}
+
+		allow = {
+			war = no
+			owns = 2048
+			inorganic_chemistry = 1
+		}
+
+		effect = {
+			set_country_flag = zanzibar_expan
+			2047 = {
+				add_core = THIS
+				secede_province = THIS
+				life_rating = 20
+			}
+			2045 = {
+				add_core = THIS
+				secede_province = THIS
+				life_rating = 20
+			}
+		}
+
+	}
+	
+	lindi_expansion = {
+		picture = conquest_of_the_south
+		potential = {
+			tag = ETH
+			exists = yes
+			NOT = { has_country_flag = lindi_expan }
+			2041 = { empty = yes }
+		}
+
+		allow = {
+			war = no
+			owns = 2038
+			inorganic_chemistry = 1
+		}
+
+		effect = {
+			set_country_flag = lindi_expan
+			2042 = {
+				add_core = THIS
+				secede_province = THIS
+				life_rating = 20
+			}
+			2041 = {
+				add_core = THIS
+				secede_province = THIS
+				life_rating = 20
+			}
+			2040 = {
+				add_core = THIS
+				secede_province = THIS
+				life_rating = 20
+			}
+		}
+
+	}
+	
+	accepted_lacustrine_bantu = {
+		potential = {
+			tag = ETH
+			NOT = { has_country_flag = accepted_lacustrine }
+		}
+
+		allow = {
+			revolution_n_counterrevolution = 1
+		}
+
+		effect = {
+			set_country_flag = accepted_lacustrine
+			prestige = 5
+			add_accepted_culture = lacustrine_bantu
+		}
+	}
+	
 
 	become_negusa_nagast = {
 		picture = become_negusa_nagast
@@ -129,6 +257,7 @@ political_decisions = {
 		effect = {
 			set_country_flag = is_negusa_nagast
 			prestige = 25
+			add_accepted_culture = somali
 			any_owned = {
 				limit = {
 					OR = {
@@ -181,6 +310,58 @@ political_decisions = {
 				life_rating = 5
 			}
 			capital = 1859
+		}
+	}
+	
+	zanzibar_purchase = {
+		potential = {
+			war = no
+			NOT = {
+				has_country_flag = zanzibar_purch
+			}
+			tag = ETH
+			OMA = {
+				OR = {
+					owns = 2030
+					owns = 2029
+					owns = 2037
+					owns = 2048
+					owns = 2036 
+					owns = 2038
+					owns = 2039 
+				}
+			}
+		}
+		
+		allow = {
+			prestige = 1
+			owns = 1870
+			money = 72000
+		}
+		
+		effect = {
+			money = -72000
+			add_core = 2030
+			add_core = 2029
+			add_core = 2037
+			add_core = 2048
+			add_core = 2036
+			add_core = 2038
+			add_core = 2039
+		OMA = {
+			money = 72000
+			2030 = { secede_province = ETH }
+			2029 = { secede_province = ETH }
+			2037 = { secede_province = ETH }
+			2048 = { secede_province = ETH }
+			2036 = { secede_province = ETH }
+			2038 = { secede_province = ETH }
+			2039 = { secede_province = ETH }
+		}
+			set_country_flag = zanzibar_purch
+		}
+		ai_will_do = {
+			factor = 1
 		}
 	}
 }
