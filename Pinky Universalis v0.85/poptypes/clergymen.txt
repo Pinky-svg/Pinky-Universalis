@@ -207,6 +207,14 @@ country_migration_target =
 	}
 	modifier = {
 		factor = 10
+		OR = {
+			primary_culture = boer
+		}
+		NOT = { continent = europe }
+		THIS = { has_pop_culture = dutch }
+	}
+	modifier = {
+		factor = 10
 		primary_culture = british
 		continent = asia
 		THIS = { has_pop_culture = british }
@@ -246,14 +254,14 @@ country_migration_target =
 	}
 	modifier = {
 		factor = 0.01
-		OR = {
-			continent = africa
-			continent = asia
-			continent = middle_east
-			continent = europe
-			continent = east_indies
-			continent = polynesia
-		}
+#		OR = {
+#			continent = africa
+#			continent = asia
+#			continent = middle_east
+#			continent = europe
+#			continent = east_indies
+#			continent = polynesia
+#		}
 		OR = {
 			AND = {
 				NOT = { primary_culture = ashkenazi }
