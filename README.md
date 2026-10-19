@@ -23,3 +23,4 @@ to do's for 1.1
 - [ ] Socialists support Political Reforms (`common/ideologies.txt` -> `add_political_reform = { base = 1 }`)
 - [ ] Adjust migration (AST, SAF, UK is too strong for UK)
 - [ ] Acquire core costs more WS or reduce overlapping cores (Turky - Persia)
+- [ ] Remove states changing sizes while the country that owns the state is at wa
