@@ -1,3 +1,5 @@
+to do's for 1.1
+
 ### Map & Terrain Adjustments (`map/`, `history/provinces/`)
 - [ ] Sahara coastal desert / Last province on the Sahara coast gets annexed as well
 - [ ] Congo question: turns into forest or becomes available for colonization
