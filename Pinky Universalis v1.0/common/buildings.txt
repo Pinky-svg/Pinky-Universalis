@@ -904,7 +904,7 @@ fort = {
 		province = yes
 		# Audax Validator "." Ignore_NEXT
 
-		farm_rgo_size = 1
+		farm_rgo_size = 2
 	}
 
 	## Mine
@@ -930,5 +930,5 @@ fort = {
 		pop_build_factory = yes
 		# Audax Validator "." Ignore_NEXT
 
-		mine_rgo_size = 1
+		mine_rgo_size = 2
 	}
