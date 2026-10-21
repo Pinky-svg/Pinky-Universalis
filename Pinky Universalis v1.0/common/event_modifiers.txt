@@ -616,7 +616,7 @@ immunity_from_influenza = {
 }
 
 strategic_rgo = {
-	local_rgo_throughput = 2
+	local_rgo_throughput = 1.5
 	icon = 70
 }
 
