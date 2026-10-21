@@ -3,12 +3,12 @@ to do's for 1.1
 ### Map & Terrain Adjustments (`map/`, `history/provinces/`)
 - [ ] Sahara coastal desert / Last province on the Sahara coast gets annexed as well
 - [ ] Congo question: turns into forest or becomes available for colonization
-- [ ] Increase starting farmland size (Africa, Serbia to Afghanistan)
+- [x] Increase starting farmland size (Africa, Serbia to Afghanistan) ---> double farmland size
 - [ ] Strategic modifiers on large provinces (Tabriz, Congo)
 
 ### History & Setup (`history/countries/`, `history/provinces/`)
 - [ ] Adjust nations to regions in West Africa
-- [ ] More industrial resources (Afghanistan, West Africa)
+- [x] More industrial resources (Afghanistan, West Africa) ---> double mine size
 - [ ] Check provinces so resources aren't overwritten by rubber or oil
 
 ### Decisions (`decisions/`)
