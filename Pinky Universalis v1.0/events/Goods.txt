@@ -777,7 +777,6 @@ province_event = {
 			province_id = 1833
 			province_id = 1836
 			province_id = 1837
-			province_id = 1848
 			province_id = 1850
 			province_id = 1890
 			province_id = 1891
@@ -787,12 +786,9 @@ province_event = {
 			province_id = 1398
 			province_id = 1414
 			province_id = 1985
-			province_id = 1406
 			province_id = 1318
 			province_id = 2057
 			province_id = 2058
-			province_id = 1980
-			province_id = 1981
 			province_id = 2624
 		}
 		not = { trade_goods = rubber }
@@ -2208,7 +2204,7 @@ province_event = {
 
 	trigger = {
 		year = 1927
-		province_id = 923		# Mosul
+		province_id = 924		# Zaxho
 		not = { trade_goods = oil }
 		OR = {
 			owner = {

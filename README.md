@@ -9,7 +9,7 @@ to do's for 1.1
 ### History & Setup (`history/countries/`, `history/provinces/`)
 - [ ] Adjust nations to regions in West Africa
 - [x] More industrial resources (Afghanistan, West Africa) ---> double mine size
-- [ ] Check provinces so resources aren't overwritten by rubber or oil
+- [x] Check provinces so resources aren't overwritten by rubber or oil
 
 ### Decisions (`decisions/`)
 - [ ] Royal Spain can also take the Morocco decision
