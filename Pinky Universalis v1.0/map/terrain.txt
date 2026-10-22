@@ -214,29 +214,29 @@ categories =  {
 	}
 	
 	jungle = {
-		movement_cost = 1.8
-		defence = 2
+		movement_cost = 1.2
+		defence = 1
 		color = { 32 151 0 }
 		farm_rgo_size = 0
 		farm_rgo_eff = 0
 		mine_rgo_size = 0
 		mine_rgo_eff = 0
 		supply_limit = 1
-		min_build_railroad = 3
+		min_build_railroad = 2
 		min_build_mines = 6
 		combat_width = -0.25
 	}	
 	
 	jungle_mine = {
-		movement_cost = 1.8
-		defence = 2
+		movement_cost = 1.2
+		defence = 1
 		color = { 32 151 0 }
 		farm_rgo_size = 0
 		farm_rgo_eff = 0
 		mine_rgo_size = 0
 		mine_rgo_eff = 0
 		supply_limit = 1
-		min_build_railroad = 3
+		min_build_railroad = 2
 		min_build_farmland = 50
 		combat_width = -0.25
 	}	
@@ -272,27 +272,27 @@ categories =  {
 	}
 	
 	desert = {
-		movement_cost = 1.4
+		movement_cost = 1.0
 		color = { 218 195 0 }
 	
 		farm_rgo_size = 0
 		farm_rgo_eff = 0
 		mine_rgo_size = 0
 		mine_rgo_eff = 0
-		min_build_railroad = 3
+		min_build_railroad = 2
 		min_build_farmland = 49
 		min_build_mines = 6
 	}
 	
 	desert_mine = {
-		movement_cost = 1.4
+		movement_cost = 1.0
 		color = { 218 195 0 }
 	
 		farm_rgo_size = 0
 		farm_rgo_eff = 0
 		mine_rgo_size = 0
 		mine_rgo_eff = 0
-		min_build_railroad = 3
+		min_build_railroad = 2
 		min_build_farmland = 50
 	}
 	
