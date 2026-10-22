@@ -93,6 +93,7 @@ country_event = {
 		any_country = {
 			any_owned = {
 				limit = {
+					owner = { war = no }
 					state_scope = {
 						## Audax Validator "." Ignore_NEXT
 						NOT = { total_pops = 150000 }
@@ -104,6 +105,7 @@ country_event = {
 		any_country = {
 			any_owned = {
 				limit = {
+					owner = { war = no }
 					year = 1860
 					state_scope = {
 						## Audax Validator "." Ignore_NEXT
@@ -116,6 +118,7 @@ country_event = {
 		any_country = {
 			any_owned = {
 				limit = {
+					owner = { war = no }
 					year = 1885
 					state_scope = {
 						## Audax Validator "." Ignore_NEXT
@@ -128,6 +131,7 @@ country_event = {
 		any_country = {
 			any_owned = {
 				limit = {
+					owner = { war = no }
 					year = 1910
 					state_scope = {
 						## Audax Validator "." Ignore_NEXT
@@ -140,6 +144,7 @@ country_event = {
 		any_country = {
 			any_owned = {
 				limit = {
+					owner = { war = no }
 					NOT = { year = 1860 }
 					## Audax Validator "." Ignore_NEXT
 					state_scope = { total_pops = 150000 }
@@ -151,6 +156,7 @@ country_event = {
 		any_country = {
 			any_owned = {
 				limit = {
+					owner = { war = no }
 					NOT = { year = 1885 }
 					## Audax Validator "." Ignore_NEXT
 					state_scope = { total_pops = 200000 }
@@ -162,6 +168,7 @@ country_event = {
 		any_country = {
 			any_owned = {
 				limit = {
+					owner = { war = no }
 					NOT = { year = 1910 }
 					## Audax Validator "." Ignore_NEXT
 					state_scope = { total_pops = 300000 }
@@ -173,6 +180,7 @@ country_event = {
 		any_country = {
 			any_owned = {
 				limit = {
+					owner = { war = no }
 					year = 1910
 					## Audax Validator "." Ignore_NEXT
 					state_scope = { total_pops = 450000 }
@@ -184,6 +192,7 @@ country_event = {
 		any_country = {
 			any_owned = {
 				limit = {
+					owner = { war = no }
 					state_scope = {
 						## Audax Validator "." Ignore_NEXT
 						total_pops = 150000
@@ -198,6 +207,7 @@ country_event = {
 		any_country = {
 			any_owned = {
 				limit = {
+					owner = { war = no }
 					year = 1860
 					state_scope = {
 						## Audax Validator "." Ignore_NEXT
@@ -213,6 +223,7 @@ country_event = {
 		any_country = {
 			any_owned = {
 				limit = {
+					owner = { war = no }
 					year = 1885
 					state_scope = {
 						## Audax Validator "." Ignore_NEXT
@@ -228,6 +239,7 @@ country_event = {
 		any_country = {
 			any_owned = {
 				limit = {
+					owner = { war = no }
 					year = 1910
 					state_scope = {
 						## Audax Validator "." Ignore_NEXT
@@ -243,6 +255,7 @@ country_event = {
 		any_country = {
 			any_owned = {
 				limit = {
+					owner = { war = no }
 					NOT = { year = 1860 }
 					## Audax Validator "." Ignore_NEXT
 					state_scope = { total_pops = 300000 }
@@ -254,6 +267,7 @@ country_event = {
 		any_country = {
 			any_owned = {
 				limit = {
+					owner = { war = no }
 					NOT = { year = 1885 }
 					## Audax Validator "." Ignore_NEXT
 					state_scope = { total_pops = 400000 }
@@ -265,6 +279,7 @@ country_event = {
 		any_country = {
 			any_owned = {
 				limit = {
+					owner = { war = no }
 					NOT = { year = 1910 }
 					## Audax Validator "." Ignore_NEXT
 					state_scope = { total_pops = 600000 }
@@ -276,6 +291,7 @@ country_event = {
 		any_country = {
 			any_owned = {
 				limit = {
+					owner = { war = no }
 					year = 1910
 					## Audax Validator "." Ignore_NEXT
 					state_scope = { total_pops = 900000 }
