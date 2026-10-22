@@ -2,9 +2,9 @@ to do's for 1.1
 
 ### Map & Terrain Adjustments (`map/`, `history/provinces/`)
 - [ ] Sahara coastal desert / Last province on the Sahara coast gets annexed as well
-- [ ] Congo question: turns into forest or becomes available for colonization
+- [x] Congo question: turns into forest or becomes available for colonization ---> forest
 - [x] Increase starting farmland size (Africa, Serbia to Afghanistan) ---> double farmland size
-- [ ] Strategic modifiers on large provinces (Tabriz, Congo)
+- [x] Strategic modifiers on large provinces (Tabriz, Congo)
 
 ### History & Setup (`history/countries/`, `history/provinces/`)
 - [ ] Adjust nations to regions in West Africa
@@ -20,7 +20,7 @@ to do's for 1.1
 - [ ] Remove Sudan event
 
 ### Ideologies & Game Rules (`common/ideologies.txt`, `common/defines.lua`, `poptypes/`)
-- [ ] Socialists support Political Reforms (`common/ideologies.txt` -> `add_political_reform = { base = 1 }`)
+- [x] Socialists support Political Reforms (`common/ideologies.txt` -> `add_political_reform = { base = 1 }`)
 - [ ] Adjust migration (AST, SAF, UK is too strong for UK)
 - [ ] Acquire core costs more WS or reduce overlapping cores (Turky - Persia)
-- [ ] Remove states changing sizes while the country that owns the state is at wa
+- [x] Remove states changing sizes while the country that owns the state is at wa
