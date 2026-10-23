@@ -1,8 +1,6 @@
-owner = WRI
-controller = WRI
-add_core = WRI
+owner = BEN
+controller = BEN
 add_core = BEN
-add_core = ARO
 trade_goods = wool
 life_rating = 30
 naval_base = 1

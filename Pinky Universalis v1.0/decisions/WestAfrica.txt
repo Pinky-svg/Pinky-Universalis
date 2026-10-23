@@ -6,8 +6,6 @@ political_decisions = {
 			}
 			OR = {
 				tag = BEN
-				tag = ARO
-				tag = WRI
 				
 			}
 		}
@@ -16,6 +14,7 @@ political_decisions = {
 			owns = 1928
 			owns = 1933
 			owns = 1931
+			owns = 1926
 		}
 		
 		effect = {
@@ -23,6 +22,15 @@ political_decisions = {
 			add_accepted_culture = hausa
 			add_accepted_culture = yoruba
 			1923 = {
+				add_core = THIS
+			}
+			1924 = {
+				add_core = THIS
+			}
+			1925 = {
+				add_core = THIS
+			}
+			1926 = {
 				add_core = THIS
 			}
 			1941 = {
@@ -34,6 +42,27 @@ political_decisions = {
 			1957 = {
 				add_core = THIS
 			}
+		}
+	}
+
+	expand_east = {
+		potential = {
+			NOT = {
+				has_global_flag = expand_east_to_ubangi
+			}
+			OR = {
+				tag = BEN
+
+			}
+		}
+
+		allow = {
+			state_n_government = 1
+		}
+
+		effect = {
+			set_global_flag = expand_east_to_ubangi
+			add_accepted_culture = ubangian
 		}
 	}
 	

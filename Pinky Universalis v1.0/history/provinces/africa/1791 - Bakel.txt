@@ -1,5 +1,6 @@
-owner = JAL
-controller = JAL
+owner = GBU
+controller = GBU
+add_core = GBU
 add_core = JAL
 add_core = TOO
 add_core = SEG

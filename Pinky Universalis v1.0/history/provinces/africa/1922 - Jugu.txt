@@ -1,6 +1,5 @@
-owner = BRG
-controller = BRG
-add_core = BRG
+owner = DAH
+controller = DAH
 add_core = DAH
 add_core = MAS
 trade_goods = wool

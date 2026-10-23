@@ -228,6 +228,7 @@ political_decisions = {
 			prestige = 10
 			add_accepted_culture = western_nigritic
 			add_accepted_culture = mossi
+			add_accepted_culture = berber
 			all_core = { add_core = MLI }
 			FRA_1783 = { add_core = MLI }
 			FRA_1788 = { add_core = MLI }

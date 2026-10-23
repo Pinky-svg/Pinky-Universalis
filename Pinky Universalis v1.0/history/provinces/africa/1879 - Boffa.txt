@@ -1,5 +1,6 @@
-owner = GBU
-controller = GBU
+owner = SEG
+controller = SEG
+add_core = SEG
 add_core = GBU
 add_core = JAL
 trade_goods = fruit

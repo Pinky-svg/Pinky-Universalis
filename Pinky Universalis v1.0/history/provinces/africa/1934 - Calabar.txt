@@ -1,7 +1,6 @@
-owner = CLA
-controller = CLA
-add_core = CLA
-add_core = ARO
+owner = BEN
+controller = BEN
+add_core = BEN
 trade_goods = fish
 life_rating = 30
 1913.1.1 = {

@@ -1,6 +1,5 @@
-owner = BRG
-controller = BRG
-add_core = BRG
+owner = DAH
+controller = DAH
 add_core = DAH
 trade_goods = grain
 life_rating = 30

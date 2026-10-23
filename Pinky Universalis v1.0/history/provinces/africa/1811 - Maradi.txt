@@ -1,6 +1,6 @@
-owner = DAM
-controller = DAM
-add_core = DAM
+owner = KBO
+controller = KBO
+add_core = KBO
 add_core = NIG
 trade_goods = wool
 life_rating = 30

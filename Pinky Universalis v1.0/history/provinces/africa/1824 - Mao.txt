@@ -1,8 +1,9 @@
-owner = KBO
-controller = KBO
+owner = WAD
+controller = WAD
+add_core = WAD
 add_core = KBO
 add_core = NIG
-add_core = WAD
+add_core = BAG
 trade_goods = wool
 life_rating = 30
 1913.1.1 = {

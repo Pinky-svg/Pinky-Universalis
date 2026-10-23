@@ -1,5 +1,6 @@
-owner = BAG
-controller = BAG
+owner = WAD
+controller = WAD
+add_core = WAD
 add_core = BAG
 trade_goods = fruit
 life_rating = 30
