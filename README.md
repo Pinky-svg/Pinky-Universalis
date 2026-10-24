@@ -1,4 +1,4 @@
-checksum: 
+checksum: OSOM
 
 # select the multiplayer bookmark
 
