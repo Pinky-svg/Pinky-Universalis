@@ -167,10 +167,7 @@ political_decisions = {
 			SUD = {
 				all_core = { owned_by = THIS }
 			}
-			OR = {
-				has_global_flag = mahdist_revolt
-				year = 1885
-			}
+			year = 1880
 			war = no
 		}
 

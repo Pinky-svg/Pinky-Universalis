@@ -1,26 +1,65 @@
-to do's for 1.1
+checksum: 
+
+# select the multiplayer bookmark
+
+### The 1.1 changes:
+- Doubled the size of farmlands and mines
+- Reduced movement penalties in jungle and desert, and reduced railway penalty by -1
+- Reduced jungle defense bonus to +1 defense only
+- Changed borders in West Africa; player nations: Sokoto (Fulani), Benin, Segou (Mali), and Ashanti / Kong
+- Removed Congo so it can be colonized
+- Fixed important RGOs so they don't get overwritten by rubber or oil
+- Socialists now vote for political reforms
+- Removed the Sudan revolt event
+- Prevented state sizes from changing while the owning country is at war
+
+
+=== MAJORS ===
+UK
+Prussia
+France
+Austria
+Russia
+Ottomans
+Japan
+Sardinia Piedmont / Two Sicilies
+Egypt
+Sokoto
+Persia
+Ethiopia
+
+=== MINORS ===
+Segou
+Benin
+Australia
+Scandinavia
+Netherlands
+Spain
+SAF/Zulu/SAR
+Algeria
+Maroco
+Portugal
+Ashanti/Kong
+Bukhara
+Sikh
+Belgium
+Portugal
+Greece
+Romania
+
+
+
+
+## to do for 1.2
 
 ### Map & Terrain Adjustments (`map/`, `history/provinces/`)
 - [ ] Sahara coastal desert / Last province on the Sahara coast gets annexed as well
-- [x] Congo question: turns into forest or becomes available for colonization ---> forest
-- [x] Increase starting farmland size (Africa, Serbia to Afghanistan) ---> double farmland size
-- [x] Strategic modifiers on large provinces (Tabriz, Congo)
-
-### History & Setup (`history/countries/`, `history/provinces/`)
-- [ ] Adjust nations to regions in West Africa
-- [x] More industrial resources (Afghanistan, West Africa) ---> double mine size
-- [x] Check provinces so resources aren't overwritten by rubber or oil
 
 ### Decisions (`decisions/`)
 - [ ] Royal Spain can also take the Morocco decision
 - [ ] Spain can annex Portugal if it is a puppet
 - [ ] (Portugal can move to Angola)
 
-### Events (`events/`)
-- [ ] Remove Sudan event
-
 ### Ideologies & Game Rules (`common/ideologies.txt`, `common/defines.lua`, `poptypes/`)
-- [x] Socialists support Political Reforms (`common/ideologies.txt` -> `add_political_reform = { base = 1 }`)
 - [ ] Adjust migration (AST, SAF, UK is too strong for UK)
 - [ ] Acquire core costs more WS or reduce overlapping cores (Turky - Persia)
-- [x] Remove states changing sizes while the country that owns the state is at wa
