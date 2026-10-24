@@ -1,9 +1,9 @@
-owner = WAD
-controller = WAD
+owner = CIV
+controller = CIV
 add_core = WAD
 add_core = BAG
 trade_goods = grain
-life_rating = 30
+life_rating = 15
 1913.1.1 = {
 owner = FRA
 controller = FRA
