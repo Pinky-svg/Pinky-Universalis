@@ -13,8 +13,8 @@ checksum:
 - Removed the Sudan revolt event
 - Prevented state sizes from changing while the owning country is at war
 
-
-=== MAJORS ===
+## MP Player Nations
+#### MAJORS
 UK
 Prussia
 France
@@ -28,7 +28,7 @@ Sokoto
 Persia
 Ethiopia
 
-=== MINORS ===
+##### MINORS
 Segou
 Benin
 Australia
