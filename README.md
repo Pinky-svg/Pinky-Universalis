@@ -15,37 +15,37 @@ checksum:
 
 ## MP Player Nations
 #### MAJORS
-UK
-Prussia
-France
-Austria
-Russia
-Ottomans
-Japan
-Sardinia Piedmont / Two Sicilies
-Egypt
-Sokoto
-Persia
-Ethiopia
+- UK
+- Prussia
+- France
+- Austria
+- Russia
+- Ottomans
+- Japan
+- Sardinia Piedmont / Two Sicilies
+- Egypt
+- Sokoto
+- Persia
+- Ethiopia
 
 ##### MINORS
-Segou
-Benin
-Australia
-Scandinavia
-Netherlands
-Spain
-SAF/Zulu/SAR
-Algeria
-Maroco
-Portugal
-Ashanti/Kong
-Bukhara
-Sikh
-Belgium
-Portugal
-Greece
-Romania
+- Spain
+- Segou
+- Benin
+- Australia
+- Scandinavia
+- Netherlands
+- SAF/Zulu/SAR
+- Algeria
+- Maroco
+- Portugal
+- Ashanti/Kong
+- Bukhara
+- Sikh
+- Belgium
+- Portugal
+- Greece
+- Romania
 
 
 
